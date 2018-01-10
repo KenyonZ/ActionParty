@@ -7,7 +7,8 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
   
-/**        
+/** 
+ * Author:kenyon       
  * Title:自定义注解     
  * Description: 标识是否忽略REST安全性检查
  */      
