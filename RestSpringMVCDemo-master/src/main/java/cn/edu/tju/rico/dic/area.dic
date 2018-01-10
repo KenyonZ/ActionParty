@@ -1,0 +1,3600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dic alias="行政区划字典">
+  <item key="46" text="海南省" leaf="false">
+    <item key="4690" text="省直辖县级行政单位" leaf="false">
+      <item key="469002" text="琼海市" leaf="true"/>
+      <item key="469005" text="文昌市" leaf="true"/>
+      <item key="469007" text="东方市" leaf="true"/>
+      <item key="469022" text="屯昌县" leaf="true"/>
+      <item key="469024" text="临高县" leaf="true"/>
+      <item key="469026" text="昌江黎族自治县" leaf="true"/>
+      <item key="469029" text="保亭黎族苗族自治县" leaf="true"/>
+      <item key="469030" text="琼中黎族苗族自治县" leaf="true"/>
+      <item key="469032" text="南沙群岛" leaf="true"/>
+      <item key="469001" text="五指山市" leaf="true"/>
+      <item key="469003" text="儋州市" leaf="true"/>
+      <item key="469006" text="万宁市" leaf="true"/>
+      <item key="469021" text="定安县" leaf="true"/>
+      <item key="469023" text="澄迈县" leaf="true"/>
+      <item key="469025" text="白沙黎族自治县" leaf="true"/>
+      <item key="469028" text="陵水黎族自治县" leaf="true"/>
+      <item key="469031" text="西沙群岛" leaf="true"/>
+      <item key="469033" text="中沙群岛的岛礁及其海域" leaf="true"/>
+      <item key="469027" text="乐东黎族自治县" leaf="true"/>
+    </item>
+    <item key="4601" text="海口市" leaf="false">
+      <item key="460106" text="龙华区" leaf="true"/>
+      <item key="460108" text="美兰区" leaf="true"/>
+      <item key="460105" text="秀英区" leaf="true"/>
+      <item key="460107" text="琼山区" leaf="true"/>
+    </item>
+    <item key="4602" text="三亚市" leaf="true"/>
+  </item>
+  <item key="45" text="广西壮族自治区" leaf="false">
+    <item key="4513" text="来宾市" leaf="false">
+      <item key="451302" text="兴宾区" leaf="true"/>
+      <item key="451322" text="象州县" leaf="true"/>
+      <item key="451324" text="金秀瑶族自治县" leaf="true"/>
+      <item key="451321" text="忻城县" leaf="true"/>
+      <item key="451323" text="武宣县" leaf="true"/>
+      <item key="451381" text="合山市" leaf="true"/>
+    </item>
+    <item key="4501" text="南宁市" leaf="false">
+      <item key="450102" text="兴宁区" leaf="true"/>
+      <item key="450103" text="青秀区" leaf="true"/>
+      <item key="450105" text="江南区" leaf="true"/>
+      <item key="450107" text="西乡塘区" leaf="true"/>
+      <item key="450108" text="良庆区" leaf="true"/>
+      <item key="450109" text="邕宁区" leaf="true"/>
+      <item key="450122" text="武鸣县" leaf="true"/>
+      <item key="450123" text="隆安县" leaf="true"/>
+      <item key="450124" text="马山县" leaf="true"/>
+      <item key="450125" text="上林县" leaf="true"/>
+      <item key="450126" text="宾阳县" leaf="true"/>
+      <item key="450127" text="横县" leaf="true"/>
+    </item>
+    <item key="4503" text="桂林市" leaf="false">
+      <item key="450302" text="秀峰区" leaf="true"/>
+      <item key="450303" text="叠彩区" leaf="true"/>
+      <item key="450304" text="象山区" leaf="true"/>
+      <item key="450305" text="七星区" leaf="true"/>
+      <item key="450311" text="雁山区" leaf="true"/>
+      <item key="450321" text="阳朔县" leaf="true"/>
+      <item key="450322" text="临桂县" leaf="true"/>
+      <item key="450323" text="灵川县" leaf="true"/>
+      <item key="450324" text="全州县" leaf="true"/>
+      <item key="450325" text="兴安县" leaf="true"/>
+      <item key="450326" text="永福县" leaf="true"/>
+      <item key="450327" text="灌阳县" leaf="true"/>
+      <item key="450328" text="龙胜各族自治县" leaf="true"/>
+      <item key="450329" text="资源县" leaf="true"/>
+      <item key="450330" text="平乐县" leaf="true"/>
+      <item key="450331" text="荔蒲县" leaf="true"/>
+      <item key="450332" text="恭城瑶族自治县" leaf="true"/>
+    </item>
+    <item key="4505" text="北海市" leaf="false">
+      <item key="450502" text="海城区" leaf="true"/>
+      <item key="450503" text="银海区" leaf="true"/>
+      <item key="450512" text="铁山港区" leaf="true"/>
+      <item key="450521" text="合浦县" leaf="true"/>
+    </item>
+    <item key="4507" text="钦州市" leaf="false">
+      <item key="450702" text="钦南区" leaf="true"/>
+      <item key="450703" text="钦北区" leaf="true"/>
+      <item key="450721" text="灵山县" leaf="true"/>
+      <item key="450722" text="浦北县" leaf="true"/>
+    </item>
+    <item key="4509" text="玉林市" leaf="false">
+      <item key="450921" text="容县" leaf="true"/>
+      <item key="450923" text="博白县" leaf="true"/>
+      <item key="450981" text="北流市" leaf="true"/>
+      <item key="450902" text="玉州区" leaf="true"/>
+      <item key="450922" text="陆川县" leaf="true"/>
+      <item key="450924" text="兴业县" leaf="true"/>
+    </item>
+    <item key="4511" text="贺州市" leaf="false">
+      <item key="451121" text="昭平县" leaf="true"/>
+      <item key="451123" text="富川瑶族自治县" leaf="true"/>
+      <item key="451102" text="八步区" leaf="true"/>
+      <item key="451122" text="钟山县" leaf="true"/>
+    </item>
+    <item key="4502" text="柳州市" leaf="false">
+      <item key="450202" text="城中区" leaf="true"/>
+      <item key="450203" text="鱼峰区" leaf="true"/>
+      <item key="450204" text="柳南区" leaf="true"/>
+      <item key="450205" text="柳北区" leaf="true"/>
+      <item key="450221" text="柳江县" leaf="true"/>
+      <item key="450222" text="柳城县" leaf="true"/>
+      <item key="450223" text="鹿寨县" leaf="true"/>
+      <item key="450224" text="融安县" leaf="true"/>
+      <item key="450225" text="融水苗族自治县" leaf="true"/>
+      <item key="450226" text="三江侗族自治县" leaf="true"/>
+    </item>
+    <item key="4504" text="梧州市" leaf="false">
+      <item key="450403" text="万秀区" leaf="true"/>
+      <item key="450404" text="蝶山区" leaf="true"/>
+      <item key="450405" text="长洲区" leaf="true"/>
+      <item key="450421" text="苍梧县" leaf="true"/>
+      <item key="450422" text="藤县" leaf="true"/>
+      <item key="450423" text="蒙山县" leaf="true"/>
+      <item key="450481" text="岑溪市" leaf="true"/>
+    </item>
+    <item key="4506" text="防城港市" leaf="false">
+      <item key="450602" text="港口区" leaf="true"/>
+      <item key="450603" text="防城区" leaf="true"/>
+      <item key="450621" text="上思县" leaf="true"/>
+      <item key="450681" text="东兴市" leaf="true"/>
+    </item>
+    <item key="4508" text="贵港市" leaf="false">
+      <item key="450802" text="港北区" leaf="true"/>
+      <item key="450804" text="覃塘区" leaf="true"/>
+      <item key="450881" text="桂平市" leaf="true"/>
+      <item key="450803" text="港南区" leaf="true"/>
+      <item key="450821" text="平南县" leaf="true"/>
+    </item>
+    <item key="4510" text="百色市" leaf="false">
+      <item key="451021" text="田阳县" leaf="true"/>
+      <item key="451023" text="平果县" leaf="true"/>
+      <item key="451025" text="靖西县" leaf="true"/>
+      <item key="451027" text="凌云县" leaf="true"/>
+      <item key="451029" text="田林县" leaf="true"/>
+      <item key="451031" text="隆林各族自治县" leaf="true"/>
+      <item key="451002" text="右江区" leaf="true"/>
+      <item key="451022" text="田东县" leaf="true"/>
+      <item key="451024" text="德保县" leaf="true"/>
+      <item key="451026" text="那坡县" leaf="true"/>
+      <item key="451028" text="乐业县" leaf="true"/>
+      <item key="451030" text="西林县" leaf="true"/>
+    </item>
+    <item key="4512" text="河池市" leaf="false">
+      <item key="451227" text="巴马瑶族自治县" leaf="true"/>
+      <item key="451228" text="都安瑶族自治县" leaf="true"/>
+      <item key="451281" text="宜州市" leaf="true"/>
+      <item key="451221" text="南丹县" leaf="true"/>
+      <item key="451223" text="凤山县" leaf="true"/>
+      <item key="451225" text="罗城仫佬族自治县" leaf="true"/>
+      <item key="451202" text="金城江区" leaf="true"/>
+      <item key="451222" text="天峨县" leaf="true"/>
+      <item key="451224" text="东兰县" leaf="true"/>
+      <item key="451226" text="环江毛南族自治县" leaf="true"/>
+      <item key="451229" text="大化瑶族自治县" leaf="true"/>
+    </item>
+    <item key="4514" text="崇左市" leaf="false">
+      <item key="451402" text="江洲区" leaf="true"/>
+      <item key="451422" text="宁明县" leaf="true"/>
+      <item key="451424" text="大新县" leaf="true"/>
+      <item key="451481" text="凭祥市" leaf="true"/>
+      <item key="451421" text="扶绥县" leaf="true"/>
+      <item key="451423" text="龙州县" leaf="true"/>
+      <item key="451425" text="天等县" leaf="true"/>
+    </item>
+  </item>
+  <item key="51" text="四川省" leaf="false">
+    <item key="5103" text="自贡市" leaf="false">
+      <item key="510303" text="贡井区" leaf="true"/>
+      <item key="510311" text="沿滩区" leaf="true"/>
+      <item key="510322" text="富顺县" leaf="true"/>
+      <item key="510302" text="自流井区" leaf="true"/>
+      <item key="510304" text="大安区" leaf="true"/>
+      <item key="510321" text="荣县" leaf="true"/>
+    </item>
+    <item key="5105" text="泸州市" leaf="false">
+      <item key="510502" text="江阳区" leaf="true"/>
+      <item key="510504" text="龙马潭区" leaf="true"/>
+      <item key="510522" text="合江县" leaf="true"/>
+      <item key="510525" text="古蔺县" leaf="true"/>
+      <item key="510503" text="纳溪区" leaf="true"/>
+      <item key="510521" text="泸县" leaf="true"/>
+      <item key="510524" text="叙永县" leaf="true"/>
+    </item>
+    <item key="5107" text="绵阳市" leaf="false">
+      <item key="510704" text="游仙区" leaf="true"/>
+      <item key="510723" text="盐亭县" leaf="true"/>
+      <item key="510726" text="北川羌族自治县" leaf="true"/>
+      <item key="510781" text="江油市" leaf="true"/>
+      <item key="510703" text="涪城区" leaf="true"/>
+      <item key="510722" text="三台县" leaf="true"/>
+      <item key="510724" text="安县" leaf="true"/>
+      <item key="510725" text="梓潼县" leaf="true"/>
+      <item key="510727" text="平武县" leaf="true"/>
+    </item>
+    <item key="5109" text="遂宁市" leaf="false">
+      <item key="510903" text="船山区" leaf="true"/>
+      <item key="510921" text="蓬溪县" leaf="true"/>
+      <item key="510923" text="大英县" leaf="true"/>
+      <item key="510904" text="安居区" leaf="true"/>
+      <item key="510922" text="射洪县" leaf="true"/>
+    </item>
+    <item key="5114" text="眉山市" leaf="false">
+      <item key="511402" text="东坡区" leaf="true"/>
+      <item key="511421" text="仁寿县" leaf="true"/>
+      <item key="511422" text="彭山县" leaf="true"/>
+      <item key="511423" text="洪雅县" leaf="true"/>
+      <item key="511424" text="丹棱县" leaf="true"/>
+      <item key="511425" text="青神县" leaf="true"/>
+    </item>
+    <item key="5115" text="宜宾市" leaf="false">
+      <item key="511502" text="翠屏区" leaf="true"/>
+      <item key="511521" text="宜宾县" leaf="true"/>
+      <item key="511522" text="南溪县" leaf="true"/>
+      <item key="511523" text="江安县" leaf="true"/>
+      <item key="511524" text="长宁县" leaf="true"/>
+      <item key="511525" text="高县" leaf="true"/>
+      <item key="511526" text="珙县" leaf="true"/>
+      <item key="511527" text="筠连县" leaf="true"/>
+      <item key="511528" text="兴文县" leaf="true"/>
+      <item key="511529" text="屏山县" leaf="true"/>
+    </item>
+    <item key="5116" text="广安市" leaf="false">
+      <item key="511602" text="广安区" leaf="true"/>
+      <item key="511621" text="岳池县" leaf="true"/>
+      <item key="511622" text="武胜县" leaf="true"/>
+      <item key="511623" text="邻水县" leaf="true"/>
+      <item key="511681" text="华蓥市" leaf="true"/>
+    </item>
+    <item key="5118" text="雅安市" leaf="false">
+      <item key="511802" text="雨城区" leaf="true"/>
+      <item key="511821" text="名山县" leaf="true"/>
+      <item key="511822" text="荥经县" leaf="true"/>
+      <item key="511823" text="汉源县" leaf="true"/>
+      <item key="511824" text="石棉县" leaf="true"/>
+      <item key="511825" text="天全县" leaf="true"/>
+      <item key="511826" text="芦山县" leaf="true"/>
+      <item key="511827" text="宝兴县" leaf="true"/>
+    </item>
+    <item key="5120" text="资阳市" leaf="false">
+      <item key="512002" text="雁江区" leaf="true"/>
+      <item key="512021" text="安岳县" leaf="true"/>
+      <item key="512022" text="乐至县" leaf="true"/>
+      <item key="512081" text="简阳市" leaf="true"/>
+    </item>
+    <item key="5134" text="凉山彝族自治州" leaf="false">
+      <item key="513401" text="西昌市" leaf="true"/>
+      <item key="513423" text="盐源县" leaf="true"/>
+      <item key="513424" text="德昌县" leaf="true"/>
+      <item key="513426" text="会东县" leaf="true"/>
+      <item key="513428" text="普格县" leaf="true"/>
+      <item key="513430" text="金阳县" leaf="true"/>
+      <item key="513432" text="喜德县" leaf="true"/>
+      <item key="513434" text="越西县" leaf="true"/>
+      <item key="513436" text="美姑县" leaf="true"/>
+      <item key="513422" text="木里藏族自治县" leaf="true"/>
+      <item key="513425" text="会理县" leaf="true"/>
+      <item key="513427" text="宁南县" leaf="true"/>
+      <item key="513429" text="布拖县" leaf="true"/>
+      <item key="513431" text="昭觉县" leaf="true"/>
+      <item key="513433" text="冕宁县" leaf="true"/>
+      <item key="513435" text="甘洛县" leaf="true"/>
+      <item key="513437" text="雷波县" leaf="true"/>
+    </item>
+    <item key="5133" text="甘孜藏族自治州" leaf="false">
+      <item key="513337" text="稻城县" leaf="true"/>
+      <item key="513321" text="康定县" leaf="true"/>
+      <item key="513323" text="丹巴县" leaf="true"/>
+      <item key="513325" text="雅江县" leaf="true"/>
+      <item key="513327" text="炉霍县" leaf="true"/>
+      <item key="513329" text="新龙县" leaf="true"/>
+      <item key="513331" text="白玉县" leaf="true"/>
+      <item key="513333" text="色达县" leaf="true"/>
+      <item key="513335" text="巴塘县" leaf="true"/>
+      <item key="513322" text="泸定县" leaf="true"/>
+      <item key="513324" text="九龙县" leaf="true"/>
+      <item key="513326" text="道孚县" leaf="true"/>
+      <item key="513328" text="甘孜县" leaf="true"/>
+      <item key="513330" text="德格县" leaf="true"/>
+      <item key="513332" text="石渠县" leaf="true"/>
+      <item key="513334" text="理塘县" leaf="true"/>
+      <item key="513336" text="乡城县" leaf="true"/>
+      <item key="513338" text="得荣县" leaf="true"/>
+    </item>
+    <item key="5101" text="成都市" leaf="false">
+      <item key="510104" text="锦江区" leaf="true"/>
+      <item key="510106" text="金牛区" leaf="true"/>
+      <item key="510108" text="成华区" leaf="true"/>
+      <item key="510113" text="青白江区" leaf="true"/>
+      <item key="510115" text="温江区" leaf="true"/>
+      <item key="510122" text="双流县" leaf="true"/>
+      <item key="510129" text="大邑县" leaf="true"/>
+      <item key="510132" text="新津县" leaf="true"/>
+      <item key="510182" text="彭州市" leaf="true"/>
+      <item key="510184" text="崇州市" leaf="true"/>
+      <item key="510105" text="青羊区" leaf="true"/>
+      <item key="510107" text="武侯区" leaf="true"/>
+      <item key="510112" text="龙泉驿区" leaf="true"/>
+      <item key="510114" text="新都区" leaf="true"/>
+      <item key="510121" text="金堂县" leaf="true"/>
+      <item key="510124" text="郫县" leaf="true"/>
+      <item key="510131" text="蒲江县" leaf="true"/>
+      <item key="510181" text="都江堰市" leaf="true"/>
+      <item key="510183" text="邛崃市" leaf="true"/>
+    </item>
+    <item key="5104" text="攀枝花市" leaf="false">
+      <item key="510403" text="西区" leaf="true"/>
+      <item key="510421" text="米易县" leaf="true"/>
+      <item key="510402" text="东区" leaf="true"/>
+      <item key="510411" text="仁和区" leaf="true"/>
+      <item key="510422" text="盐边县" leaf="true"/>
+    </item>
+    <item key="5106" text="德阳市" leaf="false">
+      <item key="510623" text="中江县" leaf="true"/>
+      <item key="510681" text="广汉市" leaf="true"/>
+      <item key="510683" text="绵竹市" leaf="true"/>
+      <item key="510603" text="旌阳区" leaf="true"/>
+      <item key="510626" text="罗江县" leaf="true"/>
+      <item key="510682" text="什邡市" leaf="true"/>
+    </item>
+    <item key="5108" text="广元市" leaf="false">
+      <item key="510811" text="元坝区" leaf="true"/>
+      <item key="510821" text="旺苍县" leaf="true"/>
+      <item key="510823" text="剑阁县" leaf="true"/>
+      <item key="510802" text="市中区" leaf="true"/>
+      <item key="510812" text="朝天区" leaf="true"/>
+      <item key="510822" text="青川县" leaf="true"/>
+      <item key="510824" text="苍溪县" leaf="true"/>
+    </item>
+    <item key="5110" text="内江市" leaf="false">
+      <item key="511011" text="东兴区" leaf="true"/>
+      <item key="511025" text="资中县" leaf="true"/>
+      <item key="511002" text="市中区" leaf="true"/>
+      <item key="511024" text="威远县" leaf="true"/>
+      <item key="511028" text="隆昌县" leaf="true"/>
+    </item>
+    <item key="5111" text="乐山市" leaf="false">
+      <item key="511102" text="市中区" leaf="true"/>
+      <item key="511112" text="五通桥区" leaf="true"/>
+      <item key="511123" text="犍为县" leaf="true"/>
+      <item key="511124" text="井研县" leaf="true"/>
+      <item key="511129" text="沐川县" leaf="true"/>
+      <item key="511133" text="马边彝族自治县" leaf="true"/>
+      <item key="511181" text="峨眉山市" leaf="true"/>
+      <item key="511111" text="沙湾区" leaf="true"/>
+      <item key="511113" text="金口河区" leaf="true"/>
+      <item key="511126" text="夹江县" leaf="true"/>
+      <item key="511132" text="峨边彝族自治县" leaf="true"/>
+    </item>
+    <item key="5113" text="南充市" leaf="false">
+      <item key="511302" text="顺庆区" leaf="true"/>
+      <item key="511303" text="高坪区" leaf="true"/>
+      <item key="511304" text="嘉陵区" leaf="true"/>
+      <item key="511321" text="南部县" leaf="true"/>
+      <item key="511322" text="营山县" leaf="true"/>
+      <item key="511323" text="蓬安县" leaf="true"/>
+      <item key="511324" text="仪陇县" leaf="true"/>
+      <item key="511325" text="西充县" leaf="true"/>
+      <item key="511381" text="阆中市" leaf="true"/>
+    </item>
+    <item key="5117" text="达州市" leaf="false">
+      <item key="511702" text="通川区" leaf="true"/>
+      <item key="511721" text="达县" leaf="true"/>
+      <item key="511722" text="宣汉县" leaf="true"/>
+      <item key="511723" text="开江县" leaf="true"/>
+      <item key="511724" text="大竹县" leaf="true"/>
+      <item key="511725" text="渠县" leaf="true"/>
+      <item key="511781" text="万源市" leaf="true"/>
+    </item>
+    <item key="5119" text="巴中市" leaf="false">
+      <item key="511902" text="巴州区" leaf="true"/>
+      <item key="511921" text="通江县" leaf="true"/>
+      <item key="511922" text="南江县" leaf="true"/>
+      <item key="511923" text="平昌县" leaf="true"/>
+    </item>
+    <item key="5132" text="阿坝藏族羌族自治州" leaf="false">
+      <item key="513221" text="汶川县" leaf="true"/>
+      <item key="513222" text="理县" leaf="true"/>
+      <item key="513223" text="茂县" leaf="true"/>
+      <item key="513224" text="松潘县" leaf="true"/>
+      <item key="513225" text="九寨沟县" leaf="true"/>
+      <item key="513226" text="金川县" leaf="true"/>
+      <item key="513227" text="小金县" leaf="true"/>
+      <item key="513228" text="黑水县" leaf="true"/>
+      <item key="513232" text="若尔盖县" leaf="true"/>
+      <item key="513229" text="马尔康县" leaf="true"/>
+      <item key="513231" text="阿坝县" leaf="true"/>
+      <item key="513233" text="红原县" leaf="true"/>
+      <item key="513230" text="壤塘县" leaf="true"/>
+    </item>
+  </item>
+  <item key="32" text="江苏省" leaf="false">
+    <item key="3202" text="无锡市" leaf="false">
+      <item key="320203" text="南长区" leaf="true"/>
+      <item key="320205" text="锡山区" leaf="true"/>
+      <item key="320211" text="滨湖区" leaf="true"/>
+      <item key="320282" text="宜兴市" leaf="true"/>
+      <item key="320202" text="崇安区" leaf="true"/>
+      <item key="320204" text="北塘区" leaf="true"/>
+      <item key="320206" text="惠山区" leaf="true"/>
+      <item key="320281" text="江阴市" leaf="true"/>
+    </item>
+    <item key="3205" text="苏州市" leaf="false">
+      <item key="320503" text="平江区" leaf="true"/>
+      <item key="320507" text="相城区" leaf="true"/>
+      <item key="320582" text="张家港市" leaf="true"/>
+      <item key="320584" text="吴江市" leaf="true"/>
+      <item key="320505" text="虎丘区" leaf="true"/>
+      <item key="320502" text="沧浪区" leaf="true"/>
+      <item key="320504" text="金阊区" leaf="true"/>
+      <item key="320506" text="吴中区" leaf="true"/>
+      <item key="320581" text="常熟市" leaf="true"/>
+      <item key="320583" text="昆山市" leaf="true"/>
+      <item key="320585" text="太仓市" leaf="true"/>
+    </item>
+    <item key="3213" text="宿迁市" leaf="false">
+      <item key="321302" text="宿城区" leaf="true"/>
+      <item key="321311" text="宿豫区" leaf="true"/>
+      <item key="321322" text="沭阳县" leaf="true"/>
+      <item key="321323" text="泗阳县" leaf="true"/>
+      <item key="321324" text="泗洪县" leaf="true"/>
+    </item>
+    <item key="3208" text="淮安市" leaf="false">
+      <item key="320802" text="清河区" leaf="true"/>
+      <item key="320803" text="楚州区" leaf="true"/>
+      <item key="320804" text="淮阴区" leaf="true"/>
+      <item key="320811" text="清浦区" leaf="true"/>
+      <item key="320826" text="涟水县" leaf="true"/>
+      <item key="320829" text="洪泽县" leaf="true"/>
+      <item key="320830" text="盱眙县" leaf="true"/>
+      <item key="320831" text="金湖县" leaf="true"/>
+    </item>
+    <item key="3211" text="镇江市" leaf="false">
+      <item key="321102" text="京口区" leaf="true"/>
+      <item key="321111" text="润州区" leaf="true"/>
+      <item key="321112" text="丹徒区" leaf="true"/>
+      <item key="321181" text="丹阳市" leaf="true"/>
+      <item key="321182" text="扬中市" leaf="true"/>
+      <item key="321183" text="句容市" leaf="true"/>
+    </item>
+    <item key="3212" text="泰州市" leaf="false">
+      <item key="321202" text="海陵区" leaf="true"/>
+      <item key="321203" text="高港区" leaf="true"/>
+      <item key="321281" text="兴化市" leaf="true"/>
+      <item key="321282" text="靖江市" leaf="true"/>
+      <item key="321283" text="泰兴市" leaf="true"/>
+      <item key="321284" text="姜堰市" leaf="true"/>
+    </item>
+    <item key="3201" text="南京市" leaf="false">
+      <item key="320103" text="白下区" leaf="true"/>
+      <item key="320105" text="建邺区" leaf="true"/>
+      <item key="320107" text="下关区" leaf="true"/>
+      <item key="320113" text="栖霞区" leaf="true"/>
+      <item key="320115" text="江宁区" leaf="true"/>
+      <item key="320116" text="六合区" leaf="true"/>
+      <item key="320125" text="高淳县" leaf="true"/>
+      <item key="320102" text="玄武区" leaf="true"/>
+      <item key="320104" text="秦淮区" leaf="true"/>
+      <item key="320106" text="鼓楼区" leaf="true"/>
+      <item key="320111" text="浦口区" leaf="true"/>
+      <item key="320114" text="雨花台区" leaf="true"/>
+      <item key="320124" text="溧水县" leaf="true"/>
+    </item>
+    <item key="3203" text="徐州市" leaf="false">
+      <item key="320303" text="云龙区" leaf="true"/>
+      <item key="320305" text="贾汪区" leaf="true"/>
+      <item key="320321" text="丰县" leaf="true"/>
+      <item key="320324" text="睢宁县" leaf="true"/>
+      <item key="320382" text="邳州市" leaf="true"/>
+      <item key="320302" text="鼓楼区" leaf="true"/>
+      <item key="320304" text="九里区" leaf="true"/>
+      <item key="320311" text="泉山区" leaf="true"/>
+      <item key="320322" text="沛县" leaf="true"/>
+      <item key="320323" text="铜山县" leaf="true"/>
+      <item key="320381" text="新沂市" leaf="true"/>
+    </item>
+    <item key="3204" text="常州市" leaf="false">
+      <item key="320404" text="钟楼区" leaf="true"/>
+      <item key="320411" text="新北区" leaf="true"/>
+      <item key="320412" text="武进区" leaf="true"/>
+      <item key="320482" text="金坛市" leaf="true"/>
+      <item key="320402" text="天宁区" leaf="true"/>
+      <item key="320405" text="戚墅堰区" leaf="true"/>
+      <item key="320481" text="溧阳市" leaf="true"/>
+    </item>
+    <item key="3206" text="南通市" leaf="false">
+      <item key="320602" text="崇川区" leaf="true"/>
+      <item key="320621" text="海安县" leaf="true"/>
+      <item key="320681" text="启东市" leaf="true"/>
+      <item key="320611" text="港闸区" leaf="true"/>
+      <item key="320623" text="如东县" leaf="true"/>
+      <item key="320682" text="如皋市" leaf="true"/>
+      <item key="320683" text="通州市" leaf="true"/>
+      <item key="320684" text="海门市" leaf="true"/>
+    </item>
+    <item key="3207" text="连云港市" leaf="false">
+      <item key="320703" text="连云区" leaf="true"/>
+      <item key="320705" text="新浦区" leaf="true"/>
+      <item key="320706" text="海州区" leaf="true"/>
+      <item key="320721" text="赣榆县" leaf="true"/>
+      <item key="320722" text="东海县" leaf="true"/>
+      <item key="320723" text="灌云县" leaf="true"/>
+      <item key="320724" text="灌南县" leaf="true"/>
+    </item>
+    <item key="3209" text="盐城市" leaf="false">
+      <item key="320902" text="亭湖区" leaf="true"/>
+      <item key="320903" text="盐都区" leaf="true"/>
+      <item key="320921" text="响水县" leaf="true"/>
+      <item key="320922" text="滨海县" leaf="true"/>
+      <item key="320923" text="阜宁县" leaf="true"/>
+      <item key="320924" text="射阳县" leaf="true"/>
+      <item key="320925" text="建湖县" leaf="true"/>
+      <item key="320981" text="东台市" leaf="true"/>
+      <item key="320982" text="大丰市" leaf="true"/>
+    </item>
+    <item key="3210" text="扬州市" leaf="false">
+      <item key="321023" text="宝应县" leaf="true"/>
+      <item key="321081" text="仪征市" leaf="true"/>
+      <item key="321084" text="高邮市" leaf="true"/>
+      <item key="321088" text="江都市" leaf="true"/>
+      <item key="321002" text="广陵区" leaf="true"/>
+      <item key="321003" text="邗江区" leaf="true"/>
+      <item key="321011" text="维扬区" leaf="true"/>
+    </item>
+  </item>
+  <item key="13" text="河北省" leaf="false">
+    <item key="1302" text="唐山市" leaf="false">
+      <item key="130230" text="唐海县" leaf="true"/>
+      <item key="130283" text="迁安市" leaf="true"/>
+      <item key="130202" text="路南区" leaf="true"/>
+      <item key="130203" text="路北区" leaf="true"/>
+      <item key="130204" text="古冶区" leaf="true"/>
+      <item key="130207" text="丰南区" leaf="true"/>
+      <item key="130223" text="滦县" leaf="true"/>
+      <item key="130225" text="乐亭县" leaf="true"/>
+      <item key="130229" text="玉田县" leaf="true"/>
+      <item key="130281" text="遵化市" leaf="true"/>
+      <item key="130205" text="开平区" leaf="true"/>
+      <item key="130208" text="丰润区" leaf="true"/>
+      <item key="130224" text="滦南县" leaf="true"/>
+      <item key="130227" text="迁西县" leaf="true"/>
+    </item>
+    <item key="1304" text="邯郸市" leaf="false">
+      <item key="130403" text="丛台区" leaf="true"/>
+      <item key="130406" text="峰峰矿区" leaf="true"/>
+      <item key="130423" text="临漳县" leaf="true"/>
+      <item key="130425" text="大名县" leaf="true"/>
+      <item key="130427" text="磁县" leaf="true"/>
+      <item key="130429" text="永年县" leaf="true"/>
+      <item key="130431" text="鸡泽县" leaf="true"/>
+      <item key="130433" text="馆陶县" leaf="true"/>
+      <item key="130435" text="曲周县" leaf="true"/>
+      <item key="130402" text="邯山区" leaf="true"/>
+      <item key="130404" text="复兴区" leaf="true"/>
+      <item key="130421" text="邯郸县" leaf="true"/>
+      <item key="130424" text="成安县" leaf="true"/>
+      <item key="130426" text="涉县" leaf="true"/>
+      <item key="130428" text="肥乡县" leaf="true"/>
+      <item key="130430" text="邱县" leaf="true"/>
+      <item key="130432" text="广平县" leaf="true"/>
+      <item key="130434" text="魏县" leaf="true"/>
+      <item key="130481" text="武安市" leaf="true"/>
+    </item>
+    <item key="1308" text="承德市" leaf="false">
+      <item key="130803" text="双滦区" leaf="true"/>
+      <item key="130821" text="承德县" leaf="true"/>
+      <item key="130823" text="平泉县" leaf="true"/>
+      <item key="130825" text="隆化县" leaf="true"/>
+      <item key="130827" text="宽城满族自治县" leaf="true"/>
+      <item key="130802" text="双桥区" leaf="true"/>
+      <item key="130804" text="鹰手营子矿区" leaf="true"/>
+      <item key="130822" text="兴隆县" leaf="true"/>
+      <item key="130824" text="滦平县" leaf="true"/>
+      <item key="130826" text="丰宁满族自治县" leaf="true"/>
+      <item key="130828" text="围场满族蒙古族自治县" leaf="true"/>
+    </item>
+    <item key="1310" text="廊坊市" leaf="false">
+      <item key="131002" text="安次区" leaf="true"/>
+      <item key="131022" text="固安县" leaf="true"/>
+      <item key="131026" text="文安县" leaf="true"/>
+      <item key="131081" text="霸州市" leaf="true"/>
+      <item key="131003" text="广阳区" leaf="true"/>
+      <item key="131023" text="永清县" leaf="true"/>
+      <item key="131025" text="大城县" leaf="true"/>
+      <item key="131028" text="大厂回族自治县" leaf="true"/>
+      <item key="131082" text="三河市" leaf="true"/>
+      <item key="131024" text="香河县" leaf="true"/>
+    </item>
+    <item key="1306" text="保定市" leaf="false">
+      <item key="130602" text="新市区" leaf="true"/>
+      <item key="130604" text="南市区" leaf="true"/>
+      <item key="130622" text="清苑县" leaf="true"/>
+      <item key="130624" text="阜平县" leaf="true"/>
+      <item key="130626" text="定兴县" leaf="true"/>
+      <item key="130628" text="高阳县" leaf="true"/>
+      <item key="130630" text="涞源县" leaf="true"/>
+      <item key="130632" text="安新县" leaf="true"/>
+      <item key="130634" text="曲阳县" leaf="true"/>
+      <item key="130636" text="顺平县" leaf="true"/>
+      <item key="130638" text="雄县" leaf="true"/>
+      <item key="130682" text="定州市" leaf="true"/>
+      <item key="130684" text="高碑店市" leaf="true"/>
+      <item key="130623" text="涞水县" leaf="true"/>
+      <item key="130625" text="徐水县" leaf="true"/>
+      <item key="130627" text="唐县" leaf="true"/>
+      <item key="130629" text="容城县" leaf="true"/>
+      <item key="130631" text="望都县" leaf="true"/>
+      <item key="130633" text="易县" leaf="true"/>
+      <item key="130635" text="蠡县" leaf="true"/>
+      <item key="130637" text="博野县" leaf="true"/>
+      <item key="130681" text="涿州市" leaf="true"/>
+      <item key="130603" text="北市区" leaf="true"/>
+      <item key="130621" text="满城县" leaf="true"/>
+      <item key="130683" text="安国市" leaf="true"/>
+    </item>
+    <item key="1301" text="石家庄市" leaf="false">
+      <item key="130102" text="长安区" leaf="true"/>
+      <item key="130103" text="桥东区" leaf="true"/>
+      <item key="130104" text="桥西区" leaf="true"/>
+      <item key="130105" text="新华区" leaf="true"/>
+      <item key="130107" text="井陉矿区" leaf="true"/>
+      <item key="130108" text="裕华区" leaf="true"/>
+      <item key="130121" text="井陉县" leaf="true"/>
+      <item key="130123" text="正定县" leaf="true"/>
+      <item key="130124" text="栾城县" leaf="true"/>
+      <item key="130125" text="行唐县" leaf="true"/>
+      <item key="130126" text="灵寿县" leaf="true"/>
+      <item key="130127" text="高邑县" leaf="true"/>
+      <item key="130128" text="深泽县" leaf="true"/>
+      <item key="130129" text="赞皇县" leaf="true"/>
+      <item key="130130" text="无极县" leaf="true"/>
+      <item key="130131" text="平山县" leaf="true"/>
+      <item key="130132" text="元氏县" leaf="true"/>
+      <item key="130133" text="赵县" leaf="true"/>
+      <item key="130181" text="辛集市" leaf="true"/>
+      <item key="130182" text="藁城市" leaf="true"/>
+      <item key="130183" text="晋州市" leaf="true"/>
+      <item key="130184" text="新乐市" leaf="true"/>
+      <item key="130185" text="鹿泉市" leaf="true"/>
+    </item>
+    <item key="1303" text="秦皇岛市" leaf="false">
+      <item key="130303" text="山海关区" leaf="true"/>
+      <item key="130322" text="昌黎县" leaf="true"/>
+      <item key="130324" text="卢龙县" leaf="true"/>
+      <item key="130302" text="海港区" leaf="true"/>
+      <item key="130304" text="北戴河区" leaf="true"/>
+      <item key="130321" text="青龙满族自治县" leaf="true"/>
+      <item key="130323" text="抚宁县" leaf="true"/>
+    </item>
+    <item key="1305" text="邢台市" leaf="false">
+      <item key="130529" text="巨鹿县" leaf="true"/>
+      <item key="130502" text="桥东区" leaf="true"/>
+      <item key="130525" text="隆尧县" leaf="true"/>
+      <item key="130527" text="南和县" leaf="true"/>
+      <item key="130531" text="广宗县" leaf="true"/>
+      <item key="130533" text="威县" leaf="true"/>
+      <item key="130534" text="清河县" leaf="true"/>
+      <item key="130581" text="南宫市" leaf="true"/>
+      <item key="130503" text="桥西区" leaf="true"/>
+      <item key="130522" text="临城县" leaf="true"/>
+      <item key="130524" text="柏乡县" leaf="true"/>
+      <item key="130526" text="任县" leaf="true"/>
+      <item key="130528" text="宁晋县" leaf="true"/>
+      <item key="130530" text="新河县" leaf="true"/>
+      <item key="130532" text="平乡县" leaf="true"/>
+      <item key="130535" text="临西县" leaf="true"/>
+      <item key="130582" text="沙河市" leaf="true"/>
+      <item key="130521" text="邢台县" leaf="true"/>
+      <item key="130523" text="内丘县" leaf="true"/>
+    </item>
+    <item key="1307" text="张家口市" leaf="false">
+      <item key="130706" text="下花园区" leaf="true"/>
+      <item key="130723" text="康保县" leaf="true"/>
+      <item key="130725" text="尚义县" leaf="true"/>
+      <item key="130727" text="阳原县" leaf="true"/>
+      <item key="130729" text="万全县" leaf="true"/>
+      <item key="130731" text="涿鹿县" leaf="true"/>
+      <item key="130733" text="崇礼县" leaf="true"/>
+      <item key="130703" text="桥西区" leaf="true"/>
+      <item key="130702" text="桥东区" leaf="true"/>
+      <item key="130705" text="宣化区" leaf="true"/>
+      <item key="130721" text="宣化县" leaf="true"/>
+      <item key="130722" text="张北县" leaf="true"/>
+      <item key="130724" text="沽源县" leaf="true"/>
+      <item key="130726" text="蔚县" leaf="true"/>
+      <item key="130728" text="怀安县" leaf="true"/>
+      <item key="130730" text="怀来县" leaf="true"/>
+      <item key="130732" text="赤城县" leaf="true"/>
+    </item>
+    <item key="1309" text="沧州市" leaf="false">
+      <item key="130902" text="新华区" leaf="true"/>
+      <item key="130921" text="沧县" leaf="true"/>
+      <item key="130923" text="东光县" leaf="true"/>
+      <item key="130925" text="盐山县" leaf="true"/>
+      <item key="130927" text="南皮县" leaf="true"/>
+      <item key="130929" text="献县" leaf="true"/>
+      <item key="130981" text="泊头市" leaf="true"/>
+      <item key="130983" text="黄骅市" leaf="true"/>
+      <item key="130903" text="运河区" leaf="true"/>
+      <item key="130922" text="青县" leaf="true"/>
+      <item key="130924" text="海兴县" leaf="true"/>
+      <item key="130926" text="肃宁县" leaf="true"/>
+      <item key="130928" text="吴桥县" leaf="true"/>
+      <item key="130930" text="孟村回族自治县" leaf="true"/>
+      <item key="130982" text="任丘市" leaf="true"/>
+      <item key="130984" text="河间市" leaf="true"/>
+    </item>
+    <item key="1311" text="衡水市" leaf="false">
+      <item key="131102" text="桃城区" leaf="true"/>
+      <item key="131122" text="武邑县" leaf="true"/>
+      <item key="131124" text="饶阳县" leaf="true"/>
+      <item key="131126" text="故城县" leaf="true"/>
+      <item key="131128" text="阜城县" leaf="true"/>
+      <item key="131182" text="深州市" leaf="true"/>
+      <item key="131121" text="枣强县" leaf="true"/>
+      <item key="131123" text="武强县" leaf="true"/>
+      <item key="131125" text="安平县" leaf="true"/>
+      <item key="131181" text="冀州市" leaf="true"/>
+      <item key="131127" text="景县" leaf="true"/>
+    </item>
+  </item>
+  <item key="63" text="青海省" leaf="false">
+    <item key="6301" text="西宁市" leaf="false">
+      <item key="630102" text="城东区" leaf="true"/>
+      <item key="630104" text="城西区" leaf="true"/>
+      <item key="630121" text="大通回族土族自治县" leaf="true"/>
+      <item key="630103" text="城中区" leaf="true"/>
+      <item key="630105" text="城北区" leaf="true"/>
+      <item key="630122" text="湟中县" leaf="true"/>
+      <item key="630123" text="湟源县" leaf="true"/>
+    </item>
+    <item key="6322" text="海北藏族自治州" leaf="false">
+      <item key="632222" text="祁连县" leaf="true"/>
+      <item key="632224" text="刚察县" leaf="true"/>
+      <item key="632221" text="门源回族自治县" leaf="true"/>
+      <item key="632223" text="海晏县" leaf="true"/>
+    </item>
+    <item key="6325" text="海南藏族自治州" leaf="false">
+      <item key="632521" text="共和县" leaf="true"/>
+      <item key="632522" text="同德县" leaf="true"/>
+      <item key="632524" text="兴海县" leaf="true"/>
+      <item key="632523" text="贵德县" leaf="true"/>
+      <item key="632525" text="贵南县" leaf="true"/>
+    </item>
+    <item key="6326" text="果洛藏族自治州" leaf="false">
+      <item key="632621" text="玛沁县" leaf="true"/>
+      <item key="632623" text="甘德县" leaf="true"/>
+      <item key="632625" text="久治县" leaf="true"/>
+      <item key="632622" text="班玛县" leaf="true"/>
+      <item key="632624" text="达日县" leaf="true"/>
+      <item key="632626" text="玛多县" leaf="true"/>
+    </item>
+    <item key="6328" text="海西蒙古族藏族自治州" leaf="false">
+      <item key="632801" text="格尔木市" leaf="true"/>
+      <item key="632821" text="乌兰县" leaf="true"/>
+      <item key="632822" text="都兰县" leaf="true"/>
+      <item key="632802" text="德令哈市" leaf="true"/>
+      <item key="632823" text="天峻县" leaf="true"/>
+    </item>
+    <item key="6321" text="海东地区" leaf="false">
+      <item key="632121" text="平安县" leaf="true"/>
+      <item key="632123" text="乐都县" leaf="true"/>
+      <item key="632127" text="化隆回族自治县" leaf="true"/>
+      <item key="632122" text="民和回族土族自治县" leaf="true"/>
+      <item key="632126" text="互助土族自治县" leaf="true"/>
+      <item key="632128" text="循化撒拉族自治县" leaf="true"/>
+    </item>
+    <item key="6323" text="黄南藏族自治州" leaf="false">
+      <item key="632322" text="尖扎县" leaf="true"/>
+      <item key="632324" text="河南蒙古族自治县" leaf="true"/>
+      <item key="632321" text="同仁县" leaf="true"/>
+      <item key="632323" text="泽库县" leaf="true"/>
+    </item>
+    <item key="6327" text="玉树藏族自治州" leaf="false">
+      <item key="632721" text="玉树县" leaf="true"/>
+      <item key="632723" text="称多县" leaf="true"/>
+      <item key="632725" text="囊谦县" leaf="true"/>
+      <item key="632722" text="杂多县" leaf="true"/>
+      <item key="632724" text="治多县" leaf="true"/>
+      <item key="632726" text="曲麻莱县" leaf="true"/>
+    </item>
+  </item>
+  <item key="64" text="宁夏回族自治区" leaf="false">
+    <item key="6402" text="石嘴山市" leaf="false">
+      <item key="640202" text="大武口区" leaf="true"/>
+      <item key="640221" text="平罗县" leaf="true"/>
+      <item key="640205" text="惠农区" leaf="true"/>
+    </item>
+    <item key="6405" text="中卫市" leaf="false">
+      <item key="640502" text="沙坡头区" leaf="true"/>
+      <item key="640522" text="海原县" leaf="true"/>
+      <item key="640521" text="中宁县" leaf="true"/>
+    </item>
+    <item key="6401" text="银川市" leaf="false">
+      <item key="640104" text="兴庆区" leaf="true"/>
+      <item key="640106" text="金凤区" leaf="true"/>
+      <item key="640122" text="贺兰县" leaf="true"/>
+      <item key="640105" text="西夏区" leaf="true"/>
+      <item key="640121" text="永宁县" leaf="true"/>
+      <item key="640181" text="灵武市" leaf="true"/>
+    </item>
+    <item key="6403" text="吴忠市" leaf="false">
+      <item key="640323" text="盐池县" leaf="true"/>
+      <item key="640302" text="利通区" leaf="true"/>
+      <item key="640324" text="同心县" leaf="true"/>
+      <item key="640381" text="青铜峡市" leaf="true"/>
+    </item>
+    <item key="6404" text="固原市" leaf="false">
+      <item key="640422" text="西吉县" leaf="true"/>
+      <item key="640424" text="泾源县" leaf="true"/>
+      <item key="640402" text="原州区" leaf="true"/>
+      <item key="640423" text="隆德县" leaf="true"/>
+      <item key="640425" text="彭阳县" leaf="true"/>
+    </item>
+  </item>
+  <item key="37" text="山东省" leaf="false">
+    <item key="3716" text="滨州市" leaf="false">
+      <item key="371602" text="滨城区" leaf="true"/>
+      <item key="371621" text="惠民县" leaf="true"/>
+      <item key="371622" text="阳信县" leaf="true"/>
+      <item key="371623" text="无棣县" leaf="true"/>
+      <item key="371624" text="沾化县" leaf="true"/>
+      <item key="371625" text="博兴县" leaf="true"/>
+      <item key="371626" text="邹平县" leaf="true"/>
+    </item>
+    <item key="3717" text="菏泽市" leaf="false">
+      <item key="371702" text="牡丹区" leaf="true"/>
+      <item key="371722" text="单县" leaf="true"/>
+      <item key="371723" text="成武县" leaf="true"/>
+      <item key="371724" text="巨野县" leaf="true"/>
+      <item key="371725" text="郓城县" leaf="true"/>
+      <item key="371726" text="鄄城县" leaf="true"/>
+      <item key="371727" text="定陶县" leaf="true"/>
+      <item key="371728" text="东明县" leaf="true"/>
+      <item key="371721" text="曹县" leaf="true"/>
+    </item>
+    <item key="3702" text="青岛市" leaf="false">
+      <item key="370211" text="黄岛区" leaf="true"/>
+      <item key="370203" text="市北区" leaf="true"/>
+      <item key="370213" text="李沧区" leaf="true"/>
+      <item key="370281" text="胶州市" leaf="true"/>
+      <item key="370283" text="平度市" leaf="true"/>
+      <item key="370285" text="莱西市" leaf="true"/>
+      <item key="370202" text="市南区" leaf="true"/>
+      <item key="370205" text="四方区" leaf="true"/>
+      <item key="370212" text="崂山区" leaf="true"/>
+      <item key="370214" text="城阳区" leaf="true"/>
+      <item key="370282" text="即墨市" leaf="true"/>
+      <item key="370284" text="胶南市" leaf="true"/>
+    </item>
+    <item key="3704" text="枣庄市" leaf="false">
+      <item key="370403" text="薛城区" leaf="true"/>
+      <item key="370405" text="台儿庄区" leaf="true"/>
+      <item key="370481" text="滕州市" leaf="true"/>
+      <item key="370402" text="市中区" leaf="true"/>
+      <item key="370404" text="峄城区" leaf="true"/>
+      <item key="370406" text="山亭区" leaf="true"/>
+    </item>
+    <item key="3707" text="潍坊市" leaf="false">
+      <item key="370702" text="潍城区" leaf="true"/>
+      <item key="370704" text="坊子区" leaf="true"/>
+      <item key="370724" text="临朐县" leaf="true"/>
+      <item key="370781" text="青州市" leaf="true"/>
+      <item key="370783" text="寿光市" leaf="true"/>
+      <item key="370785" text="高密市" leaf="true"/>
+      <item key="370703" text="寒亭区" leaf="true"/>
+      <item key="370705" text="奎文区" leaf="true"/>
+      <item key="370725" text="昌乐县" leaf="true"/>
+      <item key="370782" text="诸城市" leaf="true"/>
+      <item key="370784" text="安丘市" leaf="true"/>
+      <item key="370786" text="昌邑市" leaf="true"/>
+    </item>
+    <item key="3709" text="泰安市" leaf="false">
+      <item key="370902" text="泰山区" leaf="true"/>
+      <item key="370921" text="宁阳县" leaf="true"/>
+      <item key="370982" text="新泰市" leaf="true"/>
+      <item key="370911" text="岱岳区" leaf="true"/>
+      <item key="370923" text="东平县" leaf="true"/>
+      <item key="370983" text="肥城市" leaf="true"/>
+    </item>
+    <item key="3711" text="日照市" leaf="false">
+      <item key="371102" text="东港区" leaf="true"/>
+      <item key="371121" text="五莲县" leaf="true"/>
+      <item key="371103" text="岚山区" leaf="true"/>
+      <item key="371122" text="莒县" leaf="true"/>
+    </item>
+    <item key="3713" text="临沂市" leaf="false">
+      <item key="371302" text="兰山区" leaf="true"/>
+      <item key="371312" text="河东区" leaf="true"/>
+      <item key="371322" text="郯城县" leaf="true"/>
+      <item key="371324" text="苍山县" leaf="true"/>
+      <item key="371327" text="莒南县" leaf="true"/>
+      <item key="371329" text="临沭县" leaf="true"/>
+      <item key="371311" text="罗庄区" leaf="true"/>
+      <item key="371321" text="沂南县" leaf="true"/>
+      <item key="371323" text="沂水县" leaf="true"/>
+      <item key="371325" text="费县" leaf="true"/>
+      <item key="371326" text="平邑县" leaf="true"/>
+      <item key="371328" text="蒙阴县" leaf="true"/>
+    </item>
+    <item key="3701" text="济南市" leaf="false">
+      <item key="370103" text="市中区" leaf="true"/>
+      <item key="370105" text="天桥区" leaf="true"/>
+      <item key="370113" text="长清区" leaf="true"/>
+      <item key="370125" text="济阳县" leaf="true"/>
+      <item key="370181" text="章丘市" leaf="true"/>
+      <item key="370102" text="历下区" leaf="true"/>
+      <item key="370104" text="槐荫区" leaf="true"/>
+      <item key="370112" text="历城区" leaf="true"/>
+      <item key="370124" text="平阴县" leaf="true"/>
+      <item key="370126" text="商河县" leaf="true"/>
+    </item>
+    <item key="3703" text="淄博市" leaf="false">
+      <item key="370303" text="张店区" leaf="true"/>
+      <item key="370305" text="临淄区" leaf="true"/>
+      <item key="370321" text="桓台县" leaf="true"/>
+      <item key="370323" text="沂源县" leaf="true"/>
+      <item key="370302" text="淄川区" leaf="true"/>
+      <item key="370304" text="博山区" leaf="true"/>
+      <item key="370306" text="周村区" leaf="true"/>
+      <item key="370322" text="高青县" leaf="true"/>
+    </item>
+    <item key="3705" text="东营市" leaf="false">
+      <item key="370503" text="河口区" leaf="true"/>
+      <item key="370522" text="利津县" leaf="true"/>
+      <item key="370502" text="东营区" leaf="true"/>
+      <item key="370521" text="垦利县" leaf="true"/>
+      <item key="370523" text="广饶县" leaf="true"/>
+    </item>
+    <item key="3706" text="烟台市" leaf="false">
+      <item key="370602" text="芝罘区" leaf="true"/>
+      <item key="370612" text="牟平区" leaf="true"/>
+      <item key="370634" text="长岛县" leaf="true"/>
+      <item key="370684" text="蓬莱市" leaf="true"/>
+      <item key="370686" text="栖霞市" leaf="true"/>
+      <item key="370611" text="福山区" leaf="true"/>
+      <item key="370613" text="莱山区" leaf="true"/>
+      <item key="370683" text="莱州市" leaf="true"/>
+      <item key="370685" text="招远市" leaf="true"/>
+      <item key="370687" text="海阳市" leaf="true"/>
+      <item key="370682" text="莱阳市" leaf="true"/>
+      <item key="370681" text="龙口市" leaf="true"/>
+    </item>
+    <item key="3708" text="济宁市" leaf="false">
+      <item key="370802" text="市中区" leaf="true"/>
+      <item key="370826" text="微山县" leaf="true"/>
+      <item key="370828" text="金乡县" leaf="true"/>
+      <item key="370830" text="汶上县" leaf="true"/>
+      <item key="370832" text="梁山县" leaf="true"/>
+      <item key="370882" text="兖州市" leaf="true"/>
+      <item key="370811" text="任城区" leaf="true"/>
+      <item key="370827" text="鱼台县" leaf="true"/>
+      <item key="370829" text="嘉祥县" leaf="true"/>
+      <item key="370831" text="泗水县" leaf="true"/>
+      <item key="370881" text="曲阜市" leaf="true"/>
+      <item key="370883" text="邹城市" leaf="true"/>
+    </item>
+    <item key="3710" text="威海市" leaf="false">
+      <item key="371002" text="环翠区" leaf="true"/>
+      <item key="371082" text="荣成市" leaf="true"/>
+      <item key="371081" text="文登市" leaf="true"/>
+      <item key="371083" text="乳山市" leaf="true"/>
+    </item>
+    <item key="3712" text="莱芜市" leaf="false">
+      <item key="371202" text="莱城区" leaf="true"/>
+      <item key="371203" text="钢城区" leaf="true"/>
+    </item>
+    <item key="3714" text="德州市" leaf="false">
+      <item key="371422" text="宁津县" leaf="true"/>
+      <item key="371423" text="庆云县" leaf="true"/>
+      <item key="371424" text="临邑县" leaf="true"/>
+      <item key="371425" text="齐河县" leaf="true"/>
+      <item key="371426" text="平原县" leaf="true"/>
+      <item key="371427" text="夏津县" leaf="true"/>
+      <item key="371428" text="武城县" leaf="true"/>
+      <item key="371481" text="乐陵市" leaf="true"/>
+      <item key="371482" text="禹城市" leaf="true"/>
+      <item key="371421" text="陵县" leaf="true"/>
+      <item key="371402" text="德城区" leaf="true"/>
+    </item>
+    <item key="3715" text="聊城市" leaf="false">
+      <item key="371502" text="东昌府区" leaf="true"/>
+      <item key="371521" text="阳谷县" leaf="true"/>
+      <item key="371522" text="莘县" leaf="true"/>
+      <item key="371523" text="茌平县" leaf="true"/>
+      <item key="371524" text="东阿县" leaf="true"/>
+      <item key="371525" text="冠县" leaf="true"/>
+      <item key="371526" text="高唐县" leaf="true"/>
+      <item key="371581" text="临清市" leaf="true"/>
+    </item>
+  </item>
+  <item key="14" text="山西省" leaf="false">
+    <item key="1402" text="大同市" leaf="false">
+      <item key="140203" text="矿区" leaf="true"/>
+      <item key="140212" text="新荣区" leaf="true"/>
+      <item key="140222" text="天镇县" leaf="true"/>
+      <item key="140224" text="灵丘县" leaf="true"/>
+      <item key="140226" text="左云县" leaf="true"/>
+      <item key="140202" text="城区" leaf="true"/>
+      <item key="140211" text="南郊区" leaf="true"/>
+      <item key="140221" text="阳高县" leaf="true"/>
+      <item key="140223" text="广灵县" leaf="true"/>
+      <item key="140225" text="浑源县" leaf="true"/>
+      <item key="140227" text="大同县" leaf="true"/>
+    </item>
+    <item key="1404" text="长治市" leaf="false">
+      <item key="140402" text="城区" leaf="true"/>
+      <item key="140421" text="长治县" leaf="true"/>
+      <item key="140424" text="屯留县" leaf="true"/>
+      <item key="140426" text="黎城县" leaf="true"/>
+      <item key="140428" text="长子县" leaf="true"/>
+      <item key="140430" text="沁县" leaf="true"/>
+      <item key="140481" text="潞城市" leaf="true"/>
+      <item key="140411" text="郊区" leaf="true"/>
+      <item key="140423" text="襄垣县" leaf="true"/>
+      <item key="140425" text="平顺县" leaf="true"/>
+      <item key="140427" text="壶关县" leaf="true"/>
+      <item key="140429" text="武乡县" leaf="true"/>
+      <item key="140431" text="沁源县" leaf="true"/>
+    </item>
+    <item key="1407" text="晋中市" leaf="false">
+      <item key="140721" text="榆社县" leaf="true"/>
+      <item key="140723" text="和顺县" leaf="true"/>
+      <item key="140725" text="寿阳县" leaf="true"/>
+      <item key="140727" text="祁县" leaf="true"/>
+      <item key="140728" text="平遥县" leaf="true"/>
+      <item key="140781" text="介休市" leaf="true"/>
+      <item key="140702" text="榆次区" leaf="true"/>
+      <item key="140722" text="左权县" leaf="true"/>
+      <item key="140726" text="太谷县" leaf="true"/>
+      <item key="140729" text="灵石县" leaf="true"/>
+      <item key="140724" text="昔阳县" leaf="true"/>
+    </item>
+    <item key="1410" text="临汾市" leaf="false">
+      <item key="141002" text="尧都区" leaf="true"/>
+      <item key="141021" text="曲沃县" leaf="true"/>
+      <item key="141022" text="翼城县" leaf="true"/>
+      <item key="141023" text="襄汾县" leaf="true"/>
+      <item key="141024" text="洪洞县" leaf="true"/>
+      <item key="141025" text="古县" leaf="true"/>
+      <item key="141026" text="安泽县" leaf="true"/>
+      <item key="141028" text="吉县" leaf="true"/>
+      <item key="141029" text="乡宁县" leaf="true"/>
+      <item key="141030" text="大宁县" leaf="true"/>
+      <item key="141031" text="隰县" leaf="true"/>
+      <item key="141032" text="永和县" leaf="true"/>
+      <item key="141033" text="蒲县" leaf="true"/>
+      <item key="141034" text="汾西县" leaf="true"/>
+      <item key="141081" text="侯马市" leaf="true"/>
+      <item key="141082" text="霍州市" leaf="true"/>
+      <item key="141027" text="浮山县" leaf="true"/>
+    </item>
+    <item key="1401" text="太原市" leaf="false">
+      <item key="140106" text="迎泽区" leaf="true"/>
+      <item key="140108" text="尖草坪区" leaf="true"/>
+      <item key="140110" text="晋源区" leaf="true"/>
+      <item key="140122" text="阳曲县" leaf="true"/>
+      <item key="140181" text="古交市" leaf="true"/>
+      <item key="140105" text="小店区" leaf="true"/>
+      <item key="140107" text="杏花岭区" leaf="true"/>
+      <item key="140109" text="万柏林区" leaf="true"/>
+      <item key="140121" text="清徐县" leaf="true"/>
+      <item key="140123" text="娄烦县" leaf="true"/>
+    </item>
+    <item key="1403" text="阳泉市" leaf="false">
+      <item key="140302" text="城区" leaf="true"/>
+      <item key="140311" text="郊区" leaf="true"/>
+      <item key="140322" text="盂县" leaf="true"/>
+      <item key="140303" text="矿区" leaf="true"/>
+      <item key="140321" text="平定县" leaf="true"/>
+    </item>
+    <item key="1405" text="晋城市" leaf="false">
+      <item key="140521" text="沁水县" leaf="true"/>
+      <item key="140524" text="陵川县" leaf="true"/>
+      <item key="140581" text="高平市" leaf="true"/>
+      <item key="140502" text="城区" leaf="true"/>
+      <item key="140522" text="阳城县" leaf="true"/>
+      <item key="140525" text="泽州县" leaf="true"/>
+    </item>
+    <item key="1406" text="朔州市" leaf="false">
+      <item key="140622" text="应县" leaf="true"/>
+      <item key="140624" text="怀仁县" leaf="true"/>
+      <item key="140602" text="朔城区" leaf="true"/>
+      <item key="140621" text="山阴县" leaf="true"/>
+      <item key="140623" text="右玉县" leaf="true"/>
+      <item key="140603" text="平鲁区" leaf="true"/>
+    </item>
+    <item key="1408" text="运城市" leaf="false">
+      <item key="140821" text="临猗县" leaf="true"/>
+      <item key="140823" text="闻喜县" leaf="true"/>
+      <item key="140825" text="新绛县" leaf="true"/>
+      <item key="140827" text="垣曲县" leaf="true"/>
+      <item key="140829" text="平陆县" leaf="true"/>
+      <item key="140802" text="盐湖区" leaf="true"/>
+      <item key="140822" text="万荣县" leaf="true"/>
+      <item key="140824" text="稷山县" leaf="true"/>
+      <item key="140826" text="绛县" leaf="true"/>
+      <item key="140828" text="夏县" leaf="true"/>
+      <item key="140830" text="芮城县" leaf="true"/>
+      <item key="140881" text="永济市" leaf="true"/>
+      <item key="140882" text="河津市" leaf="true"/>
+    </item>
+    <item key="1409" text="忻州市" leaf="false">
+      <item key="140902" text="忻府区" leaf="true"/>
+      <item key="140921" text="定襄县" leaf="true"/>
+      <item key="140922" text="五台县" leaf="true"/>
+      <item key="140923" text="代县" leaf="true"/>
+      <item key="140924" text="繁峙县" leaf="true"/>
+      <item key="140925" text="宁武县" leaf="true"/>
+      <item key="140926" text="静乐县" leaf="true"/>
+      <item key="140927" text="神池县" leaf="true"/>
+      <item key="140928" text="五寨县" leaf="true"/>
+      <item key="140929" text="岢岚县" leaf="true"/>
+      <item key="140930" text="河曲县" leaf="true"/>
+      <item key="140931" text="保德县" leaf="true"/>
+      <item key="140932" text="偏关县" leaf="true"/>
+      <item key="140981" text="原平市" leaf="true"/>
+    </item>
+    <item key="1411" text="吕梁市" leaf="false">
+      <item key="141102" text="离石区" leaf="true"/>
+      <item key="141181" text="孝义市" leaf="true"/>
+      <item key="141182" text="汾阳市" leaf="true"/>
+      <item key="141121" text="文水县" leaf="true"/>
+      <item key="141122" text="交城县" leaf="true"/>
+      <item key="141123" text="兴县" leaf="true"/>
+      <item key="141124" text="临县" leaf="true"/>
+      <item key="141125" text="柳林县" leaf="true"/>
+      <item key="141126" text="石楼县" leaf="true"/>
+      <item key="141127" text="岚县" leaf="true"/>
+      <item key="141128" text="方山县" leaf="true"/>
+      <item key="141129" text="中阳县" leaf="true"/>
+      <item key="141130" text="交口县" leaf="true"/>
+    </item>
+  </item>
+  <item key="54" text="西藏自治区" leaf="false">
+    <item key="5421" text="昌都地区" leaf="false">
+      <item key="542121" text="昌都县" leaf="true"/>
+      <item key="542123" text="贡觉县" leaf="true"/>
+      <item key="542125" text="丁青县" leaf="true"/>
+      <item key="542127" text="八宿县" leaf="true"/>
+      <item key="542129" text="芒康县" leaf="true"/>
+      <item key="542133" text="边坝县" leaf="true"/>
+      <item key="542122" text="江达县" leaf="true"/>
+      <item key="542124" text="类乌齐县" leaf="true"/>
+      <item key="542126" text="察雅县" leaf="true"/>
+      <item key="542128" text="左贡县" leaf="true"/>
+      <item key="542132" text="洛隆县" leaf="true"/>
+    </item>
+    <item key="5423" text="日喀则地区" leaf="false">
+      <item key="542322" text="南木林县" leaf="true"/>
+      <item key="542325" text="萨迦县" leaf="true"/>
+      <item key="542327" text="昂仁县" leaf="true"/>
+      <item key="542329" text="白朗县" leaf="true"/>
+      <item key="542331" text="康马县" leaf="true"/>
+      <item key="542333" text="仲巴县" leaf="true"/>
+      <item key="542335" text="吉隆县" leaf="true"/>
+      <item key="542337" text="萨嘎县" leaf="true"/>
+      <item key="542301" text="日喀则市" leaf="true"/>
+      <item key="542323" text="江孜县" leaf="true"/>
+      <item key="542324" text="定日县" leaf="true"/>
+      <item key="542326" text="拉孜县" leaf="true"/>
+      <item key="542328" text="谢通门县" leaf="true"/>
+      <item key="542330" text="仁布县" leaf="true"/>
+      <item key="542332" text="定结县" leaf="true"/>
+      <item key="542334" text="亚东县" leaf="true"/>
+      <item key="542336" text="聂拉木县" leaf="true"/>
+      <item key="542338" text="岗巴县" leaf="true"/>
+    </item>
+    <item key="5425" text="阿里地区" leaf="false">
+      <item key="542522" text="札达县" leaf="true"/>
+      <item key="542526" text="改则县" leaf="true"/>
+      <item key="542521" text="普兰县" leaf="true"/>
+      <item key="542523" text="噶尔县" leaf="true"/>
+      <item key="542525" text="革吉县" leaf="true"/>
+      <item key="542527" text="措勤县" leaf="true"/>
+      <item key="542524" text="日土县" leaf="true"/>
+    </item>
+    <item key="5401" text="拉萨市" leaf="false">
+      <item key="540102" text="城关区" leaf="true"/>
+      <item key="540122" text="当雄县" leaf="true"/>
+      <item key="540124" text="曲水县" leaf="true"/>
+      <item key="540126" text="达孜县" leaf="true"/>
+      <item key="540121" text="林周县" leaf="true"/>
+      <item key="540123" text="尼木县" leaf="true"/>
+      <item key="540125" text="堆龙德庆县" leaf="true"/>
+      <item key="540127" text="墨竹工卡县" leaf="true"/>
+    </item>
+    <item key="5422" text="山南地区" leaf="false">
+      <item key="542222" text="扎囊县" leaf="true"/>
+      <item key="542224" text="桑日县" leaf="true"/>
+      <item key="542226" text="曲松县" leaf="true"/>
+      <item key="542228" text="洛扎县" leaf="true"/>
+      <item key="542231" text="隆子县" leaf="true"/>
+      <item key="542233" text="浪卡子县" leaf="true"/>
+      <item key="542221" text="乃东县" leaf="true"/>
+      <item key="542223" text="贡嘎县" leaf="true"/>
+      <item key="542225" text="琼结县" leaf="true"/>
+      <item key="542227" text="措美县" leaf="true"/>
+      <item key="542229" text="加查县" leaf="true"/>
+      <item key="542232" text="错那县" leaf="true"/>
+    </item>
+    <item key="5424" text="那曲地区" leaf="false">
+      <item key="542421" text="那曲县" leaf="true"/>
+      <item key="542423" text="比如县" leaf="true"/>
+      <item key="542425" text="安多县" leaf="true"/>
+      <item key="542427" text="索县" leaf="true"/>
+      <item key="542428" text="班戈县" leaf="true"/>
+      <item key="542430" text="尼玛县" leaf="true"/>
+      <item key="542422" text="嘉黎县" leaf="true"/>
+      <item key="542424" text="聂荣县" leaf="true"/>
+      <item key="542426" text="申扎县" leaf="true"/>
+      <item key="542429" text="巴青县" leaf="true"/>
+    </item>
+    <item key="5426" text="林芝地区" leaf="false">
+      <item key="542621" text="林芝县" leaf="true"/>
+      <item key="542623" text="米林县" leaf="true"/>
+      <item key="542625" text="波密县" leaf="true"/>
+      <item key="542627" text="朗县" leaf="true"/>
+      <item key="542622" text="工布江达县" leaf="true"/>
+      <item key="542624" text="墨脱县" leaf="true"/>
+      <item key="542626" text="察隅县" leaf="true"/>
+    </item>
+  </item>
+  <item key="61" text="陕西省" leaf="false">
+    <item key="6102" text="铜川市" leaf="false">
+      <item key="610202" text="王益区" leaf="true"/>
+      <item key="610204" text="耀州区" leaf="true"/>
+      <item key="610203" text="印台区" leaf="true"/>
+      <item key="610222" text="宜君县" leaf="true"/>
+    </item>
+    <item key="6107" text="汉中市" leaf="false">
+      <item key="610702" text="汉台区" leaf="true"/>
+      <item key="610724" text="西乡县" leaf="true"/>
+      <item key="610727" text="略阳县" leaf="true"/>
+      <item key="610729" text="留坝县" leaf="true"/>
+      <item key="610721" text="南郑县" leaf="true"/>
+      <item key="610723" text="洋县" leaf="true"/>
+      <item key="610725" text="勉县" leaf="true"/>
+      <item key="610726" text="宁强县" leaf="true"/>
+      <item key="610728" text="镇巴县" leaf="true"/>
+      <item key="610730" text="佛坪县" leaf="true"/>
+      <item key="610722" text="城固县" leaf="true"/>
+    </item>
+    <item key="6109" text="安康市" leaf="false">
+      <item key="610921" text="汉阴县" leaf="true"/>
+      <item key="610923" text="宁陕县" leaf="true"/>
+      <item key="610925" text="岚皋县" leaf="true"/>
+      <item key="610927" text="镇坪县" leaf="true"/>
+      <item key="610929" text="白河县" leaf="true"/>
+      <item key="610902" text="汉滨区" leaf="true"/>
+      <item key="610922" text="石泉县" leaf="true"/>
+      <item key="610924" text="紫阳县" leaf="true"/>
+      <item key="610926" text="平利县" leaf="true"/>
+      <item key="610928" text="旬阳县" leaf="true"/>
+    </item>
+    <item key="6104" text="咸阳市" leaf="false">
+      <item key="610403" text="杨凌区" leaf="true"/>
+      <item key="610422" text="三原县" leaf="true"/>
+      <item key="610424" text="乾县" leaf="true"/>
+      <item key="610426" text="永寿县" leaf="true"/>
+      <item key="610428" text="长武县" leaf="true"/>
+      <item key="610430" text="淳化县" leaf="true"/>
+      <item key="610481" text="兴平市" leaf="true"/>
+      <item key="610402" text="秦都区" leaf="true"/>
+      <item key="610404" text="渭城区" leaf="true"/>
+      <item key="610423" text="泾阳县" leaf="true"/>
+      <item key="610425" text="礼泉县" leaf="true"/>
+      <item key="610427" text="彬县" leaf="true"/>
+      <item key="610429" text="旬邑县" leaf="true"/>
+      <item key="610431" text="武功县" leaf="true"/>
+    </item>
+    <item key="6101" text="西安市" leaf="false">
+      <item key="610103" text="碑林区" leaf="true"/>
+      <item key="610111" text="灞桥区" leaf="true"/>
+      <item key="610113" text="雁塔区" leaf="true"/>
+      <item key="610115" text="临潼区" leaf="true"/>
+      <item key="610122" text="蓝田县" leaf="true"/>
+      <item key="610125" text="户县" leaf="true"/>
+      <item key="610102" text="新城区" leaf="true"/>
+      <item key="610104" text="莲湖区" leaf="true"/>
+      <item key="610112" text="未央区" leaf="true"/>
+      <item key="610114" text="阎良区" leaf="true"/>
+      <item key="610116" text="长安区" leaf="true"/>
+      <item key="610124" text="周至县" leaf="true"/>
+      <item key="610126" text="高陵县" leaf="true"/>
+    </item>
+    <item key="6103" text="宝鸡市" leaf="false">
+      <item key="610302" text="渭滨区" leaf="true"/>
+      <item key="610304" text="陈仓区" leaf="true"/>
+      <item key="610323" text="岐山县" leaf="true"/>
+      <item key="610326" text="眉县" leaf="true"/>
+      <item key="610328" text="千阳县" leaf="true"/>
+      <item key="610330" text="凤县" leaf="true"/>
+      <item key="610331" text="太白县" leaf="true"/>
+      <item key="610303" text="金台区" leaf="true"/>
+      <item key="610322" text="凤翔县" leaf="true"/>
+      <item key="610324" text="扶风县" leaf="true"/>
+      <item key="610327" text="陇县" leaf="true"/>
+      <item key="610329" text="麟游县" leaf="true"/>
+    </item>
+    <item key="6105" text="渭南市" leaf="false">
+      <item key="610521" text="华县" leaf="true"/>
+      <item key="610523" text="大荔县" leaf="true"/>
+      <item key="610525" text="澄城县" leaf="true"/>
+      <item key="610527" text="白水县" leaf="true"/>
+      <item key="610502" text="临渭区" leaf="true"/>
+      <item key="610522" text="潼关县" leaf="true"/>
+      <item key="610524" text="合阳县" leaf="true"/>
+      <item key="610526" text="蒲城县" leaf="true"/>
+      <item key="610528" text="富平县" leaf="true"/>
+      <item key="610582" text="华阴市" leaf="true"/>
+      <item key="610581" text="韩城市" leaf="true"/>
+    </item>
+    <item key="6106" text="延安市" leaf="false">
+      <item key="610602" text="宝塔区" leaf="true"/>
+      <item key="610622" text="延川县" leaf="true"/>
+      <item key="610625" text="志丹县" leaf="true"/>
+      <item key="610627" text="甘泉县" leaf="true"/>
+      <item key="610629" text="洛川县" leaf="true"/>
+      <item key="610631" text="黄龙县" leaf="true"/>
+      <item key="610621" text="延长县" leaf="true"/>
+      <item key="610623" text="子长县" leaf="true"/>
+      <item key="610624" text="安塞县" leaf="true"/>
+      <item key="610626" text="吴起县" leaf="true"/>
+      <item key="610628" text="富县" leaf="true"/>
+      <item key="610630" text="宜川县" leaf="true"/>
+      <item key="610632" text="黄陵县" leaf="true"/>
+    </item>
+    <item key="6108" text="榆林市" leaf="false">
+      <item key="610821" text="神木县" leaf="true"/>
+      <item key="610823" text="横山县" leaf="true"/>
+      <item key="610825" text="定边县" leaf="true"/>
+      <item key="610827" text="米脂县" leaf="true"/>
+      <item key="610829" text="吴堡县" leaf="true"/>
+      <item key="610831" text="子洲县" leaf="true"/>
+      <item key="610802" text="榆阳区" leaf="true"/>
+      <item key="610822" text="府谷县" leaf="true"/>
+      <item key="610824" text="靖边县" leaf="true"/>
+      <item key="610826" text="绥德县" leaf="true"/>
+      <item key="610828" text="佳县" leaf="true"/>
+      <item key="610830" text="清涧县" leaf="true"/>
+    </item>
+    <item key="6110" text="商洛市" leaf="false">
+      <item key="611021" text="洛南县" leaf="true"/>
+      <item key="611023" text="商南县" leaf="true"/>
+      <item key="611025" text="镇安县" leaf="true"/>
+      <item key="611002" text="商州区" leaf="true"/>
+      <item key="611022" text="丹凤县" leaf="true"/>
+      <item key="611024" text="山阳县" leaf="true"/>
+      <item key="611026" text="柞水县" leaf="true"/>
+    </item>
+  </item>
+  <item key="42" text="湖北省" leaf="false">
+    <item key="4202" text="黄石市" leaf="false">
+      <item key="420205" text="铁山区" leaf="true"/>
+      <item key="420281" text="大冶市" leaf="true"/>
+      <item key="420203" text="西塞山区" leaf="true"/>
+      <item key="420204" text="下陆区" leaf="true"/>
+      <item key="420222" text="阳新县" leaf="true"/>
+      <item key="420202" text="黄石港区" leaf="true"/>
+    </item>
+    <item key="4228" text="恩施土家族苗族自治州" leaf="false">
+      <item key="422801" text="恩施市" leaf="true"/>
+      <item key="422802" text="利川市" leaf="true"/>
+      <item key="422822" text="建始县" leaf="true"/>
+      <item key="422823" text="巴东县" leaf="true"/>
+      <item key="422825" text="宣恩县" leaf="true"/>
+      <item key="422826" text="咸丰县" leaf="true"/>
+      <item key="422827" text="来凤县" leaf="true"/>
+      <item key="422828" text="鹤峰县" leaf="true"/>
+    </item>
+    <item key="4205" text="宜昌市" leaf="false">
+      <item key="420503" text="伍家岗区" leaf="true"/>
+      <item key="420505" text="猇亭区" leaf="true"/>
+      <item key="420525" text="远安县" leaf="true"/>
+      <item key="420527" text="秭归县" leaf="true"/>
+      <item key="420529" text="五峰土家族自治县" leaf="true"/>
+      <item key="420583" text="枝江市" leaf="true"/>
+      <item key="420502" text="西陵区" leaf="true"/>
+      <item key="420504" text="点军区" leaf="true"/>
+      <item key="420506" text="夷陵区" leaf="true"/>
+      <item key="420526" text="兴山县" leaf="true"/>
+      <item key="420528" text="长阳土家族自治县" leaf="true"/>
+      <item key="420581" text="宜都市" leaf="true"/>
+      <item key="420582" text="当阳市" leaf="true"/>
+    </item>
+    <item key="4207" text="鄂州市" leaf="false">
+      <item key="420703" text="华容区" leaf="true"/>
+      <item key="420702" text="梁子湖区" leaf="true"/>
+      <item key="420704" text="鄂城区" leaf="true"/>
+    </item>
+    <item key="4210" text="荆州市" leaf="false">
+      <item key="421003" text="荆州区" leaf="true"/>
+      <item key="421023" text="监利县" leaf="true"/>
+      <item key="421081" text="石首市" leaf="true"/>
+      <item key="421087" text="松滋市" leaf="true"/>
+      <item key="421002" text="沙市区" leaf="true"/>
+      <item key="421022" text="公安县" leaf="true"/>
+      <item key="421024" text="江陵县" leaf="true"/>
+      <item key="421083" text="洪湖市" leaf="true"/>
+    </item>
+    <item key="4201" text="武汉市" leaf="false">
+      <item key="420116" text="黄陂区" leaf="true"/>
+      <item key="420115" text="江夏区" leaf="true"/>
+      <item key="420117" text="新洲区" leaf="true"/>
+      <item key="420102" text="江岸区" leaf="true"/>
+      <item key="420104" text="硚口区" leaf="true"/>
+      <item key="420106" text="武昌区" leaf="true"/>
+      <item key="420111" text="洪山区" leaf="true"/>
+      <item key="420113" text="汉南区" leaf="true"/>
+      <item key="420103" text="江汉区" leaf="true"/>
+      <item key="420105" text="汉阳区" leaf="true"/>
+      <item key="420107" text="青山区" leaf="true"/>
+      <item key="420112" text="东西湖区" leaf="true"/>
+      <item key="420114" text="蔡甸区" leaf="true"/>
+    </item>
+    <item key="4203" text="十堰市" leaf="false">
+      <item key="420303" text="张湾区" leaf="true"/>
+      <item key="420322" text="郧西县" leaf="true"/>
+      <item key="420324" text="竹溪县" leaf="true"/>
+      <item key="420381" text="丹江口市" leaf="true"/>
+      <item key="420302" text="茅箭区" leaf="true"/>
+      <item key="420321" text="郧县" leaf="true"/>
+      <item key="420323" text="竹山县" leaf="true"/>
+      <item key="420325" text="房县" leaf="true"/>
+    </item>
+    <item key="4206" text="襄樊市" leaf="false">
+      <item key="420602" text="襄城区" leaf="true"/>
+      <item key="420607" text="襄阳区" leaf="true"/>
+      <item key="420625" text="谷城县" leaf="true"/>
+      <item key="420682" text="老河口市" leaf="true"/>
+      <item key="420684" text="宜城市" leaf="true"/>
+      <item key="420606" text="樊城区" leaf="true"/>
+      <item key="420624" text="南漳县" leaf="true"/>
+      <item key="420626" text="保康县" leaf="true"/>
+      <item key="420683" text="枣阳市" leaf="true"/>
+    </item>
+    <item key="4208" text="荆门市" leaf="false">
+      <item key="420822" text="沙洋县" leaf="true"/>
+      <item key="420821" text="京山县" leaf="true"/>
+      <item key="420881" text="钟祥市" leaf="true"/>
+      <item key="420804" text="掇刀区" leaf="true"/>
+      <item key="420802" text="东宝区" leaf="true"/>
+    </item>
+    <item key="4209" text="孝感市" leaf="false">
+      <item key="420902" text="孝南区" leaf="true"/>
+      <item key="420922" text="大悟县" leaf="true"/>
+      <item key="420981" text="应城市" leaf="true"/>
+      <item key="420984" text="汉川市" leaf="true"/>
+      <item key="420921" text="孝昌县" leaf="true"/>
+      <item key="420923" text="云梦县" leaf="true"/>
+      <item key="420982" text="安陆市" leaf="true"/>
+    </item>
+    <item key="4211" text="黄冈市" leaf="false">
+      <item key="421121" text="团风县" leaf="true"/>
+      <item key="421123" text="罗田县" leaf="true"/>
+      <item key="421125" text="浠水县" leaf="true"/>
+      <item key="421127" text="黄梅县" leaf="true"/>
+      <item key="421182" text="武穴市" leaf="true"/>
+      <item key="421102" text="黄州区" leaf="true"/>
+      <item key="421122" text="红安县" leaf="true"/>
+      <item key="421124" text="英山县" leaf="true"/>
+      <item key="421126" text="蕲春县" leaf="true"/>
+      <item key="421181" text="麻城市" leaf="true"/>
+    </item>
+    <item key="4212" text="咸宁市" leaf="false">
+      <item key="421202" text="咸安区" leaf="true"/>
+      <item key="421221" text="嘉鱼县" leaf="true"/>
+      <item key="421222" text="通城县" leaf="true"/>
+      <item key="421223" text="崇阳县" leaf="true"/>
+      <item key="421224" text="通山县" leaf="true"/>
+      <item key="421281" text="赤壁市" leaf="true"/>
+    </item>
+    <item key="4213" text="随州市" leaf="false">
+      <item key="421302" text="曾都区" leaf="true"/>
+      <item key="421381" text="广水市" leaf="true"/>
+    </item>
+    <item key="4290" text="省直辖县级行政单位" leaf="false">
+      <item key="429004" text="仙桃市" leaf="true"/>
+      <item key="429005" text="潜江市" leaf="true"/>
+      <item key="429006" text="天门市" leaf="true"/>
+      <item key="429021" text="神农架林区" leaf="true"/>
+    </item>
+  </item>
+  <item key="62" text="甘肃省" leaf="false">
+    <item key="6229" text="临夏回族自治州" leaf="false">
+      <item key="622921" text="临夏县" leaf="true"/>
+      <item key="622923" text="永靖县" leaf="true"/>
+      <item key="622925" text="和政县" leaf="true"/>
+      <item key="622927" text="积石山保安族东乡族撒拉族自治县" leaf="true"/>
+      <item key="622901" text="临夏市" leaf="true"/>
+      <item key="622922" text="康乐县" leaf="true"/>
+      <item key="622924" text="广河县" leaf="true"/>
+      <item key="622926" text="东乡族自治县" leaf="true"/>
+    </item>
+    <item key="6203" text="金昌市" leaf="false">
+      <item key="620302" text="金川区" leaf="true"/>
+      <item key="620321" text="永昌县" leaf="true"/>
+    </item>
+    <item key="6204" text="白银市" leaf="false">
+      <item key="620402" text="白银区" leaf="true"/>
+      <item key="620403" text="平川区" leaf="true"/>
+      <item key="620421" text="靖远县" leaf="true"/>
+      <item key="620422" text="会宁县" leaf="true"/>
+      <item key="620423" text="景泰县" leaf="true"/>
+    </item>
+    <item key="6206" text="武威市" leaf="false">
+      <item key="620602" text="凉州区" leaf="true"/>
+      <item key="620621" text="民勤县" leaf="true"/>
+      <item key="620622" text="古浪县" leaf="true"/>
+      <item key="620623" text="天祝藏族自治县" leaf="true"/>
+    </item>
+    <item key="6208" text="平凉市" leaf="false">
+      <item key="620802" text="崆峒区" leaf="true"/>
+      <item key="620821" text="泾川县" leaf="true"/>
+      <item key="620822" text="灵台县" leaf="true"/>
+      <item key="620823" text="崇信县" leaf="true"/>
+      <item key="620824" text="华亭县" leaf="true"/>
+      <item key="620825" text="庄浪县" leaf="true"/>
+      <item key="620826" text="静宁县" leaf="true"/>
+    </item>
+    <item key="6210" text="庆阳市" leaf="false">
+      <item key="621002" text="西峰区" leaf="true"/>
+      <item key="621021" text="庆城县" leaf="true"/>
+      <item key="621023" text="华池县" leaf="true"/>
+      <item key="621024" text="合水县" leaf="true"/>
+      <item key="621025" text="正宁县" leaf="true"/>
+      <item key="621026" text="宁县" leaf="true"/>
+      <item key="621027" text="镇原县" leaf="true"/>
+      <item key="621022" text="环县" leaf="true"/>
+    </item>
+    <item key="6201" text="兰州市" leaf="false">
+      <item key="620102" text="城关区" leaf="true"/>
+      <item key="620104" text="西固区" leaf="true"/>
+      <item key="620111" text="红古区" leaf="true"/>
+      <item key="620122" text="皋兰县" leaf="true"/>
+      <item key="620103" text="七里河区" leaf="true"/>
+      <item key="620105" text="安宁区" leaf="true"/>
+      <item key="620121" text="永登县" leaf="true"/>
+      <item key="620123" text="榆中县" leaf="true"/>
+    </item>
+    <item key="6202" text="嘉峪关市" leaf="true"/>
+    <item key="6205" text="天水市" leaf="false">
+      <item key="620502" text="秦州区" leaf="true"/>
+      <item key="620503" text="麦积区" leaf="true"/>
+      <item key="620521" text="清水县" leaf="true"/>
+      <item key="620522" text="秦安县" leaf="true"/>
+      <item key="620523" text="甘谷县" leaf="true"/>
+      <item key="620524" text="武山县" leaf="true"/>
+      <item key="620525" text="张家川回族自治县" leaf="true"/>
+    </item>
+    <item key="6207" text="张掖市" leaf="false">
+      <item key="620702" text="甘州区" leaf="true"/>
+      <item key="620721" text="肃南裕固族自治县" leaf="true"/>
+      <item key="620722" text="民乐县" leaf="true"/>
+      <item key="620723" text="临泽县" leaf="true"/>
+      <item key="620724" text="高台县" leaf="true"/>
+      <item key="620725" text="山丹县" leaf="true"/>
+    </item>
+    <item key="6209" text="酒泉市" leaf="false">
+      <item key="620902" text="肃州区" leaf="true"/>
+      <item key="620921" text="金塔县" leaf="true"/>
+      <item key="620922" text="瓜州县" leaf="true"/>
+      <item key="620923" text="肃北蒙古族自治县" leaf="true"/>
+      <item key="620924" text="阿克塞哈萨克族自治县" leaf="true"/>
+      <item key="620981" text="玉门市" leaf="true"/>
+      <item key="620982" text="敦煌市" leaf="true"/>
+    </item>
+    <item key="6211" text="定西市" leaf="false">
+      <item key="621121" text="通渭县" leaf="true"/>
+      <item key="621122" text="陇西县" leaf="true"/>
+      <item key="621123" text="渭源县" leaf="true"/>
+      <item key="621124" text="临洮县" leaf="true"/>
+      <item key="621125" text="漳县" leaf="true"/>
+      <item key="621126" text="岷县" leaf="true"/>
+      <item key="621102" text="安定区" leaf="true"/>
+    </item>
+    <item key="6212" text="陇南市" leaf="false">
+      <item key="621222" text="文县" leaf="true"/>
+      <item key="621223" text="宕昌县" leaf="true"/>
+      <item key="621224" text="康县" leaf="true"/>
+      <item key="621225" text="西和县" leaf="true"/>
+      <item key="621226" text="礼县" leaf="true"/>
+      <item key="621227" text="徽县" leaf="true"/>
+      <item key="621228" text="两当县" leaf="true"/>
+      <item key="621202" text="武都区" leaf="true"/>
+      <item key="621221" text="成县" leaf="true"/>
+    </item>
+    <item key="6230" text="甘南藏族自治州" leaf="false">
+      <item key="623024" text="迭部县" leaf="true"/>
+      <item key="623026" text="碌曲县" leaf="true"/>
+      <item key="623001" text="合作市" leaf="true"/>
+      <item key="623021" text="临潭县" leaf="true"/>
+      <item key="623022" text="卓尼县" leaf="true"/>
+      <item key="623025" text="玛曲县" leaf="true"/>
+      <item key="623027" text="夏河县" leaf="true"/>
+      <item key="623023" text="舟曲县" leaf="true"/>
+    </item>
+  </item>
+  <item key="12" text="天津市" leaf="false">
+    <item key="120113" text="北辰区" leaf="true"/>
+    <item key="120114" text="武清区" leaf="true"/>
+    <item key="120115" text="宝坻区" leaf="true"/>
+    <item key="120221" text="宁河县" leaf="true"/>
+    <item key="120223" text="静海县" leaf="true"/>
+    <item key="120225" text="蓟县" leaf="true"/>
+    <item key="120101" text="和平区" leaf="true"/>
+    <item key="120102" text="河东区" leaf="true"/>
+    <item key="120103" text="河西区" leaf="true"/>
+    <item key="120104" text="南开区" leaf="true"/>
+    <item key="120105" text="河北区" leaf="true"/>
+    <item key="120106" text="红桥区" leaf="true"/>
+    <item key="120107" text="塘沽区" leaf="true"/>
+    <item key="120108" text="汉沽区" leaf="true"/>
+    <item key="120109" text="大港区" leaf="true"/>
+    <item key="120110" text="东丽区" leaf="true"/>
+    <item key="120111" text="西青区" leaf="true"/>
+    <item key="120112" text="津南区" leaf="true"/>
+  </item>
+  <item key="15" text="内蒙古自治区" leaf="false">
+    <item key="1502" text="包头市" leaf="false">
+      <item key="150221" text="土默特右旗" leaf="true"/>
+      <item key="150223" text="达尔罕茂明安联合旗" leaf="true"/>
+      <item key="150202" text="东河区" leaf="true"/>
+      <item key="150203" text="昆都仑区" leaf="true"/>
+      <item key="150204" text="青山区" leaf="true"/>
+      <item key="150205" text="石拐区" leaf="true"/>
+      <item key="150206" text="白云矿区" leaf="true"/>
+      <item key="150207" text="九原区" leaf="true"/>
+      <item key="150222" text="固阳县" leaf="true"/>
+    </item>
+    <item key="1504" text="赤峰市" leaf="false">
+      <item key="150402" text="红山区" leaf="true"/>
+      <item key="150404" text="松山区" leaf="true"/>
+      <item key="150421" text="阿鲁科尔沁旗" leaf="true"/>
+      <item key="150423" text="巴林右旗" leaf="true"/>
+      <item key="150425" text="克什克腾旗" leaf="true"/>
+      <item key="150428" text="喀喇沁旗" leaf="true"/>
+      <item key="150430" text="敖汉旗" leaf="true"/>
+      <item key="150403" text="元宝山区" leaf="true"/>
+      <item key="150422" text="巴林左旗" leaf="true"/>
+      <item key="150426" text="翁牛特旗" leaf="true"/>
+      <item key="150429" text="宁城县" leaf="true"/>
+      <item key="150424" text="林西县" leaf="true"/>
+    </item>
+    <item key="1506" text="鄂尔多斯市" leaf="false">
+      <item key="150602" text="东胜区" leaf="true"/>
+      <item key="150621" text="达拉特旗" leaf="true"/>
+      <item key="150623" text="鄂托克前旗" leaf="true"/>
+      <item key="150625" text="杭锦旗" leaf="true"/>
+      <item key="150627" text="伊金霍洛旗" leaf="true"/>
+      <item key="150622" text="准格尔旗" leaf="true"/>
+      <item key="150624" text="鄂托克旗" leaf="true"/>
+      <item key="150626" text="乌审旗" leaf="true"/>
+    </item>
+    <item key="1508" text="巴彦淖尔市" leaf="false">
+      <item key="150802" text="临河区" leaf="true"/>
+      <item key="150822" text="磴口县" leaf="true"/>
+      <item key="150824" text="乌拉特中旗" leaf="true"/>
+      <item key="150826" text="杭锦后旗" leaf="true"/>
+      <item key="150821" text="五原县" leaf="true"/>
+      <item key="150823" text="乌拉特前旗" leaf="true"/>
+      <item key="150825" text="乌拉特后旗" leaf="true"/>
+    </item>
+    <item key="1522" text="兴安盟" leaf="false">
+      <item key="152201" text="乌兰浩特市" leaf="true"/>
+      <item key="152221" text="科尔沁右翼前旗" leaf="true"/>
+      <item key="152223" text="扎赉特旗" leaf="true"/>
+      <item key="152224" text="突泉县" leaf="true"/>
+      <item key="152202" text="阿尔山市" leaf="true"/>
+      <item key="152222" text="科尔沁右翼中旗" leaf="true"/>
+    </item>
+    <item key="1529" text="阿拉善盟" leaf="false">
+      <item key="152921" text="阿拉善左旗" leaf="true"/>
+      <item key="152923" text="额济纳旗" leaf="true"/>
+      <item key="152922" text="阿拉善右旗" leaf="true"/>
+    </item>
+    <item key="1501" text="呼和浩特市" leaf="false">
+      <item key="150102" text="新城区" leaf="true"/>
+      <item key="150103" text="回民区" leaf="true"/>
+      <item key="150104" text="玉泉区" leaf="true"/>
+      <item key="150105" text="赛罕区" leaf="true"/>
+      <item key="150121" text="土默特左旗" leaf="true"/>
+      <item key="150122" text="托克托县" leaf="true"/>
+      <item key="150123" text="和林格尔县" leaf="true"/>
+      <item key="150124" text="清水河县" leaf="true"/>
+      <item key="150125" text="武川县" leaf="true"/>
+    </item>
+    <item key="1503" text="乌海市" leaf="false">
+      <item key="150304" text="乌达区" leaf="true"/>
+      <item key="150302" text="海勃湾区" leaf="true"/>
+      <item key="150303" text="海南区" leaf="true"/>
+    </item>
+    <item key="1505" text="通辽市" leaf="false">
+      <item key="150521" text="科尔沁左翼中旗" leaf="true"/>
+      <item key="150523" text="开鲁县" leaf="true"/>
+      <item key="150524" text="库伦旗" leaf="true"/>
+      <item key="150526" text="扎鲁特旗" leaf="true"/>
+      <item key="150502" text="科尔沁区" leaf="true"/>
+      <item key="150522" text="科尔沁左翼后旗" leaf="true"/>
+      <item key="150525" text="奈曼旗" leaf="true"/>
+      <item key="150581" text="霍林郭勒市" leaf="true"/>
+    </item>
+    <item key="1507" text="呼伦贝尔市" leaf="false">
+      <item key="150721" text="阿荣旗" leaf="true"/>
+      <item key="150723" text="鄂伦春自治旗" leaf="true"/>
+      <item key="150724" text="鄂温克族自治旗" leaf="true"/>
+      <item key="150725" text="陈巴尔虎旗" leaf="true"/>
+      <item key="150727" text="新巴尔虎右旗" leaf="true"/>
+      <item key="150781" text="满洲里市" leaf="true"/>
+      <item key="150783" text="扎兰屯市" leaf="true"/>
+      <item key="150785" text="根河市" leaf="true"/>
+      <item key="150702" text="海拉尔区" leaf="true"/>
+      <item key="150722" text="莫力达瓦达斡尔族自治旗" leaf="true"/>
+      <item key="150726" text="新巴尔虎左旗" leaf="true"/>
+      <item key="150782" text="牙克石市" leaf="true"/>
+      <item key="150784" text="额尔古纳市" leaf="true"/>
+    </item>
+    <item key="1509" text="乌兰察布市" leaf="false">
+      <item key="150902" text="集宁区" leaf="true"/>
+      <item key="150922" text="化德县" leaf="true"/>
+      <item key="150924" text="兴和县" leaf="true"/>
+      <item key="150926" text="察哈尔右翼前旗" leaf="true"/>
+      <item key="150928" text="察哈尔右翼后旗" leaf="true"/>
+      <item key="150929" text="四子王旗" leaf="true"/>
+      <item key="150921" text="卓资县" leaf="true"/>
+      <item key="150923" text="商都县" leaf="true"/>
+      <item key="150925" text="凉城县" leaf="true"/>
+      <item key="150927" text="察哈尔右翼中旗" leaf="true"/>
+      <item key="150981" text="丰镇市" leaf="true"/>
+    </item>
+    <item key="1525" text="锡林郭勒盟" leaf="false">
+      <item key="152502" text="锡林浩特市" leaf="true"/>
+      <item key="152523" text="苏尼特左旗" leaf="true"/>
+      <item key="152525" text="东乌珠穆沁旗" leaf="true"/>
+      <item key="152526" text="西乌珠穆沁旗" leaf="true"/>
+      <item key="152528" text="镶黄旗" leaf="true"/>
+      <item key="152530" text="正蓝旗" leaf="true"/>
+      <item key="152501" text="二连浩特市" leaf="true"/>
+      <item key="152522" text="阿巴嘎旗" leaf="true"/>
+      <item key="152524" text="苏尼特右旗" leaf="true"/>
+      <item key="152527" text="太仆寺旗" leaf="true"/>
+      <item key="152529" text="正镶白旗" leaf="true"/>
+      <item key="152531" text="多伦县" leaf="true"/>
+    </item>
+  </item>
+  <item key="33" text="浙江省" leaf="false">
+    <item key="3302" text="宁波市" leaf="false">
+      <item key="330204" text="江东区" leaf="true"/>
+      <item key="330206" text="北仑区" leaf="true"/>
+      <item key="330212" text="鄞州区" leaf="true"/>
+      <item key="330226" text="宁海县" leaf="true"/>
+      <item key="330282" text="慈溪市" leaf="true"/>
+      <item key="330203" text="海曙区" leaf="true"/>
+      <item key="330205" text="江北区" leaf="true"/>
+      <item key="330211" text="镇海区" leaf="true"/>
+      <item key="330281" text="余姚市" leaf="true"/>
+      <item key="330283" text="奉化市" leaf="true"/>
+      <item key="330225" text="象山县" leaf="true"/>
+    </item>
+    <item key="3304" text="嘉兴市" leaf="false">
+      <item key="330411" text="秀洲区" leaf="true"/>
+      <item key="330424" text="海盐县" leaf="true"/>
+      <item key="330482" text="平湖市" leaf="true"/>
+      <item key="330402" text="南湖区" leaf="true"/>
+      <item key="330481" text="海宁市" leaf="true"/>
+      <item key="330483" text="桐乡市" leaf="true"/>
+      <item key="330421" text="嘉善县" leaf="true"/>
+    </item>
+    <item key="3306" text="绍兴市" leaf="false">
+      <item key="330621" text="绍兴县" leaf="true"/>
+      <item key="330681" text="诸暨市" leaf="true"/>
+      <item key="330683" text="嵊州市" leaf="true"/>
+      <item key="330602" text="越城区" leaf="true"/>
+      <item key="330624" text="新昌县" leaf="true"/>
+      <item key="330682" text="上虞市" leaf="true"/>
+    </item>
+    <item key="3301" text="杭州市" leaf="false">
+      <item key="330102" text="上城区" leaf="true"/>
+      <item key="330103" text="下城区" leaf="true"/>
+      <item key="330104" text="江干区" leaf="true"/>
+      <item key="330105" text="拱墅区" leaf="true"/>
+      <item key="330106" text="西湖区" leaf="true"/>
+      <item key="330108" text="滨江区" leaf="true"/>
+      <item key="330109" text="萧山区" leaf="true"/>
+      <item key="330110" text="余杭区" leaf="true"/>
+      <item key="330122" text="桐庐县" leaf="true"/>
+      <item key="330127" text="淳安县" leaf="true"/>
+      <item key="330182" text="建德市" leaf="true"/>
+      <item key="330183" text="富阳市" leaf="true"/>
+      <item key="330185" text="临安市" leaf="true"/>
+    </item>
+    <item key="3303" text="温州市" leaf="false">
+      <item key="330302" text="鹿城区" leaf="true"/>
+      <item key="330304" text="瓯海区" leaf="true"/>
+      <item key="330324" text="永嘉县" leaf="true"/>
+      <item key="330327" text="苍南县" leaf="true"/>
+      <item key="330329" text="泰顺县" leaf="true"/>
+      <item key="330382" text="乐清市" leaf="true"/>
+      <item key="330303" text="龙湾区" leaf="true"/>
+      <item key="330322" text="洞头县" leaf="true"/>
+      <item key="330326" text="平阳县" leaf="true"/>
+      <item key="330328" text="文成县" leaf="true"/>
+      <item key="330381" text="瑞安市" leaf="true"/>
+    </item>
+    <item key="3305" text="湖州市" leaf="false">
+      <item key="330502" text="吴兴区" leaf="true"/>
+      <item key="330521" text="德清县" leaf="true"/>
+      <item key="330523" text="安吉县" leaf="true"/>
+      <item key="330503" text="南浔区" leaf="true"/>
+      <item key="330522" text="长兴县" leaf="true"/>
+    </item>
+    <item key="3307" text="金华市" leaf="false">
+      <item key="330703" text="金东区" leaf="true"/>
+      <item key="330702" text="婺城区" leaf="true"/>
+      <item key="330723" text="武义县" leaf="true"/>
+      <item key="330727" text="磐安县" leaf="true"/>
+      <item key="330782" text="义乌市" leaf="true"/>
+      <item key="330784" text="永康市" leaf="true"/>
+      <item key="330726" text="浦江县" leaf="true"/>
+      <item key="330781" text="兰溪市" leaf="true"/>
+      <item key="330783" text="东阳市" leaf="true"/>
+    </item>
+    <item key="3308" text="衢州市" leaf="false">
+      <item key="330803" text="衢江区" leaf="true"/>
+      <item key="330824" text="开化县" leaf="true"/>
+      <item key="330881" text="江山市" leaf="true"/>
+      <item key="330802" text="柯城区" leaf="true"/>
+      <item key="330822" text="常山县" leaf="true"/>
+      <item key="330825" text="龙游县" leaf="true"/>
+    </item>
+    <item key="3310" text="台州市" leaf="false">
+      <item key="331003" text="黄岩区" leaf="true"/>
+      <item key="331021" text="玉环县" leaf="true"/>
+      <item key="331023" text="天台县" leaf="true"/>
+      <item key="331081" text="温岭市" leaf="true"/>
+      <item key="331002" text="椒江区" leaf="true"/>
+      <item key="331004" text="路桥区" leaf="true"/>
+      <item key="331022" text="三门县" leaf="true"/>
+      <item key="331024" text="仙居县" leaf="true"/>
+      <item key="331082" text="临海市" leaf="true"/>
+    </item>
+    <item key="3309" text="舟山市" leaf="false">
+      <item key="330903" text="普陀区" leaf="true"/>
+      <item key="330922" text="嵊泗县" leaf="true"/>
+      <item key="330902" text="定海区" leaf="true"/>
+      <item key="330921" text="岱山县" leaf="true"/>
+    </item>
+    <item key="3311" text="丽水市" leaf="false">
+      <item key="331102" text="莲都区" leaf="true"/>
+      <item key="331124" text="松阳县" leaf="true"/>
+      <item key="331126" text="庆元县" leaf="true"/>
+      <item key="331181" text="龙泉市" leaf="true"/>
+      <item key="331121" text="青田县" leaf="true"/>
+      <item key="331123" text="遂昌县" leaf="true"/>
+      <item key="331125" text="云和县" leaf="true"/>
+      <item key="331127" text="景宁畲族自治县" leaf="true"/>
+      <item key="331122" text="缙云县" leaf="true"/>
+    </item>
+  </item>
+  <item key="34" text="安徽省" leaf="false">
+    <item key="3413" text="宿州市" leaf="false">
+      <item key="341321" text="砀山县" leaf="true"/>
+      <item key="341323" text="灵璧县" leaf="true"/>
+      <item key="341302" text="埇桥区" leaf="true"/>
+      <item key="341322" text="萧县" leaf="true"/>
+      <item key="341324" text="泗县" leaf="true"/>
+    </item>
+    <item key="3415" text="六安市" leaf="false">
+      <item key="341502" text="金安区" leaf="true"/>
+      <item key="341521" text="寿县" leaf="true"/>
+      <item key="341523" text="舒城县" leaf="true"/>
+      <item key="341525" text="霍山县" leaf="true"/>
+      <item key="341503" text="裕安区" leaf="true"/>
+      <item key="341522" text="霍邱县" leaf="true"/>
+      <item key="341524" text="金寨县" leaf="true"/>
+    </item>
+    <item key="3417" text="池州市" leaf="false">
+      <item key="341721" text="东至县" leaf="true"/>
+      <item key="341723" text="青阳县" leaf="true"/>
+      <item key="341702" text="贵池区" leaf="true"/>
+      <item key="341722" text="石台县" leaf="true"/>
+    </item>
+    <item key="3402" text="芜湖市" leaf="false">
+      <item key="340202" text="镜湖区" leaf="true"/>
+      <item key="340207" text="鸠江区" leaf="true"/>
+      <item key="340221" text="芜湖县" leaf="true"/>
+      <item key="340223" text="南陵县" leaf="true"/>
+      <item key="340203" text="弋江区" leaf="true"/>
+      <item key="340208" text="三山区" leaf="true"/>
+      <item key="340222" text="繁昌县" leaf="true"/>
+    </item>
+    <item key="3404" text="淮南市" leaf="false">
+      <item key="340402" text="大通区" leaf="true"/>
+      <item key="340404" text="谢家集区" leaf="true"/>
+      <item key="340406" text="潘集区" leaf="true"/>
+      <item key="340403" text="田家庵区" leaf="true"/>
+      <item key="340405" text="八公山区" leaf="true"/>
+      <item key="340421" text="凤台县" leaf="true"/>
+    </item>
+    <item key="3406" text="淮北市" leaf="false">
+      <item key="340602" text="杜集区" leaf="true"/>
+      <item key="340604" text="烈山区" leaf="true"/>
+      <item key="340603" text="相山区" leaf="true"/>
+      <item key="340621" text="濉溪县" leaf="true"/>
+    </item>
+    <item key="3407" text="铜陵市" leaf="false">
+      <item key="340702" text="铜官山区" leaf="true"/>
+      <item key="340721" text="铜陵县" leaf="true"/>
+      <item key="340703" text="狮子山区" leaf="true"/>
+      <item key="340711" text="郊区" leaf="true"/>
+    </item>
+    <item key="3410" text="黄山市" leaf="false">
+      <item key="341002" text="屯溪区" leaf="true"/>
+      <item key="341004" text="徽州区" leaf="true"/>
+      <item key="341022" text="休宁县" leaf="true"/>
+      <item key="341024" text="祁门县" leaf="true"/>
+      <item key="341003" text="黄山区" leaf="true"/>
+      <item key="341021" text="歙县" leaf="true"/>
+      <item key="341023" text="黟县" leaf="true"/>
+    </item>
+    <item key="3412" text="阜阳市" leaf="false">
+      <item key="341203" text="颍东区" leaf="true"/>
+      <item key="341221" text="临泉县" leaf="true"/>
+      <item key="341225" text="阜南县" leaf="true"/>
+      <item key="341282" text="界首市" leaf="true"/>
+      <item key="341202" text="颍州区" leaf="true"/>
+      <item key="341204" text="颍泉区" leaf="true"/>
+      <item key="341226" text="颍上县" leaf="true"/>
+      <item key="341222" text="太和县" leaf="true"/>
+    </item>
+    <item key="3414" text="巢湖市" leaf="false">
+      <item key="341402" text="居巢区" leaf="true"/>
+      <item key="341422" text="无为县" leaf="true"/>
+      <item key="341424" text="和县" leaf="true"/>
+      <item key="341421" text="庐江县" leaf="true"/>
+      <item key="341423" text="含山县" leaf="true"/>
+    </item>
+    <item key="3416" text="亳州市" leaf="false">
+      <item key="341621" text="涡阳县" leaf="true"/>
+      <item key="341623" text="利辛县" leaf="true"/>
+      <item key="341602" text="谯城区" leaf="true"/>
+      <item key="341622" text="蒙城县" leaf="true"/>
+    </item>
+    <item key="3418" text="宣城市" leaf="false">
+      <item key="341821" text="郎溪县" leaf="true"/>
+      <item key="341823" text="泾县" leaf="true"/>
+      <item key="341825" text="旌德县" leaf="true"/>
+      <item key="341802" text="宣州区" leaf="true"/>
+      <item key="341822" text="广德县" leaf="true"/>
+      <item key="341824" text="绩溪县" leaf="true"/>
+      <item key="341881" text="宁国市" leaf="true"/>
+    </item>
+    <item key="3401" text="合肥市" leaf="false">
+      <item key="340103" text="庐阳区" leaf="true"/>
+      <item key="340111" text="包河区" leaf="true"/>
+      <item key="340122" text="肥东县" leaf="true"/>
+      <item key="340102" text="瑶海区" leaf="true"/>
+      <item key="340104" text="蜀山区" leaf="true"/>
+      <item key="340121" text="长丰县" leaf="true"/>
+      <item key="340123" text="肥西县" leaf="true"/>
+    </item>
+    <item key="3403" text="蚌埠市" leaf="false">
+      <item key="340303" text="蚌山区" leaf="true"/>
+      <item key="340311" text="淮上区" leaf="true"/>
+      <item key="340322" text="五河县" leaf="true"/>
+      <item key="340302" text="龙子湖区" leaf="true"/>
+      <item key="340304" text="禹会区" leaf="true"/>
+      <item key="340321" text="怀远县" leaf="true"/>
+      <item key="340323" text="固镇县" leaf="true"/>
+    </item>
+    <item key="3405" text="马鞍山市" leaf="false">
+      <item key="340502" text="金家庄区" leaf="true"/>
+      <item key="340504" text="雨山区" leaf="true"/>
+      <item key="340503" text="花山区" leaf="true"/>
+      <item key="340521" text="当涂县" leaf="true"/>
+    </item>
+    <item key="3408" text="安庆市" leaf="false">
+      <item key="340803" text="大观区" leaf="true"/>
+      <item key="340822" text="怀宁县" leaf="true"/>
+      <item key="340824" text="潜山县" leaf="true"/>
+      <item key="340826" text="宿松县" leaf="true"/>
+      <item key="340828" text="岳西县" leaf="true"/>
+      <item key="340802" text="迎江区" leaf="true"/>
+      <item key="340811" text="宜秀区" leaf="true"/>
+      <item key="340823" text="枞阳县" leaf="true"/>
+      <item key="340825" text="太湖县" leaf="true"/>
+      <item key="340827" text="望江县" leaf="true"/>
+      <item key="340881" text="桐城市" leaf="true"/>
+    </item>
+    <item key="3411" text="滁州市" leaf="false">
+      <item key="341103" text="南谯区" leaf="true"/>
+      <item key="341124" text="全椒县" leaf="true"/>
+      <item key="341126" text="凤阳县" leaf="true"/>
+      <item key="341182" text="明光市" leaf="true"/>
+      <item key="341102" text="琅琊区" leaf="true"/>
+      <item key="341122" text="来安县" leaf="true"/>
+      <item key="341125" text="定远县" leaf="true"/>
+      <item key="341181" text="天长市" leaf="true"/>
+    </item>
+  </item>
+  <item key="35" text="福建省" leaf="false">
+    <item key="3505" text="泉州市" leaf="false">
+      <item key="350502" text="鲤城区" leaf="true"/>
+      <item key="350503" text="丰泽区" leaf="true"/>
+      <item key="350504" text="洛江区" leaf="true"/>
+      <item key="350505" text="泉港区" leaf="true"/>
+      <item key="350521" text="惠安县" leaf="true"/>
+      <item key="350524" text="安溪县" leaf="true"/>
+      <item key="350525" text="永春县" leaf="true"/>
+      <item key="350526" text="德化县" leaf="true"/>
+      <item key="350527" text="金门县" leaf="true"/>
+      <item key="350581" text="石狮市" leaf="true"/>
+      <item key="350582" text="晋江市" leaf="true"/>
+      <item key="350583" text="南安市" leaf="true"/>
+    </item>
+    <item key="3507" text="南平市" leaf="false">
+      <item key="350702" text="延平区" leaf="true"/>
+      <item key="350721" text="顺昌县" leaf="true"/>
+      <item key="350722" text="浦城县" leaf="true"/>
+      <item key="350723" text="光泽县" leaf="true"/>
+      <item key="350724" text="松溪县" leaf="true"/>
+      <item key="350725" text="政和县" leaf="true"/>
+      <item key="350781" text="邵武市" leaf="true"/>
+      <item key="350782" text="武夷山市" leaf="true"/>
+      <item key="350783" text="建瓯市" leaf="true"/>
+      <item key="350784" text="建阳市" leaf="true"/>
+    </item>
+    <item key="3509" text="宁德市" leaf="false">
+      <item key="350902" text="蕉城区" leaf="true"/>
+      <item key="350921" text="霞浦县" leaf="true"/>
+      <item key="350922" text="古田县" leaf="true"/>
+      <item key="350923" text="屏南县" leaf="true"/>
+      <item key="350924" text="寿宁县" leaf="true"/>
+      <item key="350926" text="柘荣县" leaf="true"/>
+      <item key="350982" text="福鼎市" leaf="true"/>
+      <item key="350925" text="周宁县" leaf="true"/>
+      <item key="350981" text="福安市" leaf="true"/>
+    </item>
+    <item key="3501" text="福州市" leaf="false">
+      <item key="350102" text="鼓楼区" leaf="true"/>
+      <item key="350104" text="仓山区" leaf="true"/>
+      <item key="350111" text="晋安区" leaf="true"/>
+      <item key="350122" text="连江县" leaf="true"/>
+      <item key="350124" text="闽清县" leaf="true"/>
+      <item key="350128" text="平潭县" leaf="true"/>
+      <item key="350182" text="长乐市" leaf="true"/>
+      <item key="350103" text="台江区" leaf="true"/>
+      <item key="350105" text="马尾区" leaf="true"/>
+      <item key="350121" text="闽侯县" leaf="true"/>
+      <item key="350123" text="罗源县" leaf="true"/>
+      <item key="350125" text="永泰县" leaf="true"/>
+      <item key="350181" text="福清市" leaf="true"/>
+    </item>
+    <item key="3503" text="莆田市" leaf="false">
+      <item key="350302" text="城厢区" leaf="true"/>
+      <item key="350303" text="涵江区" leaf="true"/>
+      <item key="350304" text="荔城区" leaf="true"/>
+      <item key="350305" text="秀屿区" leaf="true"/>
+      <item key="350322" text="仙游县" leaf="true"/>
+    </item>
+    <item key="3502" text="厦门市" leaf="false">
+      <item key="350205" text="海沧区" leaf="true"/>
+      <item key="350211" text="集美区" leaf="true"/>
+      <item key="350213" text="翔安区" leaf="true"/>
+      <item key="350203" text="思明区" leaf="true"/>
+      <item key="350206" text="湖里区" leaf="true"/>
+      <item key="350212" text="同安区" leaf="true"/>
+    </item>
+    <item key="3504" text="三明市" leaf="false">
+      <item key="350481" text="永安市" leaf="true"/>
+      <item key="350402" text="梅列区" leaf="true"/>
+      <item key="350403" text="三元区" leaf="true"/>
+      <item key="350421" text="明溪县" leaf="true"/>
+      <item key="350423" text="清流县" leaf="true"/>
+      <item key="350424" text="宁化县" leaf="true"/>
+      <item key="350425" text="大田县" leaf="true"/>
+      <item key="350426" text="尤溪县" leaf="true"/>
+      <item key="350427" text="沙县" leaf="true"/>
+      <item key="350428" text="将乐县" leaf="true"/>
+      <item key="350429" text="泰宁县" leaf="true"/>
+      <item key="350430" text="建宁县" leaf="true"/>
+    </item>
+    <item key="3506" text="漳州市" leaf="false">
+      <item key="350602" text="芗城区" leaf="true"/>
+      <item key="350603" text="龙文区" leaf="true"/>
+      <item key="350622" text="云霄县" leaf="true"/>
+      <item key="350623" text="漳浦县" leaf="true"/>
+      <item key="350624" text="诏安县" leaf="true"/>
+      <item key="350625" text="长泰县" leaf="true"/>
+      <item key="350626" text="东山县" leaf="true"/>
+      <item key="350627" text="南靖县" leaf="true"/>
+      <item key="350628" text="平和县" leaf="true"/>
+      <item key="350629" text="华安县" leaf="true"/>
+      <item key="350681" text="龙海市" leaf="true"/>
+    </item>
+    <item key="3508" text="龙岩市" leaf="false">
+      <item key="350802" text="新罗区" leaf="true"/>
+      <item key="350821" text="长汀县" leaf="true"/>
+      <item key="350822" text="永定县" leaf="true"/>
+      <item key="350823" text="上杭县" leaf="true"/>
+      <item key="350824" text="武平县" leaf="true"/>
+      <item key="350825" text="连城县" leaf="true"/>
+      <item key="350881" text="漳平市" leaf="true"/>
+    </item>
+  </item>
+  <item key="36" text="江西省" leaf="false">
+    <item key="3601" text="南昌市" leaf="false">
+      <item key="360103" text="西湖区" leaf="true"/>
+      <item key="360105" text="湾里区" leaf="true"/>
+      <item key="360111" text="青山湖区" leaf="true"/>
+      <item key="360122" text="新建县" leaf="true"/>
+      <item key="360124" text="进贤县" leaf="true"/>
+      <item key="360102" text="东湖区" leaf="true"/>
+      <item key="360104" text="青云谱区" leaf="true"/>
+      <item key="360121" text="南昌县" leaf="true"/>
+      <item key="360123" text="安义县" leaf="true"/>
+    </item>
+    <item key="3603" text="萍乡市" leaf="false">
+      <item key="360313" text="湘东区" leaf="true"/>
+      <item key="360322" text="上栗县" leaf="true"/>
+      <item key="360302" text="安源区" leaf="true"/>
+      <item key="360321" text="莲花县" leaf="true"/>
+      <item key="360323" text="芦溪县" leaf="true"/>
+    </item>
+    <item key="3605" text="新余市" leaf="false">
+      <item key="360502" text="渝水区" leaf="true"/>
+      <item key="360521" text="分宜县" leaf="true"/>
+    </item>
+    <item key="3608" text="吉安市" leaf="false">
+      <item key="360803" text="青原区" leaf="true"/>
+      <item key="360822" text="吉水县" leaf="true"/>
+      <item key="360824" text="新干县" leaf="true"/>
+      <item key="360826" text="泰和县" leaf="true"/>
+      <item key="360828" text="万安县" leaf="true"/>
+      <item key="360830" text="永新县" leaf="true"/>
+      <item key="360802" text="吉州区" leaf="true"/>
+      <item key="360821" text="吉安县" leaf="true"/>
+      <item key="360823" text="峡江县" leaf="true"/>
+      <item key="360825" text="永丰县" leaf="true"/>
+      <item key="360827" text="遂川县" leaf="true"/>
+      <item key="360829" text="安福县" leaf="true"/>
+      <item key="360881" text="井冈山市" leaf="true"/>
+    </item>
+    <item key="3610" text="抚州市" leaf="false">
+      <item key="361002" text="临川区" leaf="true"/>
+      <item key="361022" text="黎川县" leaf="true"/>
+      <item key="361024" text="崇仁县" leaf="true"/>
+      <item key="361028" text="资溪县" leaf="true"/>
+      <item key="361030" text="广昌县" leaf="true"/>
+      <item key="361021" text="南城县" leaf="true"/>
+      <item key="361023" text="南丰县" leaf="true"/>
+      <item key="361027" text="金溪县" leaf="true"/>
+      <item key="361029" text="东乡县" leaf="true"/>
+      <item key="361026" text="宜黄县" leaf="true"/>
+      <item key="361025" text="乐安县" leaf="true"/>
+    </item>
+    <item key="3602" text="景德镇市" leaf="false">
+      <item key="360203" text="珠山区" leaf="true"/>
+      <item key="360281" text="乐平市" leaf="true"/>
+      <item key="360202" text="昌江区" leaf="true"/>
+      <item key="360222" text="浮梁县" leaf="true"/>
+    </item>
+    <item key="3604" text="九江市" leaf="false">
+      <item key="360402" text="庐山区" leaf="true"/>
+      <item key="360421" text="九江县" leaf="true"/>
+      <item key="360424" text="修水县" leaf="true"/>
+      <item key="360426" text="德安县" leaf="true"/>
+      <item key="360428" text="都昌县" leaf="true"/>
+      <item key="360430" text="彭泽县" leaf="true"/>
+      <item key="360403" text="浔阳区" leaf="true"/>
+      <item key="360423" text="武宁县" leaf="true"/>
+      <item key="360425" text="永修县" leaf="true"/>
+      <item key="360427" text="星子县" leaf="true"/>
+      <item key="360429" text="湖口县" leaf="true"/>
+      <item key="360481" text="瑞昌市" leaf="true"/>
+    </item>
+    <item key="3606" text="鹰潭市" leaf="false">
+      <item key="360602" text="月湖区" leaf="true"/>
+      <item key="360681" text="贵溪市" leaf="true"/>
+      <item key="360622" text="余江县" leaf="true"/>
+    </item>
+    <item key="3607" text="赣州市" leaf="false">
+      <item key="360721" text="赣县" leaf="true"/>
+      <item key="360723" text="大余县" leaf="true"/>
+      <item key="360725" text="崇义县" leaf="true"/>
+      <item key="360727" text="龙南县" leaf="true"/>
+      <item key="360729" text="全南县" leaf="true"/>
+      <item key="360731" text="于都县" leaf="true"/>
+      <item key="360733" text="会昌县" leaf="true"/>
+      <item key="360735" text="石城县" leaf="true"/>
+      <item key="360782" text="南康市" leaf="true"/>
+      <item key="360702" text="章贡区" leaf="true"/>
+      <item key="360722" text="信丰县" leaf="true"/>
+      <item key="360724" text="上犹县" leaf="true"/>
+      <item key="360726" text="安远县" leaf="true"/>
+      <item key="360728" text="定南县" leaf="true"/>
+      <item key="360730" text="宁都县" leaf="true"/>
+      <item key="360732" text="兴国县" leaf="true"/>
+      <item key="360734" text="寻乌县" leaf="true"/>
+      <item key="360781" text="瑞金市" leaf="true"/>
+    </item>
+    <item key="3609" text="宜春市" leaf="false">
+      <item key="360902" text="袁州区" leaf="true"/>
+      <item key="360922" text="万载县" leaf="true"/>
+      <item key="360924" text="宜丰县" leaf="true"/>
+      <item key="360926" text="铜鼓县" leaf="true"/>
+      <item key="360982" text="樟树市" leaf="true"/>
+      <item key="360921" text="奉新县" leaf="true"/>
+      <item key="360923" text="上高县" leaf="true"/>
+      <item key="360925" text="靖安县" leaf="true"/>
+      <item key="360981" text="丰城市" leaf="true"/>
+      <item key="360983" text="高安市" leaf="true"/>
+    </item>
+    <item key="3611" text="上饶市" leaf="false">
+      <item key="361121" text="上饶县" leaf="true"/>
+      <item key="361123" text="玉山县" leaf="true"/>
+      <item key="361125" text="横峰县" leaf="true"/>
+      <item key="361127" text="余干县" leaf="true"/>
+      <item key="361129" text="万年县" leaf="true"/>
+      <item key="361181" text="德兴市" leaf="true"/>
+      <item key="361102" text="信州区" leaf="true"/>
+      <item key="361122" text="广丰县" leaf="true"/>
+      <item key="361124" text="铅山县" leaf="true"/>
+      <item key="361126" text="弋阳县" leaf="true"/>
+      <item key="361128" text="鄱阳县" leaf="true"/>
+      <item key="361130" text="婺源县" leaf="true"/>
+    </item>
+  </item>
+  <item key="11" text="北京市" leaf="false">
+    <item key="110106" text="丰台区" leaf="true"/>
+    <item key="110107" text="石景山区" leaf="true"/>
+    <item key="110108" text="海淀区" leaf="true"/>
+    <item key="110109" text="门头沟区" leaf="true"/>
+    <item key="110111" text="房山区" leaf="true"/>
+    <item key="110112" text="通州区" leaf="true"/>
+    <item key="110113" text="顺义区" leaf="true"/>
+    <item key="110114" text="昌平区" leaf="true"/>
+    <item key="110115" text="大兴区" leaf="true"/>
+    <item key="110116" text="怀柔区" leaf="true"/>
+    <item key="110117" text="平谷区" leaf="true"/>
+    <item key="110228" text="密云县" leaf="true"/>
+    <item key="110229" text="延庆县" leaf="true"/>
+    <item key="110101" text="东城区" leaf="true"/>
+    <item key="110102" text="西城区" leaf="true"/>
+    <item key="110104" text="宣武区" leaf="true"/>
+    <item key="110105" text="朝阳区" leaf="true"/>
+    <item key="110103" text="崇文区" leaf="true"/>
+  </item>
+  <item key="21" text="辽宁省" leaf="false">
+    <item key="2101" text="沈阳市" leaf="false">
+      <item key="210102" text="和平区" leaf="true"/>
+      <item key="210104" text="大东区" leaf="true"/>
+      <item key="210106" text="铁西区" leaf="true"/>
+      <item key="210112" text="东陵区" leaf="true"/>
+      <item key="210114" text="于洪区" leaf="true"/>
+      <item key="210123" text="康平县" leaf="true"/>
+      <item key="210181" text="新民市" leaf="true"/>
+      <item key="210103" text="沈河区" leaf="true"/>
+      <item key="210105" text="皇姑区" leaf="true"/>
+      <item key="210111" text="苏家屯区" leaf="true"/>
+      <item key="210113" text="沈北新区" leaf="true"/>
+      <item key="210122" text="辽中县" leaf="true"/>
+      <item key="210124" text="法库县" leaf="true"/>
+    </item>
+    <item key="2103" text="鞍山市" leaf="false">
+      <item key="210302" text="铁东区" leaf="true"/>
+      <item key="210304" text="立山区" leaf="true"/>
+      <item key="210321" text="台安县" leaf="true"/>
+      <item key="210381" text="海城市" leaf="true"/>
+      <item key="210303" text="铁西区" leaf="true"/>
+      <item key="210311" text="千山区" leaf="true"/>
+      <item key="210323" text="岫岩满族自治县" leaf="true"/>
+    </item>
+    <item key="2105" text="本溪市" leaf="false">
+      <item key="210502" text="平山区" leaf="true"/>
+      <item key="210504" text="明山区" leaf="true"/>
+      <item key="210521" text="本溪满族自治县" leaf="true"/>
+      <item key="210503" text="溪湖区" leaf="true"/>
+      <item key="210505" text="南芬区" leaf="true"/>
+      <item key="210522" text="桓仁满族自治县" leaf="true"/>
+    </item>
+    <item key="2107" text="锦州市" leaf="false">
+      <item key="210703" text="凌河区" leaf="true"/>
+      <item key="210726" text="黑山县" leaf="true"/>
+      <item key="210782" text="北镇市" leaf="true"/>
+      <item key="210702" text="古塔区" leaf="true"/>
+      <item key="210711" text="太和区" leaf="true"/>
+      <item key="210727" text="义县" leaf="true"/>
+      <item key="210781" text="凌海市" leaf="true"/>
+    </item>
+    <item key="2109" text="阜新市" leaf="false">
+      <item key="210904" text="太平区" leaf="true"/>
+      <item key="210911" text="细河区" leaf="true"/>
+      <item key="210922" text="彰武县" leaf="true"/>
+      <item key="210903" text="新邱区" leaf="true"/>
+      <item key="210905" text="清河门区" leaf="true"/>
+      <item key="210921" text="阜新蒙古族自治县" leaf="true"/>
+      <item key="210902" text="海州区" leaf="true"/>
+    </item>
+    <item key="2112" text="铁岭市" leaf="false">
+      <item key="211202" text="银州区" leaf="true"/>
+      <item key="211221" text="铁岭县" leaf="true"/>
+      <item key="211224" text="昌图县" leaf="true"/>
+      <item key="211282" text="开原市" leaf="true"/>
+      <item key="211204" text="清河区" leaf="true"/>
+      <item key="211223" text="西丰县" leaf="true"/>
+      <item key="211281" text="调兵山市" leaf="true"/>
+    </item>
+    <item key="2114" text="葫芦岛市" leaf="false">
+      <item key="211402" text="连山区" leaf="true"/>
+      <item key="211404" text="南票区" leaf="true"/>
+      <item key="211422" text="建昌县" leaf="true"/>
+      <item key="211403" text="龙港区" leaf="true"/>
+      <item key="211421" text="绥中县" leaf="true"/>
+      <item key="211481" text="兴城市" leaf="true"/>
+    </item>
+    <item key="2102" text="大连市" leaf="false">
+      <item key="210203" text="西岗区" leaf="true"/>
+      <item key="210211" text="甘井子区" leaf="true"/>
+      <item key="210213" text="金州区" leaf="true"/>
+      <item key="210224" text="长海县" leaf="true"/>
+      <item key="210282" text="普兰店市" leaf="true"/>
+      <item key="210202" text="中山区" leaf="true"/>
+      <item key="210204" text="沙河口区" leaf="true"/>
+      <item key="210212" text="旅顺口区" leaf="true"/>
+      <item key="210281" text="瓦房店市" leaf="true"/>
+      <item key="210283" text="庄河市" leaf="true"/>
+    </item>
+    <item key="2104" text="抚顺市" leaf="false">
+      <item key="210402" text="新抚区" leaf="true"/>
+      <item key="210404" text="望花区" leaf="true"/>
+      <item key="210421" text="抚顺县" leaf="true"/>
+      <item key="210423" text="清原满族自治县" leaf="true"/>
+      <item key="210403" text="东洲区" leaf="true"/>
+      <item key="210411" text="顺城区" leaf="true"/>
+      <item key="210422" text="新宾满族自治县" leaf="true"/>
+    </item>
+    <item key="2106" text="丹东市" leaf="false">
+      <item key="210602" text="元宝区" leaf="true"/>
+      <item key="210603" text="振兴区" leaf="true"/>
+      <item key="210624" text="宽甸满族自治县" leaf="true"/>
+      <item key="210682" text="凤城市" leaf="true"/>
+      <item key="210604" text="振安区" leaf="true"/>
+      <item key="210681" text="东港市" leaf="true"/>
+    </item>
+    <item key="2108" text="营口市" leaf="false">
+      <item key="210803" text="西市区" leaf="true"/>
+      <item key="210811" text="老边区" leaf="true"/>
+      <item key="210881" text="盖州市" leaf="true"/>
+      <item key="210802" text="站前区" leaf="true"/>
+      <item key="210804" text="鲅鱼圈区" leaf="true"/>
+      <item key="210882" text="大石桥市" leaf="true"/>
+    </item>
+    <item key="2110" text="辽阳市" leaf="false">
+      <item key="211002" text="白塔区" leaf="true"/>
+      <item key="211004" text="宏伟区" leaf="true"/>
+      <item key="211011" text="太子河区" leaf="true"/>
+      <item key="211021" text="辽阳县" leaf="true"/>
+      <item key="211003" text="文圣区" leaf="true"/>
+      <item key="211005" text="弓长岭区" leaf="true"/>
+      <item key="211081" text="灯塔市" leaf="true"/>
+    </item>
+    <item key="2111" text="盘锦市" leaf="false">
+      <item key="211102" text="双台子区" leaf="true"/>
+      <item key="211121" text="大洼县" leaf="true"/>
+      <item key="211103" text="兴隆台区" leaf="true"/>
+      <item key="211122" text="盘山县" leaf="true"/>
+    </item>
+    <item key="2113" text="朝阳市" leaf="false">
+      <item key="211303" text="龙城区" leaf="true"/>
+      <item key="211322" text="建平县" leaf="true"/>
+      <item key="211381" text="北票市" leaf="true"/>
+      <item key="211382" text="凌源市" leaf="true"/>
+      <item key="211302" text="双塔区" leaf="true"/>
+      <item key="211321" text="朝阳县" leaf="true"/>
+      <item key="211324" text="喀喇沁左翼蒙古族自治县" leaf="true"/>
+    </item>
+  </item>
+  <item key="22" text="吉林省" leaf="false">
+    <item key="2204" text="辽源市" leaf="false">
+      <item key="220402" text="龙山区" leaf="true"/>
+      <item key="220403" text="西安区" leaf="true"/>
+      <item key="220421" text="东丰县" leaf="true"/>
+      <item key="220422" text="东辽县" leaf="true"/>
+    </item>
+    <item key="2207" text="松原市" leaf="false">
+      <item key="220702" text="宁江区" leaf="true"/>
+      <item key="220721" text="前郭尔罗斯蒙古族自治县" leaf="true"/>
+      <item key="220722" text="长岭县" leaf="true"/>
+      <item key="220723" text="乾安县" leaf="true"/>
+      <item key="220724" text="扶余县" leaf="true"/>
+    </item>
+    <item key="2224" text="延边朝鲜族自治州" leaf="false">
+      <item key="222401" text="延吉市" leaf="true"/>
+      <item key="222402" text="图们市" leaf="true"/>
+      <item key="222403" text="敦化市" leaf="true"/>
+      <item key="222404" text="珲春市" leaf="true"/>
+      <item key="222405" text="龙井市" leaf="true"/>
+      <item key="222406" text="和龙市" leaf="true"/>
+      <item key="222424" text="汪清县" leaf="true"/>
+      <item key="222426" text="安图县" leaf="true"/>
+    </item>
+    <item key="2201" text="长春市" leaf="false">
+      <item key="220102" text="南关区" leaf="true"/>
+      <item key="220103" text="宽城区" leaf="true"/>
+      <item key="220104" text="朝阳区" leaf="true"/>
+      <item key="220105" text="二道区" leaf="true"/>
+      <item key="220106" text="绿园区" leaf="true"/>
+      <item key="220112" text="双阳区" leaf="true"/>
+      <item key="220122" text="农安县" leaf="true"/>
+      <item key="220181" text="九台市" leaf="true"/>
+      <item key="220182" text="榆树市" leaf="true"/>
+      <item key="220183" text="德惠市" leaf="true"/>
+    </item>
+    <item key="2203" text="四平市" leaf="false">
+      <item key="220323" text="伊通满族自治县" leaf="true"/>
+      <item key="220381" text="公主岭市" leaf="true"/>
+      <item key="220382" text="双辽市" leaf="true"/>
+      <item key="220302" text="铁西区" leaf="true"/>
+      <item key="220303" text="铁东区" leaf="true"/>
+      <item key="220322" text="梨树县" leaf="true"/>
+    </item>
+    <item key="2202" text="吉林市" leaf="false">
+      <item key="220202" text="昌邑区" leaf="true"/>
+      <item key="220204" text="船营区" leaf="true"/>
+      <item key="220211" text="丰满区" leaf="true"/>
+      <item key="220221" text="永吉县" leaf="true"/>
+      <item key="220281" text="蛟河市" leaf="true"/>
+      <item key="220282" text="桦甸市" leaf="true"/>
+      <item key="220283" text="舒兰市" leaf="true"/>
+      <item key="220284" text="磐石市" leaf="true"/>
+      <item key="220203" text="龙潭区" leaf="true"/>
+    </item>
+    <item key="2205" text="通化市" leaf="false">
+      <item key="220502" text="东昌区" leaf="true"/>
+      <item key="220503" text="二道江区" leaf="true"/>
+      <item key="220521" text="通化县" leaf="true"/>
+      <item key="220523" text="辉南县" leaf="true"/>
+      <item key="220524" text="柳河县" leaf="true"/>
+      <item key="220581" text="梅河口市" leaf="true"/>
+      <item key="220582" text="集安市" leaf="true"/>
+    </item>
+    <item key="2206" text="白山市" leaf="false">
+      <item key="220602" text="八道江区" leaf="true"/>
+      <item key="220605" text="江源区" leaf="true"/>
+      <item key="220621" text="抚松县" leaf="true"/>
+      <item key="220622" text="靖宇县" leaf="true"/>
+      <item key="220623" text="长白朝鲜族自治县" leaf="true"/>
+      <item key="220681" text="临江市" leaf="true"/>
+    </item>
+    <item key="2208" text="白城市" leaf="false">
+      <item key="220802" text="洮北区" leaf="true"/>
+      <item key="220821" text="镇赉县" leaf="true"/>
+      <item key="220822" text="通榆县" leaf="true"/>
+      <item key="220881" text="洮南市" leaf="true"/>
+      <item key="220882" text="大安市" leaf="true"/>
+    </item>
+  </item>
+  <item key="23" text="黑龙江省" leaf="false">
+    <item key="2311" text="黑河市" leaf="false">
+      <item key="231102" text="爱辉区" leaf="true"/>
+      <item key="231123" text="逊克县" leaf="true"/>
+      <item key="231181" text="北安市" leaf="true"/>
+      <item key="231121" text="嫩江县" leaf="true"/>
+      <item key="231124" text="孙吴县" leaf="true"/>
+      <item key="231182" text="五大连池市" leaf="true"/>
+    </item>
+    <item key="2327" text="大兴安岭地区" leaf="false">
+      <item key="232701" text="加格达奇区" leaf="true"/>
+      <item key="232703" text="新林区" leaf="true"/>
+      <item key="232702" text="松岭区" leaf="true"/>
+      <item key="232704" text="呼中区" leaf="true"/>
+      <item key="232722" text="塔河县" leaf="true"/>
+      <item key="232721" text="呼玛县" leaf="true"/>
+      <item key="232723" text="漠河县" leaf="true"/>
+    </item>
+    <item key="2307" text="伊春市" leaf="false">
+      <item key="230702" text="伊春区" leaf="true"/>
+      <item key="230704" text="友好区" leaf="true"/>
+      <item key="230706" text="翠峦区" leaf="true"/>
+      <item key="230708" text="美溪区" leaf="true"/>
+      <item key="230710" text="五营区" leaf="true"/>
+      <item key="230712" text="汤旺河区" leaf="true"/>
+      <item key="230714" text="乌伊岭区" leaf="true"/>
+      <item key="230716" text="上甘岭区" leaf="true"/>
+      <item key="230703" text="南岔区" leaf="true"/>
+      <item key="230705" text="西林区" leaf="true"/>
+      <item key="230707" text="新青区" leaf="true"/>
+      <item key="230709" text="金山屯区" leaf="true"/>
+      <item key="230711" text="乌马河区" leaf="true"/>
+      <item key="230713" text="带岭区" leaf="true"/>
+      <item key="230715" text="红星区" leaf="true"/>
+      <item key="230722" text="嘉荫县" leaf="true"/>
+      <item key="230781" text="铁力市" leaf="true"/>
+    </item>
+    <item key="2309" text="七台河市" leaf="false">
+      <item key="230902" text="新兴区" leaf="true"/>
+      <item key="230904" text="茄子河区" leaf="true"/>
+      <item key="230903" text="桃山区" leaf="true"/>
+      <item key="230921" text="勃利县" leaf="true"/>
+    </item>
+    <item key="2303" text="鸡西市" leaf="false">
+      <item key="230303" text="恒山区" leaf="true"/>
+      <item key="230305" text="梨树区" leaf="true"/>
+      <item key="230307" text="麻山区" leaf="true"/>
+      <item key="230381" text="虎林市" leaf="true"/>
+      <item key="230302" text="鸡冠区" leaf="true"/>
+      <item key="230304" text="滴道区" leaf="true"/>
+      <item key="230306" text="城子河区" leaf="true"/>
+      <item key="230321" text="鸡东县" leaf="true"/>
+      <item key="230382" text="密山市" leaf="true"/>
+    </item>
+    <item key="2305" text="双鸭山市" leaf="false">
+      <item key="230506" text="宝山区" leaf="true"/>
+      <item key="230522" text="友谊县" leaf="true"/>
+      <item key="230524" text="饶河县" leaf="true"/>
+      <item key="230502" text="尖山区" leaf="true"/>
+      <item key="230505" text="四方台区" leaf="true"/>
+      <item key="230521" text="集贤县" leaf="true"/>
+      <item key="230523" text="宝清县" leaf="true"/>
+      <item key="230503" text="岭东区" leaf="true"/>
+    </item>
+    <item key="2301" text="哈尔滨市" leaf="false">
+      <item key="230112" text="阿城区" leaf="true"/>
+      <item key="230124" text="方正县" leaf="true"/>
+      <item key="230126" text="巴彦县" leaf="true"/>
+      <item key="230128" text="通河县" leaf="true"/>
+      <item key="230182" text="双城市" leaf="true"/>
+      <item key="230184" text="五常市" leaf="true"/>
+      <item key="230102" text="道里区" leaf="true"/>
+      <item key="230103" text="南岗区" leaf="true"/>
+      <item key="230104" text="道外区" leaf="true"/>
+      <item key="230108" text="平房区" leaf="true"/>
+      <item key="230110" text="香坊区" leaf="true"/>
+      <item key="230109" text="松北区" leaf="true"/>
+      <item key="230123" text="依兰县" leaf="true"/>
+      <item key="230125" text="宾县" leaf="true"/>
+      <item key="230127" text="木兰县" leaf="true"/>
+      <item key="230129" text="延寿县" leaf="true"/>
+      <item key="230183" text="尚志市" leaf="true"/>
+      <item key="230111" text="呼兰区" leaf="true"/>
+    </item>
+    <item key="2302" text="齐齐哈尔市" leaf="false">
+      <item key="230203" text="建华区" leaf="true"/>
+      <item key="230205" text="昂昂溪区" leaf="true"/>
+      <item key="230207" text="碾子山区" leaf="true"/>
+      <item key="230221" text="龙江县" leaf="true"/>
+      <item key="230223" text="依安县" leaf="true"/>
+      <item key="230224" text="泰来县" leaf="true"/>
+      <item key="230227" text="富裕县" leaf="true"/>
+      <item key="230230" text="克东县" leaf="true"/>
+      <item key="230281" text="讷河市" leaf="true"/>
+      <item key="230202" text="龙沙区" leaf="true"/>
+      <item key="230204" text="铁锋区" leaf="true"/>
+      <item key="230206" text="富拉尔基区" leaf="true"/>
+      <item key="230208" text="梅里斯达斡尔族区" leaf="true"/>
+      <item key="230225" text="甘南县" leaf="true"/>
+      <item key="230229" text="克山县" leaf="true"/>
+      <item key="230231" text="拜泉县" leaf="true"/>
+    </item>
+    <item key="2304" text="鹤岗市" leaf="false">
+      <item key="230402" text="向阳区" leaf="true"/>
+      <item key="230404" text="南山区" leaf="true"/>
+      <item key="230406" text="东山区" leaf="true"/>
+      <item key="230421" text="萝北县" leaf="true"/>
+      <item key="230403" text="工农区" leaf="true"/>
+      <item key="230405" text="兴安区" leaf="true"/>
+      <item key="230407" text="兴山区" leaf="true"/>
+      <item key="230422" text="绥滨县" leaf="true"/>
+    </item>
+    <item key="2306" text="大庆市" leaf="false">
+      <item key="230603" text="龙凤区" leaf="true"/>
+      <item key="230605" text="红岗区" leaf="true"/>
+      <item key="230621" text="肇州县" leaf="true"/>
+      <item key="230623" text="林甸县" leaf="true"/>
+      <item key="230602" text="萨尔图区" leaf="true"/>
+      <item key="230604" text="让胡路区" leaf="true"/>
+      <item key="230606" text="大同区" leaf="true"/>
+      <item key="230622" text="肇源县" leaf="true"/>
+      <item key="230624" text="杜尔伯特蒙古族自治县" leaf="true"/>
+    </item>
+    <item key="2308" text="佳木斯市" leaf="false">
+      <item key="230805" text="东风区" leaf="true"/>
+      <item key="230822" text="桦南县" leaf="true"/>
+      <item key="230828" text="汤原县" leaf="true"/>
+      <item key="230881" text="同江市" leaf="true"/>
+      <item key="230804" text="前进区" leaf="true"/>
+      <item key="230811" text="郊区" leaf="true"/>
+      <item key="230826" text="桦川县" leaf="true"/>
+      <item key="230833" text="抚远县" leaf="true"/>
+      <item key="230882" text="富锦市" leaf="true"/>
+      <item key="230803" text="向阳区" leaf="true"/>
+    </item>
+    <item key="2310" text="牡丹江市" leaf="false">
+      <item key="231002" text="东安区" leaf="true"/>
+      <item key="231004" text="爱民区" leaf="true"/>
+      <item key="231024" text="东宁县" leaf="true"/>
+      <item key="231081" text="绥芬河市" leaf="true"/>
+      <item key="231084" text="宁安市" leaf="true"/>
+      <item key="231085" text="穆棱市" leaf="true"/>
+      <item key="231003" text="阳明区" leaf="true"/>
+      <item key="231005" text="西安区" leaf="true"/>
+      <item key="231025" text="林口县" leaf="true"/>
+      <item key="231083" text="海林市" leaf="true"/>
+    </item>
+    <item key="2312" text="绥化市" leaf="false">
+      <item key="231202" text="北林区" leaf="true"/>
+      <item key="231222" text="兰西县" leaf="true"/>
+      <item key="231224" text="庆安县" leaf="true"/>
+      <item key="231226" text="绥棱县" leaf="true"/>
+      <item key="231282" text="肇东市" leaf="true"/>
+      <item key="231221" text="望奎县" leaf="true"/>
+      <item key="231223" text="青冈县" leaf="true"/>
+      <item key="231225" text="明水县" leaf="true"/>
+      <item key="231281" text="安达市" leaf="true"/>
+      <item key="231283" text="海伦市" leaf="true"/>
+    </item>
+  </item>
+  <item key="31" text="上海市" leaf="false">
+    <item key="310101" text="黄浦区" leaf="true"/>
+    <item key="310104" text="徐汇区" leaf="true"/>
+    <item key="310106" text="静安区" leaf="true"/>
+    <item key="310108" text="闸北区" leaf="true"/>
+    <item key="310110" text="杨浦区" leaf="true"/>
+    <item key="310113" text="宝山区" leaf="true"/>
+    <item key="310115" text="浦东新区" leaf="true"/>
+    <item key="310117" text="松江区" leaf="true"/>
+    <item key="310119" text="南汇区" leaf="true"/>
+    <item key="310230" text="崇明县" leaf="true"/>
+    <item key="310103" text="卢湾区" leaf="true"/>
+    <item key="310105" text="长宁区" leaf="true"/>
+    <item key="310107" text="普陀区" leaf="true"/>
+    <item key="310109" text="虹口区" leaf="true"/>
+    <item key="310112" text="闵行区" leaf="true"/>
+    <item key="310114" text="嘉定区" leaf="true"/>
+    <item key="310116" text="金山区" leaf="true"/>
+    <item key="310118" text="青浦区" leaf="true"/>
+    <item key="310120" text="奉贤区" leaf="true"/>
+  </item>
+  <item key="41" text="河南省" leaf="false">
+    <item key="4101" text="郑州市" leaf="false">
+      <item key="410102" text="中原区" leaf="true"/>
+      <item key="410103" text="二七区" leaf="true"/>
+      <item key="410104" text="管城回族区" leaf="true"/>
+      <item key="410105" text="金水区" leaf="true"/>
+      <item key="410106" text="上街区" leaf="true"/>
+      <item key="410108" text="惠济区" leaf="true"/>
+      <item key="410122" text="中牟县" leaf="true"/>
+      <item key="410181" text="巩义市" leaf="true"/>
+      <item key="410182" text="荥阳市" leaf="true"/>
+      <item key="410183" text="新密市" leaf="true"/>
+      <item key="410184" text="新郑市" leaf="true"/>
+      <item key="410185" text="登封市" leaf="true"/>
+    </item>
+    <item key="4103" text="洛阳市" leaf="false">
+      <item key="410302" text="老城区" leaf="true"/>
+      <item key="410303" text="西工区" leaf="true"/>
+      <item key="410304" text="瀍河回族区" leaf="true"/>
+      <item key="410305" text="涧西区" leaf="true"/>
+      <item key="410306" text="吉利区" leaf="true"/>
+      <item key="410311" text="洛龙区" leaf="true"/>
+      <item key="410322" text="孟津县" leaf="true"/>
+      <item key="410324" text="栾川县" leaf="true"/>
+      <item key="410326" text="汝阳县" leaf="true"/>
+      <item key="410328" text="洛宁县" leaf="true"/>
+      <item key="410381" text="偃师市" leaf="true"/>
+      <item key="410323" text="新安县" leaf="true"/>
+      <item key="410325" text="嵩县" leaf="true"/>
+      <item key="410327" text="宜阳县" leaf="true"/>
+      <item key="410329" text="伊川县" leaf="true"/>
+    </item>
+    <item key="4105" text="安阳市" leaf="false">
+      <item key="410503" text="北关区" leaf="true"/>
+      <item key="410506" text="龙安区" leaf="true"/>
+      <item key="410523" text="汤阴县" leaf="true"/>
+      <item key="410527" text="内黄县" leaf="true"/>
+      <item key="410502" text="文峰区" leaf="true"/>
+      <item key="410505" text="殷都区" leaf="true"/>
+      <item key="410522" text="安阳县" leaf="true"/>
+      <item key="410526" text="滑县" leaf="true"/>
+      <item key="410581" text="林州市" leaf="true"/>
+    </item>
+    <item key="4107" text="新乡市" leaf="false">
+      <item key="410703" text="卫滨区" leaf="true"/>
+      <item key="410711" text="牧野区" leaf="true"/>
+      <item key="410724" text="获嘉县" leaf="true"/>
+      <item key="410726" text="延津县" leaf="true"/>
+      <item key="410728" text="长垣县" leaf="true"/>
+      <item key="410782" text="辉县市" leaf="true"/>
+      <item key="410702" text="红旗区" leaf="true"/>
+      <item key="410704" text="凤泉区" leaf="true"/>
+      <item key="410721" text="新乡县" leaf="true"/>
+      <item key="410725" text="原阳县" leaf="true"/>
+      <item key="410727" text="封丘县" leaf="true"/>
+      <item key="410781" text="卫辉市" leaf="true"/>
+    </item>
+    <item key="4109" text="濮阳市" leaf="false">
+      <item key="410902" text="华龙区" leaf="true"/>
+      <item key="410923" text="南乐县" leaf="true"/>
+      <item key="410928" text="濮阳县" leaf="true"/>
+      <item key="410922" text="清丰县" leaf="true"/>
+      <item key="410926" text="范县" leaf="true"/>
+      <item key="410927" text="台前县" leaf="true"/>
+    </item>
+    <item key="4112" text="三门峡市" leaf="false">
+      <item key="411202" text="湖滨区" leaf="true"/>
+      <item key="411222" text="陕县" leaf="true"/>
+      <item key="411281" text="义马市" leaf="true"/>
+      <item key="411221" text="渑池县" leaf="true"/>
+      <item key="411224" text="卢氏县" leaf="true"/>
+      <item key="411282" text="灵宝市" leaf="true"/>
+    </item>
+    <item key="4114" text="商丘市" leaf="false">
+      <item key="411403" text="睢阳区" leaf="true"/>
+      <item key="411422" text="睢县" leaf="true"/>
+      <item key="411424" text="柘城县" leaf="true"/>
+      <item key="411426" text="夏邑县" leaf="true"/>
+      <item key="411402" text="梁园区" leaf="true"/>
+      <item key="411421" text="民权县" leaf="true"/>
+      <item key="411423" text="宁陵县" leaf="true"/>
+      <item key="411425" text="虞城县" leaf="true"/>
+      <item key="411481" text="永城市" leaf="true"/>
+    </item>
+    <item key="4116" text="周口市" leaf="false">
+      <item key="411602" text="川汇区" leaf="true"/>
+      <item key="411622" text="西华县" leaf="true"/>
+      <item key="411624" text="沈丘县" leaf="true"/>
+      <item key="411626" text="淮阳县" leaf="true"/>
+      <item key="411628" text="鹿邑县" leaf="true"/>
+      <item key="411621" text="扶沟县" leaf="true"/>
+      <item key="411623" text="商水县" leaf="true"/>
+      <item key="411625" text="郸城县" leaf="true"/>
+      <item key="411627" text="太康县" leaf="true"/>
+      <item key="411681" text="项城市" leaf="true"/>
+    </item>
+    <item key="4102" text="开封市" leaf="false">
+      <item key="410202" text="龙亭区" leaf="true"/>
+      <item key="410203" text="顺河回族区" leaf="true"/>
+      <item key="410204" text="鼓楼区" leaf="true"/>
+      <item key="410205" text="禹王台区" leaf="true"/>
+      <item key="410211" text="金明区" leaf="true"/>
+      <item key="410221" text="杞县" leaf="true"/>
+      <item key="410222" text="通许县" leaf="true"/>
+      <item key="410223" text="尉氏县" leaf="true"/>
+      <item key="410224" text="开封县" leaf="true"/>
+      <item key="410225" text="兰考县" leaf="true"/>
+    </item>
+    <item key="4104" text="平顶山市" leaf="false">
+      <item key="410403" text="卫东区" leaf="true"/>
+      <item key="410411" text="湛河区" leaf="true"/>
+      <item key="410422" text="叶县" leaf="true"/>
+      <item key="410425" text="郏县" leaf="true"/>
+      <item key="410482" text="汝州市" leaf="true"/>
+      <item key="410402" text="新华区" leaf="true"/>
+      <item key="410404" text="石龙区" leaf="true"/>
+      <item key="410421" text="宝丰县" leaf="true"/>
+      <item key="410423" text="鲁山县" leaf="true"/>
+      <item key="410481" text="舞钢市" leaf="true"/>
+    </item>
+    <item key="4106" text="鹤壁市" leaf="false">
+      <item key="410602" text="鹤山区" leaf="true"/>
+      <item key="410611" text="淇滨区" leaf="true"/>
+      <item key="410622" text="淇县" leaf="true"/>
+      <item key="410603" text="山城区" leaf="true"/>
+      <item key="410621" text="浚县" leaf="true"/>
+    </item>
+    <item key="4108" text="焦作市" leaf="false">
+      <item key="410803" text="中站区" leaf="true"/>
+      <item key="410811" text="山阳区" leaf="true"/>
+      <item key="410822" text="博爱县" leaf="true"/>
+      <item key="410825" text="温县" leaf="true"/>
+      <item key="410882" text="沁阳市" leaf="true"/>
+      <item key="410883" text="孟州市" leaf="true"/>
+      <item key="410881" text="济源市" leaf="true"/>
+      <item key="410802" text="解放区" leaf="true"/>
+      <item key="410804" text="马村区" leaf="true"/>
+      <item key="410821" text="修武县" leaf="true"/>
+      <item key="410823" text="武陟县" leaf="true"/>
+    </item>
+    <item key="4110" text="许昌市" leaf="false">
+      <item key="411023" text="许昌县" leaf="true"/>
+      <item key="411025" text="襄城县" leaf="true"/>
+      <item key="411082" text="长葛市" leaf="true"/>
+      <item key="411002" text="魏都区" leaf="true"/>
+      <item key="411024" text="鄢陵县" leaf="true"/>
+      <item key="411081" text="禹州市" leaf="true"/>
+    </item>
+    <item key="4111" text="漯河市" leaf="false">
+      <item key="411103" text="郾城区" leaf="true"/>
+      <item key="411121" text="舞阳县" leaf="true"/>
+      <item key="411102" text="源汇区" leaf="true"/>
+      <item key="411104" text="召陵区" leaf="true"/>
+      <item key="411122" text="临颍县" leaf="true"/>
+    </item>
+    <item key="4113" text="南阳市" leaf="false">
+      <item key="411302" text="宛城区" leaf="true"/>
+      <item key="411321" text="南召县" leaf="true"/>
+      <item key="411323" text="西峡县" leaf="true"/>
+      <item key="411325" text="内乡县" leaf="true"/>
+      <item key="411327" text="社旗县" leaf="true"/>
+      <item key="411329" text="新野县" leaf="true"/>
+      <item key="411381" text="邓州市" leaf="true"/>
+      <item key="411303" text="卧龙区" leaf="true"/>
+      <item key="411322" text="方城县" leaf="true"/>
+      <item key="411324" text="镇平县" leaf="true"/>
+      <item key="411326" text="淅川县" leaf="true"/>
+      <item key="411328" text="唐河县" leaf="true"/>
+      <item key="411330" text="桐柏县" leaf="true"/>
+    </item>
+    <item key="4115" text="信阳市" leaf="false">
+      <item key="411502" text="浉河区" leaf="true"/>
+      <item key="411521" text="罗山县" leaf="true"/>
+      <item key="411523" text="新县" leaf="true"/>
+      <item key="411525" text="固始县" leaf="true"/>
+      <item key="411527" text="淮滨县" leaf="true"/>
+      <item key="411503" text="平桥区" leaf="true"/>
+      <item key="411522" text="光山县" leaf="true"/>
+      <item key="411524" text="商城县" leaf="true"/>
+      <item key="411526" text="潢川县" leaf="true"/>
+      <item key="411528" text="息县" leaf="true"/>
+    </item>
+    <item key="4117" text="驻马店市" leaf="false">
+      <item key="411702" text="驿城区" leaf="true"/>
+      <item key="411722" text="上蔡县" leaf="true"/>
+      <item key="411724" text="正阳县" leaf="true"/>
+      <item key="411726" text="泌阳县" leaf="true"/>
+      <item key="411728" text="遂平县" leaf="true"/>
+      <item key="411721" text="西平县" leaf="true"/>
+      <item key="411723" text="平舆县" leaf="true"/>
+      <item key="411725" text="确山县" leaf="true"/>
+      <item key="411727" text="汝南县" leaf="true"/>
+      <item key="411729" text="新蔡县" leaf="true"/>
+    </item>
+  </item>
+  <item key="43" text="湖南省" leaf="false">
+    <item key="4301" text="长沙市" leaf="false">
+      <item key="430102" text="芙蓉区" leaf="true"/>
+      <item key="430103" text="天心区" leaf="true"/>
+      <item key="430104" text="岳麓区" leaf="true"/>
+      <item key="430105" text="开福区" leaf="true"/>
+      <item key="430111" text="雨花区" leaf="true"/>
+      <item key="430121" text="长沙县" leaf="true"/>
+      <item key="430122" text="望城县" leaf="true"/>
+      <item key="430124" text="宁乡县" leaf="true"/>
+      <item key="430181" text="浏阳市" leaf="true"/>
+    </item>
+    <item key="4303" text="湘潭市" leaf="false">
+      <item key="430302" text="雨湖区" leaf="true"/>
+      <item key="430304" text="岳塘区" leaf="true"/>
+      <item key="430321" text="湘潭县" leaf="true"/>
+      <item key="430381" text="湘乡市" leaf="true"/>
+      <item key="430382" text="韶山市" leaf="true"/>
+    </item>
+    <item key="4305" text="邵阳市" leaf="false">
+      <item key="430502" text="双清区" leaf="true"/>
+      <item key="430503" text="大祥区" leaf="true"/>
+      <item key="430511" text="北塔区" leaf="true"/>
+      <item key="430521" text="邵东县" leaf="true"/>
+      <item key="430522" text="新邵县" leaf="true"/>
+      <item key="430523" text="邵阳县" leaf="true"/>
+      <item key="430525" text="洞口县" leaf="true"/>
+      <item key="430528" text="新宁县" leaf="true"/>
+      <item key="430581" text="武冈市" leaf="true"/>
+      <item key="430524" text="隆回县" leaf="true"/>
+      <item key="430527" text="绥宁县" leaf="true"/>
+      <item key="430529" text="城步苗族自治县" leaf="true"/>
+    </item>
+    <item key="4302" text="株洲市" leaf="false">
+      <item key="430202" text="荷塘区" leaf="true"/>
+      <item key="430203" text="芦淞区" leaf="true"/>
+      <item key="430204" text="石峰区" leaf="true"/>
+      <item key="430211" text="天元区" leaf="true"/>
+      <item key="430221" text="株洲县" leaf="true"/>
+      <item key="430223" text="攸县" leaf="true"/>
+      <item key="430224" text="茶陵县" leaf="true"/>
+      <item key="430225" text="炎陵县" leaf="true"/>
+      <item key="430281" text="醴陵市" leaf="true"/>
+    </item>
+    <item key="4304" text="衡阳市" leaf="false">
+      <item key="430405" text="珠晖区" leaf="true"/>
+      <item key="430406" text="雁峰区" leaf="true"/>
+      <item key="430407" text="石鼓区" leaf="true"/>
+      <item key="430408" text="蒸湘区" leaf="true"/>
+      <item key="430412" text="南岳区" leaf="true"/>
+      <item key="430421" text="衡阳县" leaf="true"/>
+      <item key="430422" text="衡南县" leaf="true"/>
+      <item key="430423" text="衡山县" leaf="true"/>
+      <item key="430424" text="衡东县" leaf="true"/>
+      <item key="430426" text="祁东县" leaf="true"/>
+      <item key="430481" text="耒阳市" leaf="true"/>
+      <item key="430482" text="常宁市" leaf="true"/>
+    </item>
+    <item key="4306" text="岳阳市" leaf="false">
+      <item key="430624" text="湘阴县" leaf="true"/>
+      <item key="430681" text="汨罗市" leaf="true"/>
+      <item key="430602" text="岳阳楼区" leaf="true"/>
+      <item key="430611" text="君山区" leaf="true"/>
+      <item key="430623" text="华容县" leaf="true"/>
+      <item key="430626" text="平江县" leaf="true"/>
+      <item key="430682" text="临湘市" leaf="true"/>
+      <item key="430603" text="云溪区" leaf="true"/>
+      <item key="430621" text="岳阳县" leaf="true"/>
+    </item>
+    <item key="4308" text="张家界市" leaf="false">
+      <item key="430802" text="永定区" leaf="true"/>
+      <item key="430821" text="慈利县" leaf="true"/>
+      <item key="430811" text="武陵源区" leaf="true"/>
+      <item key="430822" text="桑植县" leaf="true"/>
+    </item>
+    <item key="4310" text="郴州市" leaf="false">
+      <item key="431002" text="北湖区" leaf="true"/>
+      <item key="431021" text="桂阳县" leaf="true"/>
+      <item key="431023" text="永兴县" leaf="true"/>
+      <item key="431025" text="临武县" leaf="true"/>
+      <item key="431027" text="桂东县" leaf="true"/>
+      <item key="431081" text="资兴市" leaf="true"/>
+      <item key="431003" text="苏仙区" leaf="true"/>
+      <item key="431022" text="宜章县" leaf="true"/>
+      <item key="431024" text="嘉禾县" leaf="true"/>
+      <item key="431026" text="汝城县" leaf="true"/>
+      <item key="431028" text="安仁县" leaf="true"/>
+    </item>
+    <item key="4312" text="怀化市" leaf="false">
+      <item key="431202" text="鹤城区" leaf="true"/>
+      <item key="431222" text="沅陵县" leaf="true"/>
+      <item key="431224" text="溆浦县" leaf="true"/>
+      <item key="431226" text="麻阳苗族自治县" leaf="true"/>
+      <item key="431229" text="靖州苗族侗族自治县" leaf="true"/>
+      <item key="431221" text="中方县" leaf="true"/>
+      <item key="431223" text="辰溪县" leaf="true"/>
+      <item key="431225" text="会同县" leaf="true"/>
+      <item key="431227" text="新晃侗族自治县" leaf="true"/>
+      <item key="431228" text="芷江侗族自治县" leaf="true"/>
+      <item key="431230" text="通道侗族自治县" leaf="true"/>
+      <item key="431281" text="洪江市" leaf="true"/>
+    </item>
+    <item key="4331" text="湘西土家族苗族自治州" leaf="false">
+      <item key="433122" text="泸溪县" leaf="true"/>
+      <item key="433124" text="花垣县" leaf="true"/>
+      <item key="433126" text="古丈县" leaf="true"/>
+      <item key="433130" text="龙山县" leaf="true"/>
+      <item key="433101" text="吉首市" leaf="true"/>
+      <item key="433123" text="凤凰县" leaf="true"/>
+      <item key="433125" text="保靖县" leaf="true"/>
+      <item key="433127" text="永顺县" leaf="true"/>
+    </item>
+    <item key="4307" text="常德市" leaf="false">
+      <item key="430721" text="安乡县" leaf="true"/>
+      <item key="430723" text="澧县" leaf="true"/>
+      <item key="430724" text="临澧县" leaf="true"/>
+      <item key="430726" text="石门县" leaf="true"/>
+      <item key="430702" text="武陵区" leaf="true"/>
+      <item key="430703" text="鼎城区" leaf="true"/>
+      <item key="430722" text="汉寿县" leaf="true"/>
+      <item key="430725" text="桃源县" leaf="true"/>
+      <item key="430781" text="津市市" leaf="true"/>
+    </item>
+    <item key="4309" text="益阳市" leaf="false">
+      <item key="430902" text="资阳区" leaf="true"/>
+      <item key="430921" text="南县" leaf="true"/>
+      <item key="430923" text="安化县" leaf="true"/>
+      <item key="430903" text="赫山区" leaf="true"/>
+      <item key="430922" text="桃江县" leaf="true"/>
+      <item key="430981" text="沅江市" leaf="true"/>
+    </item>
+    <item key="4311" text="永州市" leaf="false">
+      <item key="431103" text="冷水滩区" leaf="true"/>
+      <item key="431122" text="东安县" leaf="true"/>
+      <item key="431124" text="道县" leaf="true"/>
+      <item key="431126" text="宁远县" leaf="true"/>
+      <item key="431128" text="新田县" leaf="true"/>
+      <item key="431102" text="零陵区" leaf="true"/>
+      <item key="431121" text="祁阳县" leaf="true"/>
+      <item key="431123" text="双牌县" leaf="true"/>
+      <item key="431125" text="江永县" leaf="true"/>
+      <item key="431127" text="蓝山县" leaf="true"/>
+      <item key="431129" text="江华瑶族自治县" leaf="true"/>
+    </item>
+    <item key="4313" text="娄底市" leaf="false">
+      <item key="431302" text="娄星区" leaf="true"/>
+      <item key="431322" text="新化县" leaf="true"/>
+      <item key="431382" text="涟源市" leaf="true"/>
+      <item key="431381" text="冷水江市" leaf="true"/>
+      <item key="431321" text="双峰县" leaf="true"/>
+    </item>
+  </item>
+  <item key="65" text="新疆维吾尔自治区" leaf="false">
+    <item key="6501" text="乌鲁木齐市" leaf="false">
+      <item key="650103" text="沙依巴克区" leaf="true"/>
+      <item key="650105" text="水磨沟区" leaf="true"/>
+      <item key="650107" text="达坂城区" leaf="true"/>
+      <item key="650121" text="乌鲁木齐县" leaf="true"/>
+      <item key="650102" text="天山区" leaf="true"/>
+      <item key="650104" text="新市区" leaf="true"/>
+      <item key="650106" text="头屯河区" leaf="true"/>
+      <item key="650109" text="米东区" leaf="true"/>
+    </item>
+    <item key="6502" text="克拉玛依市" leaf="false">
+      <item key="650203" text="克拉玛依区" leaf="true"/>
+      <item key="650205" text="乌尔禾区" leaf="true"/>
+      <item key="650202" text="独山子区" leaf="true"/>
+      <item key="650204" text="白碱滩区" leaf="true"/>
+    </item>
+    <item key="6522" text="哈密地区" leaf="false">
+      <item key="652222" text="巴里坤哈萨克自治县" leaf="true"/>
+      <item key="652201" text="哈密市" leaf="true"/>
+      <item key="652223" text="伊吾县" leaf="true"/>
+    </item>
+    <item key="6527" text="博尔塔拉蒙古自治州" leaf="false">
+      <item key="652722" text="精河县" leaf="true"/>
+      <item key="652701" text="博乐市" leaf="true"/>
+      <item key="652723" text="温泉县" leaf="true"/>
+    </item>
+    <item key="6528" text="巴音郭楞蒙古自治州" leaf="false">
+      <item key="652801" text="库尔勒市" leaf="true"/>
+      <item key="652823" text="尉犁县" leaf="true"/>
+      <item key="652825" text="且末县" leaf="true"/>
+      <item key="652827" text="和静县" leaf="true"/>
+      <item key="652828" text="和硕县" leaf="true"/>
+      <item key="652822" text="轮台县" leaf="true"/>
+      <item key="652824" text="若羌县" leaf="true"/>
+      <item key="652826" text="焉耆回族自治县" leaf="true"/>
+      <item key="652829" text="博湖县" leaf="true"/>
+    </item>
+    <item key="6530" text="克孜勒苏柯尔克孜自治州" leaf="false">
+      <item key="653022" text="阿克陶县" leaf="true"/>
+      <item key="653023" text="阿合奇县" leaf="true"/>
+      <item key="653001" text="阿图什市" leaf="true"/>
+      <item key="653024" text="乌恰县" leaf="true"/>
+    </item>
+    <item key="6532" text="和田地区" leaf="false">
+      <item key="653201" text="和田市" leaf="true"/>
+      <item key="653221" text="和田县" leaf="true"/>
+      <item key="653222" text="墨玉县" leaf="true"/>
+      <item key="653224" text="洛浦县" leaf="true"/>
+      <item key="653226" text="于田县" leaf="true"/>
+      <item key="653223" text="皮山县" leaf="true"/>
+      <item key="653225" text="策勒县" leaf="true"/>
+      <item key="653227" text="民丰县" leaf="true"/>
+    </item>
+    <item key="6540" text="伊犁哈萨克自治州" leaf="false">
+      <item key="654002" text="伊宁市" leaf="true"/>
+      <item key="654021" text="伊宁县" leaf="true"/>
+      <item key="654023" text="霍城县" leaf="true"/>
+      <item key="654024" text="巩留县" leaf="true"/>
+      <item key="654026" text="昭苏县" leaf="true"/>
+      <item key="654028" text="尼勒克县" leaf="true"/>
+      <item key="654003" text="奎屯市" leaf="true"/>
+      <item key="654022" text="察布查尔锡伯自治县" leaf="true"/>
+      <item key="654025" text="新源县" leaf="true"/>
+      <item key="654027" text="特克斯县" leaf="true"/>
+    </item>
+    <item key="6543" text="阿勒泰地区" leaf="false">
+      <item key="654321" text="布尔津县" leaf="true"/>
+      <item key="654323" text="福海县" leaf="true"/>
+      <item key="654325" text="青河县" leaf="true"/>
+      <item key="654326" text="吉木乃县" leaf="true"/>
+      <item key="654301" text="阿勒泰市" leaf="true"/>
+      <item key="654322" text="富蕴县" leaf="true"/>
+      <item key="654324" text="哈巴河县" leaf="true"/>
+    </item>
+    <item key="6590" text="自治区直辖县级行政单位" leaf="false">
+      <item key="659001" text="石河子市" leaf="true"/>
+      <item key="659002" text="阿拉尔市" leaf="true"/>
+      <item key="659003" text="图木舒克市" leaf="true"/>
+      <item key="659004" text="五家渠市" leaf="true"/>
+    </item>
+    <item key="6521" text="吐鲁番地区" leaf="false">
+      <item key="652122" text="鄯善县" leaf="true"/>
+      <item key="652123" text="托克逊县" leaf="true"/>
+      <item key="652101" text="吐鲁番市" leaf="true"/>
+    </item>
+    <item key="6523" text="昌吉回族自治州" leaf="false">
+      <item key="652301" text="昌吉市" leaf="true"/>
+      <item key="652323" text="呼图壁县" leaf="true"/>
+      <item key="652325" text="奇台县" leaf="true"/>
+      <item key="652328" text="木垒哈萨克自治县" leaf="true"/>
+      <item key="652302" text="阜康市" leaf="true"/>
+      <item key="652324" text="玛纳斯县" leaf="true"/>
+      <item key="652327" text="吉木萨尔县" leaf="true"/>
+    </item>
+    <item key="6529" text="阿克苏地区" leaf="false">
+      <item key="652901" text="阿克苏市" leaf="true"/>
+      <item key="652923" text="库车县" leaf="true"/>
+      <item key="652925" text="新和县" leaf="true"/>
+      <item key="652927" text="乌什县" leaf="true"/>
+      <item key="652929" text="柯坪县" leaf="true"/>
+      <item key="652922" text="温宿县" leaf="true"/>
+      <item key="652924" text="沙雅县" leaf="true"/>
+      <item key="652926" text="拜城县" leaf="true"/>
+      <item key="652928" text="阿瓦提县" leaf="true"/>
+    </item>
+    <item key="6531" text="喀什地区" leaf="false">
+      <item key="653101" text="喀什市" leaf="true"/>
+      <item key="653122" text="疏勒县" leaf="true"/>
+      <item key="653124" text="泽普县" leaf="true"/>
+      <item key="653126" text="叶城县" leaf="true"/>
+      <item key="653128" text="岳普湖县" leaf="true"/>
+      <item key="653130" text="巴楚县" leaf="true"/>
+      <item key="653121" text="疏附县" leaf="true"/>
+      <item key="653123" text="英吉沙县" leaf="true"/>
+      <item key="653125" text="莎车县" leaf="true"/>
+      <item key="653127" text="麦盖提县" leaf="true"/>
+      <item key="653129" text="伽师县" leaf="true"/>
+      <item key="653131" text="塔什库尔干塔吉克自治县" leaf="true"/>
+    </item>
+    <item key="6542" text="塔城地区" leaf="false">
+      <item key="654201" text="塔城市" leaf="true"/>
+      <item key="654221" text="额敏县" leaf="true"/>
+      <item key="654224" text="托里县" leaf="true"/>
+      <item key="654226" text="和布克赛尔蒙古自治县" leaf="true"/>
+      <item key="654202" text="乌苏市" leaf="true"/>
+      <item key="654223" text="沙湾县" leaf="true"/>
+      <item key="654225" text="裕民县" leaf="true"/>
+    </item>
+  </item>
+  <item key="50" text="重庆市" leaf="false">
+    <item key="500101" text="万州区" leaf="true"/>
+    <item key="500102" text="涪陵区" leaf="true"/>
+    <item key="500103" text="渝中区" leaf="true"/>
+    <item key="500105" text="江北区" leaf="true"/>
+    <item key="500107" text="九龙坡区" leaf="true"/>
+    <item key="500109" text="北碚区" leaf="true"/>
+    <item key="500111" text="双桥区" leaf="true"/>
+    <item key="500113" text="巴南区" leaf="true"/>
+    <item key="500115" text="长寿区" leaf="true"/>
+    <item key="500117" text="合川区" leaf="true"/>
+    <item key="500119" text="南川区" leaf="true"/>
+    <item key="500223" text="潼南县" leaf="true"/>
+    <item key="500225" text="大足县" leaf="true"/>
+    <item key="500227" text="璧山县" leaf="true"/>
+    <item key="500229" text="城口县" leaf="true"/>
+    <item key="500231" text="垫江县" leaf="true"/>
+    <item key="500233" text="忠县" leaf="true"/>
+    <item key="500235" text="云阳县" leaf="true"/>
+    <item key="500237" text="巫山县" leaf="true"/>
+    <item key="500240" text="石柱土家族自治县" leaf="true"/>
+    <item key="500242" text="酉阳土家族苗族自治县" leaf="true"/>
+    <item key="500243" text="彭水苗族土家族自治县" leaf="true"/>
+    <item key="500104" text="大渡口区" leaf="true"/>
+    <item key="500106" text="沙坪坝区" leaf="true"/>
+    <item key="500108" text="南岸区" leaf="true"/>
+    <item key="500110" text="万盛区" leaf="true"/>
+    <item key="500112" text="渝北区" leaf="true"/>
+    <item key="500114" text="黔江区" leaf="true"/>
+    <item key="500116" text="江津区" leaf="true"/>
+    <item key="500118" text="永川区" leaf="true"/>
+    <item key="500222" text="綦江县" leaf="true"/>
+    <item key="500224" text="铜梁县" leaf="true"/>
+    <item key="500226" text="荣昌县" leaf="true"/>
+    <item key="500228" text="梁平县" leaf="true"/>
+    <item key="500230" text="丰都县" leaf="true"/>
+    <item key="500232" text="武隆县" leaf="true"/>
+    <item key="500234" text="开县" leaf="true"/>
+    <item key="500236" text="奉节县" leaf="true"/>
+    <item key="500238" text="巫溪县" leaf="true"/>
+    <item key="500241" text="秀山土家族苗族自治县" leaf="true"/>
+  </item>
+  <item key="52" text="贵州省" leaf="false">
+    <item key="5201" text="贵阳市" leaf="false">
+      <item key="520102" text="南明区" leaf="true"/>
+      <item key="520111" text="花溪区" leaf="true"/>
+      <item key="520113" text="白云区" leaf="true"/>
+      <item key="520121" text="开阳县" leaf="true"/>
+      <item key="520123" text="修文县" leaf="true"/>
+      <item key="520103" text="云岩区" leaf="true"/>
+      <item key="520112" text="乌当区" leaf="true"/>
+      <item key="520114" text="小河区" leaf="true"/>
+      <item key="520122" text="息烽县" leaf="true"/>
+      <item key="520181" text="清镇市" leaf="true"/>
+    </item>
+    <item key="5203" text="遵义市" leaf="false">
+      <item key="520302" text="红花岗区" leaf="true"/>
+      <item key="520321" text="遵义县" leaf="true"/>
+      <item key="520323" text="绥阳县" leaf="true"/>
+      <item key="520325" text="道真仡佬族苗族自治县" leaf="true"/>
+      <item key="520327" text="凤冈县" leaf="true"/>
+      <item key="520330" text="习水县" leaf="true"/>
+      <item key="520382" text="仁怀市" leaf="true"/>
+      <item key="520303" text="汇川区" leaf="true"/>
+      <item key="520322" text="桐梓县" leaf="true"/>
+      <item key="520324" text="正安县" leaf="true"/>
+      <item key="520326" text="务川仡佬族苗族自治县" leaf="true"/>
+      <item key="520329" text="余庆县" leaf="true"/>
+      <item key="520381" text="赤水市" leaf="true"/>
+      <item key="520328" text="湄潭县" leaf="true"/>
+    </item>
+    <item key="5222" text="铜仁地区" leaf="false">
+      <item key="522201" text="铜仁市" leaf="true"/>
+      <item key="522222" text="江口县" leaf="true"/>
+      <item key="522224" text="石阡县" leaf="true"/>
+      <item key="522225" text="思南县" leaf="true"/>
+      <item key="522227" text="德江县" leaf="true"/>
+      <item key="522228" text="沿河土家族自治县" leaf="true"/>
+      <item key="522229" text="松桃苗族自治县" leaf="true"/>
+      <item key="522223" text="玉屏侗族自治县" leaf="true"/>
+      <item key="522226" text="印江土家族苗族自治县" leaf="true"/>
+      <item key="522230" text="万山特区" leaf="true"/>
+    </item>
+    <item key="5224" text="毕节地区" leaf="false">
+      <item key="522401" text="毕节市" leaf="true"/>
+      <item key="522423" text="黔西县" leaf="true"/>
+      <item key="522425" text="织金县" leaf="true"/>
+      <item key="522427" text="威宁彝族回族苗族自治县" leaf="true"/>
+      <item key="522422" text="大方县" leaf="true"/>
+      <item key="522424" text="金沙县" leaf="true"/>
+      <item key="522426" text="纳雍县" leaf="true"/>
+      <item key="522428" text="赫章县" leaf="true"/>
+    </item>
+    <item key="5226" text="黔东南苗族侗族自治州" leaf="false">
+      <item key="522601" text="凯里市" leaf="true"/>
+      <item key="522623" text="施秉县" leaf="true"/>
+      <item key="522625" text="镇远县" leaf="true"/>
+      <item key="522627" text="天柱县" leaf="true"/>
+      <item key="522629" text="剑河县" leaf="true"/>
+      <item key="522631" text="黎平县" leaf="true"/>
+      <item key="522633" text="从江县" leaf="true"/>
+      <item key="522635" text="麻江县" leaf="true"/>
+      <item key="522622" text="黄平县" leaf="true"/>
+      <item key="522624" text="三穗县" leaf="true"/>
+      <item key="522626" text="岑巩县" leaf="true"/>
+      <item key="522628" text="锦屏县" leaf="true"/>
+      <item key="522630" text="台江县" leaf="true"/>
+      <item key="522632" text="榕江县" leaf="true"/>
+      <item key="522634" text="雷山县" leaf="true"/>
+      <item key="522636" text="丹寨县" leaf="true"/>
+    </item>
+    <item key="5227" text="黔南布依族苗族自治州" leaf="false">
+      <item key="522729" text="长顺县" leaf="true"/>
+      <item key="522731" text="惠水县" leaf="true"/>
+      <item key="522701" text="都匀市" leaf="true"/>
+      <item key="522722" text="荔波县" leaf="true"/>
+      <item key="522725" text="瓮安县" leaf="true"/>
+      <item key="522702" text="福泉市" leaf="true"/>
+      <item key="522723" text="贵定县" leaf="true"/>
+      <item key="522726" text="独山县" leaf="true"/>
+      <item key="522728" text="罗甸县" leaf="true"/>
+      <item key="522730" text="龙里县" leaf="true"/>
+      <item key="522732" text="三都水族自治县" leaf="true"/>
+      <item key="522727" text="平塘县" leaf="true"/>
+    </item>
+    <item key="5202" text="六盘水市" leaf="false">
+      <item key="520201" text="钟山区" leaf="true"/>
+      <item key="520221" text="水城县" leaf="true"/>
+      <item key="520203" text="六枝特区" leaf="true"/>
+      <item key="520222" text="盘县" leaf="true"/>
+    </item>
+    <item key="5204" text="安顺市" leaf="false">
+      <item key="520421" text="平坝县" leaf="true"/>
+      <item key="520423" text="镇宁布依族苗族自治县" leaf="true"/>
+      <item key="520425" text="紫云苗族布依族自治县" leaf="true"/>
+      <item key="520402" text="西秀区" leaf="true"/>
+      <item key="520422" text="普定县" leaf="true"/>
+      <item key="520424" text="关岭布依族苗族自治县" leaf="true"/>
+    </item>
+    <item key="5223" text="黔西南布依族苗族自治州" leaf="false">
+      <item key="522301" text="兴义市" leaf="true"/>
+      <item key="522323" text="普安县" leaf="true"/>
+      <item key="522325" text="贞丰县" leaf="true"/>
+      <item key="522327" text="册亨县" leaf="true"/>
+      <item key="522322" text="兴仁县" leaf="true"/>
+      <item key="522324" text="晴隆县" leaf="true"/>
+      <item key="522326" text="望谟县" leaf="true"/>
+      <item key="522328" text="安龙县" leaf="true"/>
+    </item>
+  </item>
+  <item key="53" text="云南省" leaf="false">
+    <item key="5303" text="曲靖市" leaf="false">
+      <item key="530302" text="麒麟区" leaf="true"/>
+      <item key="530322" text="陆良县" leaf="true"/>
+      <item key="530324" text="罗平县" leaf="true"/>
+      <item key="530326" text="会泽县" leaf="true"/>
+      <item key="530381" text="宣威市" leaf="true"/>
+      <item key="530321" text="马龙县" leaf="true"/>
+      <item key="530323" text="师宗县" leaf="true"/>
+      <item key="530325" text="富源县" leaf="true"/>
+      <item key="530328" text="沾益县" leaf="true"/>
+    </item>
+    <item key="5305" text="保山市" leaf="false">
+      <item key="530521" text="施甸县" leaf="true"/>
+      <item key="530523" text="龙陵县" leaf="true"/>
+      <item key="530502" text="隆阳区" leaf="true"/>
+      <item key="530522" text="腾冲县" leaf="true"/>
+      <item key="530524" text="昌宁县" leaf="true"/>
+    </item>
+    <item key="5307" text="丽江市" leaf="false">
+      <item key="530721" text="玉龙纳西族自治县" leaf="true"/>
+      <item key="530723" text="华坪县" leaf="true"/>
+      <item key="530702" text="古城区" leaf="true"/>
+      <item key="530722" text="永胜县" leaf="true"/>
+      <item key="530724" text="宁蒗彝族自治县" leaf="true"/>
+    </item>
+    <item key="5323" text="楚雄彝族自治州" leaf="false">
+      <item key="532301" text="楚雄市" leaf="true"/>
+      <item key="532322" text="双柏县" leaf="true"/>
+      <item key="532323" text="牟定县" leaf="true"/>
+      <item key="532324" text="南华县" leaf="true"/>
+      <item key="532325" text="姚安县" leaf="true"/>
+      <item key="532326" text="大姚县" leaf="true"/>
+      <item key="532328" text="元谋县" leaf="true"/>
+      <item key="532329" text="武定县" leaf="true"/>
+      <item key="532331" text="禄丰县" leaf="true"/>
+      <item key="532327" text="永仁县" leaf="true"/>
+    </item>
+    <item key="5325" text="红河哈尼族彝族自治州" leaf="false">
+      <item key="532501" text="个旧市" leaf="true"/>
+      <item key="532502" text="开远市" leaf="true"/>
+      <item key="532522" text="蒙自县" leaf="true"/>
+      <item key="532523" text="屏边苗族自治县" leaf="true"/>
+      <item key="532524" text="建水县" leaf="true"/>
+      <item key="532525" text="石屏县" leaf="true"/>
+      <item key="532526" text="弥勒县" leaf="true"/>
+      <item key="532527" text="泸西县" leaf="true"/>
+      <item key="532528" text="元阳县" leaf="true"/>
+      <item key="532529" text="红河县" leaf="true"/>
+      <item key="532530" text="金平苗族瑶族傣族自治县" leaf="true"/>
+      <item key="532531" text="绿春县" leaf="true"/>
+      <item key="532532" text="河口瑶族自治县" leaf="true"/>
+    </item>
+    <item key="5328" text="西双版纳傣族自治州" leaf="false">
+      <item key="532801" text="景洪市" leaf="true"/>
+      <item key="532822" text="勐海县" leaf="true"/>
+      <item key="532823" text="勐腊县" leaf="true"/>
+    </item>
+    <item key="5329" text="大理白族自治州" leaf="false">
+      <item key="532901" text="大理市" leaf="true"/>
+      <item key="532922" text="漾濞彝族自治县" leaf="true"/>
+      <item key="532923" text="祥云县" leaf="true"/>
+      <item key="532924" text="宾川县" leaf="true"/>
+      <item key="532925" text="弥渡县" leaf="true"/>
+      <item key="532926" text="南涧彝族自治县" leaf="true"/>
+      <item key="532927" text="巍山彝族回族自治县" leaf="true"/>
+      <item key="532928" text="永平县" leaf="true"/>
+      <item key="532929" text="云龙县" leaf="true"/>
+      <item key="532930" text="洱源县" leaf="true"/>
+      <item key="532931" text="剑川县" leaf="true"/>
+      <item key="532932" text="鹤庆县" leaf="true"/>
+    </item>
+    <item key="5333" text="怒江傈僳族自治州" leaf="false">
+      <item key="533321" text="泸水县" leaf="true"/>
+      <item key="533324" text="贡山独龙族怒族自治县" leaf="true"/>
+      <item key="533323" text="福贡县" leaf="true"/>
+      <item key="533325" text="兰坪白族普米族自治县" leaf="true"/>
+    </item>
+    <item key="5334" text="迪庆藏族自治州" leaf="false">
+      <item key="533421" text="香格里拉县" leaf="true"/>
+      <item key="533423" text="维西傈僳族自治县" leaf="true"/>
+      <item key="533422" text="德钦县" leaf="true"/>
+    </item>
+    <item key="5309" text="临沧市" leaf="false">
+      <item key="530902" text="临翔区" leaf="true"/>
+      <item key="530921" text="凤庆县" leaf="true"/>
+      <item key="530922" text="云县" leaf="true"/>
+      <item key="530923" text="永德县" leaf="true"/>
+      <item key="530924" text="镇康县" leaf="true"/>
+      <item key="530925" text="双江拉祜族佤族布朗族傣族自治县" leaf="true"/>
+      <item key="530926" text="耿马傣族佤族自治县" leaf="true"/>
+      <item key="530927" text="沧源佤族自治县" leaf="true"/>
+    </item>
+    <item key="5326" text="文山壮族苗族自治州" leaf="false">
+      <item key="532621" text="文山县" leaf="true"/>
+      <item key="532622" text="砚山县" leaf="true"/>
+      <item key="532623" text="西畴县" leaf="true"/>
+      <item key="532624" text="麻栗坡县" leaf="true"/>
+      <item key="532625" text="马关县" leaf="true"/>
+      <item key="532626" text="丘北县" leaf="true"/>
+      <item key="532627" text="广南县" leaf="true"/>
+      <item key="532628" text="富宁县" leaf="true"/>
+    </item>
+    <item key="5331" text="德宏傣族景颇族自治州" leaf="false">
+      <item key="533102" text="瑞丽市" leaf="true"/>
+      <item key="533103" text="潞西市" leaf="true"/>
+      <item key="533122" text="梁河县" leaf="true"/>
+      <item key="533123" text="盈江县" leaf="true"/>
+      <item key="533124" text="陇川县" leaf="true"/>
+    </item>
+    <item key="5301" text="昆明市" leaf="false">
+      <item key="530102" text="五华区" leaf="true"/>
+      <item key="530103" text="盘龙区" leaf="true"/>
+      <item key="530112" text="西山区" leaf="true"/>
+      <item key="530121" text="呈贡县" leaf="true"/>
+      <item key="530124" text="富民县" leaf="true"/>
+      <item key="530126" text="石林彝族自治县" leaf="true"/>
+      <item key="530128" text="禄劝彝族苗族自治县" leaf="true"/>
+      <item key="530181" text="安宁市" leaf="true"/>
+      <item key="530111" text="官渡区" leaf="true"/>
+      <item key="530113" text="东川区" leaf="true"/>
+      <item key="530122" text="晋宁县" leaf="true"/>
+      <item key="530125" text="宜良县" leaf="true"/>
+      <item key="530127" text="嵩明县" leaf="true"/>
+      <item key="530129" text="寻甸回族彝族自治县" leaf="true"/>
+    </item>
+    <item key="5304" text="玉溪市" leaf="false">
+      <item key="530421" text="江川县" leaf="true"/>
+      <item key="530423" text="通海县" leaf="true"/>
+      <item key="530425" text="易门县" leaf="true"/>
+      <item key="530427" text="新平彝族傣族自治县" leaf="true"/>
+      <item key="530428" text="元江哈尼族彝族傣族自治县" leaf="true"/>
+      <item key="530402" text="红塔区" leaf="true"/>
+      <item key="530422" text="澄江县" leaf="true"/>
+      <item key="530424" text="华宁县" leaf="true"/>
+      <item key="530426" text="峨山彝族自治县" leaf="true"/>
+    </item>
+    <item key="5306" text="昭通市" leaf="false">
+      <item key="530602" text="昭阳区" leaf="true"/>
+      <item key="530622" text="巧家县" leaf="true"/>
+      <item key="530624" text="大关县" leaf="true"/>
+      <item key="530626" text="绥江县" leaf="true"/>
+      <item key="530628" text="彝良县" leaf="true"/>
+      <item key="530630" text="水富县" leaf="true"/>
+      <item key="530621" text="鲁甸县" leaf="true"/>
+      <item key="530623" text="盐津县" leaf="true"/>
+      <item key="530625" text="永善县" leaf="true"/>
+      <item key="530627" text="镇雄县" leaf="true"/>
+      <item key="530629" text="威信县" leaf="true"/>
+    </item>
+    <item key="5308" text="普洱市" leaf="false">
+      <item key="530802" text="思茅区" leaf="true"/>
+      <item key="530821" text="宁洱哈尼族彝族自治县" leaf="true"/>
+      <item key="530823" text="景东彝族自治县" leaf="true"/>
+      <item key="530824" text="景谷傣族彝族自治县" leaf="true"/>
+      <item key="530826" text="江城哈尼族彝族自治县" leaf="true"/>
+      <item key="530827" text="孟连傣族拉祜族佤族自治县" leaf="true"/>
+      <item key="530828" text="澜沧拉祜族自治县" leaf="true"/>
+      <item key="530829" text="西盟佤族自治县" leaf="true"/>
+      <item key="530822" text="墨江哈尼族自治县" leaf="true"/>
+      <item key="530825" text="镇沅彝族哈尼族拉祜族自治县" leaf="true"/>
+    </item>
+  </item>
+  <item key="44" text="广东省" leaf="false">
+    <item key="4405" text="汕头市" leaf="false">
+      <item key="440511" text="金平区" leaf="true"/>
+      <item key="440513" text="潮阳区" leaf="true"/>
+      <item key="440515" text="澄海区" leaf="true"/>
+      <item key="440507" text="龙湖区" leaf="true"/>
+      <item key="440512" text="濠江区" leaf="true"/>
+      <item key="440514" text="潮南区" leaf="true"/>
+      <item key="440523" text="南澳县" leaf="true"/>
+    </item>
+    <item key="4407" text="江门市" leaf="false">
+      <item key="440704" text="江海区" leaf="true"/>
+      <item key="440781" text="台山市" leaf="true"/>
+      <item key="440784" text="鹤山市" leaf="true"/>
+      <item key="440703" text="蓬江区" leaf="true"/>
+      <item key="440705" text="新会区" leaf="true"/>
+      <item key="440783" text="开平市" leaf="true"/>
+      <item key="440785" text="恩平市" leaf="true"/>
+    </item>
+    <item key="4409" text="茂名市" leaf="false">
+      <item key="440903" text="茂港区" leaf="true"/>
+      <item key="440981" text="高州市" leaf="true"/>
+      <item key="440983" text="信宜市" leaf="true"/>
+      <item key="440902" text="茂南区" leaf="true"/>
+      <item key="440923" text="电白县" leaf="true"/>
+      <item key="440982" text="化州市" leaf="true"/>
+    </item>
+    <item key="4414" text="梅州市" leaf="false">
+      <item key="441402" text="梅江区" leaf="true"/>
+      <item key="441422" text="大埔县" leaf="true"/>
+      <item key="441424" text="五华县" leaf="true"/>
+      <item key="441427" text="蕉岭县" leaf="true"/>
+      <item key="441421" text="梅县" leaf="true"/>
+      <item key="441423" text="丰顺县" leaf="true"/>
+      <item key="441426" text="平远县" leaf="true"/>
+      <item key="441481" text="兴宁市" leaf="true"/>
+    </item>
+    <item key="4416" text="河源市" leaf="false">
+      <item key="441602" text="源城区" leaf="true"/>
+      <item key="441622" text="龙川县" leaf="true"/>
+      <item key="441624" text="和平县" leaf="true"/>
+      <item key="441621" text="紫金县" leaf="true"/>
+      <item key="441623" text="连平县" leaf="true"/>
+      <item key="441625" text="东源县" leaf="true"/>
+    </item>
+    <item key="4418" text="清远市" leaf="false">
+      <item key="441802" text="清城区" leaf="true"/>
+      <item key="441823" text="阳山县" leaf="true"/>
+      <item key="441826" text="连南瑶族自治县" leaf="true"/>
+      <item key="441827" text="清新县" leaf="true"/>
+      <item key="441881" text="英德市" leaf="true"/>
+      <item key="441821" text="佛冈县" leaf="true"/>
+      <item key="441825" text="连山壮族瑶族自治县" leaf="true"/>
+      <item key="441882" text="连州市" leaf="true"/>
+    </item>
+    <item key="4420" text="中山市" leaf="true"/>
+    <item key="4452" text="揭阳市" leaf="false">
+      <item key="445221" text="揭东县" leaf="true"/>
+      <item key="445224" text="惠来县" leaf="true"/>
+      <item key="445281" text="普宁市" leaf="true"/>
+      <item key="445202" text="榕城区" leaf="true"/>
+      <item key="445222" text="揭西县" leaf="true"/>
+    </item>
+    <item key="4402" text="韶关市" leaf="false">
+      <item key="440204" text="浈江区" leaf="true"/>
+      <item key="440222" text="始兴县" leaf="true"/>
+      <item key="440229" text="翁源县" leaf="true"/>
+      <item key="440233" text="新丰县" leaf="true"/>
+      <item key="440282" text="南雄市" leaf="true"/>
+      <item key="440203" text="武江区" leaf="true"/>
+      <item key="440205" text="曲江区" leaf="true"/>
+      <item key="440224" text="仁化县" leaf="true"/>
+      <item key="440232" text="乳源瑶族自治县" leaf="true"/>
+      <item key="440281" text="乐昌市" leaf="true"/>
+    </item>
+    <item key="4404" text="珠海市" leaf="false">
+      <item key="440402" text="香洲区" leaf="true"/>
+      <item key="440404" text="金湾区" leaf="true"/>
+      <item key="440403" text="斗门区" leaf="true"/>
+    </item>
+    <item key="4406" text="佛山市" leaf="false">
+      <item key="440604" text="禅城区" leaf="true"/>
+      <item key="440606" text="顺德区" leaf="true"/>
+      <item key="440608" text="高明区" leaf="true"/>
+      <item key="440605" text="南海区" leaf="true"/>
+      <item key="440607" text="三水区" leaf="true"/>
+    </item>
+    <item key="4408" text="湛江市" leaf="false">
+      <item key="440802" text="赤坎区" leaf="true"/>
+      <item key="440804" text="坡头区" leaf="true"/>
+      <item key="440823" text="遂溪县" leaf="true"/>
+      <item key="440881" text="廉江市" leaf="true"/>
+      <item key="440883" text="吴川市" leaf="true"/>
+      <item key="440803" text="霞山区" leaf="true"/>
+      <item key="440811" text="麻章区" leaf="true"/>
+      <item key="440825" text="徐闻县" leaf="true"/>
+      <item key="440882" text="雷州市" leaf="true"/>
+    </item>
+    <item key="4412" text="肇庆市" leaf="false">
+      <item key="441203" text="鼎湖区" leaf="true"/>
+      <item key="441224" text="怀集县" leaf="true"/>
+      <item key="441226" text="德庆县" leaf="true"/>
+      <item key="441284" text="四会市" leaf="true"/>
+      <item key="441202" text="端州区" leaf="true"/>
+      <item key="441223" text="广宁县" leaf="true"/>
+      <item key="441225" text="封开县" leaf="true"/>
+      <item key="441283" text="高要市" leaf="true"/>
+    </item>
+    <item key="4413" text="惠州市" leaf="false">
+      <item key="441303" text="惠阳区" leaf="true"/>
+      <item key="441323" text="惠东县" leaf="true"/>
+      <item key="441302" text="惠城区" leaf="true"/>
+      <item key="441322" text="博罗县" leaf="true"/>
+      <item key="441324" text="龙门县" leaf="true"/>
+    </item>
+    <item key="4415" text="汕尾市" leaf="false">
+      <item key="441502" text="城区" leaf="true"/>
+      <item key="441523" text="陆河县" leaf="true"/>
+      <item key="441521" text="海丰县" leaf="true"/>
+      <item key="441581" text="陆丰市" leaf="true"/>
+    </item>
+    <item key="4417" text="阳江市" leaf="false">
+      <item key="441702" text="江城区" leaf="true"/>
+      <item key="441723" text="阳东县" leaf="true"/>
+      <item key="441721" text="阳西县" leaf="true"/>
+      <item key="441781" text="阳春市" leaf="true"/>
+    </item>
+    <item key="4419" text="东莞市" leaf="true"/>
+    <item key="4451" text="潮州市" leaf="false">
+      <item key="445102" text="湘桥区" leaf="true"/>
+      <item key="445122" text="饶平县" leaf="true"/>
+      <item key="445121" text="潮安县" leaf="true"/>
+    </item>
+    <item key="4453" text="云浮市" leaf="false">
+      <item key="445302" text="云城区" leaf="true"/>
+      <item key="445321" text="新兴县" leaf="true"/>
+      <item key="445322" text="郁南县" leaf="true"/>
+      <item key="445323" text="云安县" leaf="true"/>
+      <item key="445381" text="罗定市" leaf="true"/>
+    </item>
+    <item key="4401" text="广州市" leaf="false">
+      <item key="440104" text="越秀区" leaf="true"/>
+      <item key="440106" text="天河区" leaf="true"/>
+      <item key="440112" text="黄埔区" leaf="true"/>
+      <item key="440114" text="花都区" leaf="true"/>
+      <item key="440116" text="萝岗区" leaf="true"/>
+      <item key="440184" text="从化市" leaf="true"/>
+      <item key="440103" text="荔湾区" leaf="true"/>
+      <item key="440105" text="海珠区" leaf="true"/>
+      <item key="440111" text="白云区" leaf="true"/>
+      <item key="440113" text="番禺区" leaf="true"/>
+      <item key="440115" text="南沙区" leaf="true"/>
+      <item key="440183" text="增城市" leaf="true"/>
+    </item>
+    <item key="4403" text="深圳市" leaf="false">
+      <item key="440304" text="福田区" leaf="true"/>
+      <item key="440306" text="宝安区" leaf="true"/>
+      <item key="440308" text="盐田区" leaf="true"/>
+      <item key="440303" text="罗湖区" leaf="true"/>
+      <item key="440305" text="南山区" leaf="true"/>
+      <item key="440307" text="龙岗区" leaf="true"/>
+    </item>
+  </item>
+</dic>
