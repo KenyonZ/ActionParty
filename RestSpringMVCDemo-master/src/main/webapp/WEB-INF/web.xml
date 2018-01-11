@@ -54,7 +54,7 @@
 		<filter-class>cn.edu.tju.rico.filter.CorsFilter</filter-class>
 		<init-param>
 			<param-name>allowOrigin</param-name>
-			<param-value>http://localhost:8081</param-value>
+			<param-value>*</param-value>
 		</init-param>
 		<init-param>
 			<param-name>allowMethods</param-name>
