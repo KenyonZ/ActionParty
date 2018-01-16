@@ -19,9 +19,10 @@ public class ActionController {
 	private ActionService actionService;
 	
 	
-	@RequestMapping(value = "/action", method = RequestMethod.POST, produces = "application/json", consumes = "application/json")
+	@RequestMapping(value = "/action", method = RequestMethod.POST)
 	@IgnoreSecurity
-	public void addAction(@RequestBody @Valid ActionInfo actioninfo) {
+	public ActionInfo addAction(@RequestBody @Valid ActionInfo actioninfo) {
 		actionService.addAction(actioninfo);
+		return actioninfo;
 	}
 }

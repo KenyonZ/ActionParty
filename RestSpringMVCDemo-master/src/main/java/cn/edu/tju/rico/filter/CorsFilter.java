@@ -59,32 +59,36 @@ public class CorsFilter implements Filter {
 			FilterChain chain) throws IOException, ServletException {
 		HttpServletRequest request = (HttpServletRequest) req;
 		HttpServletResponse response = (HttpServletResponse) res;
-		String currentOrigin = request.getHeader("Origin");
-		log.debug("currentOrigin : " + currentOrigin);
-		if (StringUtil.isNotEmpty(allowOrigin)) {
-			List<String> allowOriginList = Arrays
-					.asList(allowOrigin.split(","));
-			log.debug("allowOriginList : " + allowOrigin);
-			if (CollectionUtil.isNotEmpty(allowOriginList)) {
-				if (allowOriginList.contains(currentOrigin)) {
-					response.setHeader("Access-Control-Allow-Origin",
-							currentOrigin);
-				}
-			}
-		}
-		if (StringUtil.isNotEmpty(allowMethods)) {
-			response.setHeader("Access-Control-Allow-Methods", allowMethods);
-		}
-		if (StringUtil.isNotEmpty(allowCredentials)) {
-			response.setHeader("Access-Control-Allow-Credentials",
-					allowCredentials);
-		}
-		if (StringUtil.isNotEmpty(allowHeaders)) {
-			response.setHeader("Access-Control-Allow-Headers", allowHeaders);
-		}
-		if (StringUtil.isNotEmpty(exposeHeaders)) {
-			response.setHeader("Access-Control-Expose-Headers", exposeHeaders);
-		}
+//		String currentOrigin = request.getHeader("Origin");
+//		log.debug("currentOrigin : " + currentOrigin);
+//		if (StringUtil.isNotEmpty(allowOrigin)) {
+//			List<String> allowOriginList = Arrays
+//					.asList(allowOrigin.split(","));
+//			log.debug("allowOriginList : " + allowOrigin);
+//			if (CollectionUtil.isNotEmpty(allowOriginList)) {
+//				if (allowOriginList.contains(currentOrigin)) {
+//					response.setHeader("Access-Control-Allow-Origin",
+//							currentOrigin);
+//				}
+//			}
+//		}
+//		if (StringUtil.isNotEmpty(allowMethods)) {
+//			response.setHeader("Access-Control-Allow-Methods", allowMethods);
+//		}
+//		if (StringUtil.isNotEmpty(allowCredentials)) {
+//			response.setHeader("Access-Control-Allow-Credentials",
+//					allowCredentials);
+//		}
+//		if (StringUtil.isNotEmpty(allowHeaders)) {
+//			response.setHeader("Access-Control-Allow-Headers", allowHeaders);
+//		}
+//		if (StringUtil.isNotEmpty(exposeHeaders)) {
+//			response.setHeader("Access-Control-Expose-Headers", exposeHeaders);
+//		}
+		
+		
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        response.setHeader("Access-Control-Allow-Headers", "content-type,X-Access-Token");
 		chain.doFilter(req, res);
 	}
 
