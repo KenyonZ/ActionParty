@@ -50,7 +50,8 @@ public class UploadUtil {
                               
                             String newFileName =new Date().getTime() +fileName;//不改图片名字  
                               
-                            String newPath = path + "/" + newFileName; //文件处理文件上传的路径  
+                            String newPath = path+"/"+ newFileName; //文件处理文件上传的路径  
+//                            String newPath = "/BackstageShoppingWebsite/images/addCircleimage/" + newFileName; //文件处理文件上传的路径  
                             File newFile = new File(newPath);  
                             if(!newFile.exists()){
                             	File dir = new File(newFile.getParent());  
@@ -62,7 +63,7 @@ public class UploadUtil {
                             //filepart.getName()  得到 request 要接收的参数的名字  
                             map.put("fileName",fileName);
                             map.put(filepart.getName(), newFileName);//把文件信息保存到map中  
-                            map.put("newFile", newFile.toString()); 
+                            map.put("newFile", "/BackstageShoppingWebsite/images/addCircleimage/" + newFileName); 
                             map.put("fileSize", (long)filepart.toString().length());
                         } else {  
                             map.put("geshi", "geshi");  

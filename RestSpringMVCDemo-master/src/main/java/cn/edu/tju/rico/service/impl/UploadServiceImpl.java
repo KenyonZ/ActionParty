@@ -22,4 +22,9 @@ public class UploadServiceImpl implements UploadService{
 		fileMapper.saveUser(baseFile);
 	}
 
+	@Override
+	public String getFilePath(int fileId) {
+		return fileMapper.getFilePath(fileId);
+	}
+
 }

@@ -1,5 +1,8 @@
 package cn.edu.tju.rico.service.impl;
 
+import java.util.List;
+import java.util.Map;
+
 import javax.annotation.Resource;
 
 import org.springframework.stereotype.Component;
@@ -20,6 +23,9 @@ public class ActionServiceImpl implements ActionService{
 	public void addAction(ActionInfo actioninfo) {
 		actionMapper.saveAction(actioninfo);
 		
+	}
+	public List<Map<String, Object>> getPaneData(String type) {
+		return actionMapper.getActionData(type);
 	}
 
 }

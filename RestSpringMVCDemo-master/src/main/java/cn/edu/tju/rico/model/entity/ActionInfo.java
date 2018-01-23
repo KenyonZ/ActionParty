@@ -11,6 +11,9 @@ public class ActionInfo {
 	private String address;
 	private String content;
 	private Date actionTime;
+	private int orderCount;
+	private int remain;
+	private double price;
 	private String phoneNo;
 	private String type;
 	private String picId;
@@ -93,6 +96,24 @@ public class ActionInfo {
 	}
 	public void setStatus(String status) {
 		this.status = status;
+	}
+	public int getOrderCount() {
+		return orderCount;
+	}
+	public void setOrderCount(int orderCount) {
+		this.orderCount = orderCount;
+	}
+	public int getRemain() {
+		return remain;
+	}
+	public void setRemain(int remain) {
+		this.remain = remain;
+	}
+	public double getPrice() {
+		return price;
+	}
+	public void setPrice(double price) {
+		this.price = price;
 	}
 	
 }

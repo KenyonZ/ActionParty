@@ -1,14 +1,19 @@
 package cn.edu.tju.rico.controller;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Date;
 import java.util.Map;
 
 import javax.annotation.Resource;
+import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import cn.edu.tju.rico.annotation.IgnoreSecurity;
@@ -41,7 +46,14 @@ public class UploadController {
           bf.setUploadTime(new Date());
           bf.setFileSize(new Long((long)map.get("fileSize")));
           uploadService.addFile(bf);
+          map.put("fileId", bf.getFileId());
         return map;  
+    }
+	
+	@RequestMapping(value = "/getpic/{fileId}",method = RequestMethod.GET)
+	@IgnoreSecurity
+	public String getPics (@PathVariable int fileId) throws IOException {  
+		return uploadService.getFilePath(fileId);
     }  
 	
 
